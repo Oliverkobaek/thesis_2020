@@ -1,8 +1,8 @@
 ﻿CVR-nummer;Startdato;Ophørsdato;Navn;Adresse;Postnr.;By;Virksomhedsform;Hovedbranche;Telefonnr;Email;Reklamebeskyttet
 36706333;07.04.2015;;Det Gamle Apotek A/S ;Hydrovej 5;6270;Tønder;Aktieselskab;464930 Engroshandel med kufferter og lædervarer;;;Nej
-31896738;07.01.2009;;CAFÉ BLÅGÅRDS APOTEK ApS ;Blågårdsgade 20;2200;København;Anpartsselskab;563000 Cafeér, værtshuse, diskoteker mv.;35372442;bestyrer@kroteket.dk;Nej
+31896738;07.01.2009;;CAFÉ BLÅGÅRDS APOTEK ApS ;Blågårdsgade 20;2200;København;Anpartsselskab;563000 Cafeér  værtshuse  diskoteker mv.;35372442;bestyrer@kroteket.dk;Nej
 28304641;22.12.2004;;DET BETTE APOTEK ApS ;Tolstrupvej 102;9700;Brønderslev;Anpartsselskab;999999 Uoplyst;;;Nej
-34455287;29.02.2012;;SCT. PAULS APOTEK ApS ;Jægergårdsgade 76;8000;Aarhus;Anpartsselskab;563000 Cafeér, værtshuse, diskoteker mv.;;;Nej
+34455287;29.02.2012;;SCT. PAULS APOTEK ApS ;Jægergårdsgade 76;8000;Aarhus;Anpartsselskab;563000 Cafeér  værtshuse  diskoteker mv.;;;Nej
 71199428;26.07.1982;;RESTAURANT DET LILLE APOTEK ApS ;c/o Ingemann Pedersen -   Skættekæret 9  -  Øverød;2840;Holte;Anpartsselskab;561010 Restauranter;;;Nej
 33044380;01.06.2011;;CAFÉ BLÅGÅRDS APOTEK VED HANS NIELSEN'S FOND ;Blågårdsgade 20 -  st.;2200;København;Erhvervsdrivende fond;999999 Uoplyst;;;Nej
 35448934;01.09.2017;;Toftlund Apotek ;Søndergade 2;6520;Toftlund;Anden udenlandsk virksomhed;477300 Apoteker;74831333;toftlund@apoteket.dk;Nej
@@ -39,7 +39,7 @@
 39567644;15.05.2018;;Skovlunde Apotek ;Torvestrædet 2;2740;Skovlunde;Enkeltmandsvirksomhed;477300 Apoteker;;jacob@lenau.dk;Ja
 27346626;01.07.2012;;Charlottenlund Apotek ;Lindegårdsvej 51;2920;Charlottenlund;Enkeltmandsvirksomhed;477300 Apoteker;39641957;hannerothe@apoteket.dk;Ja
 32730566;04.09.2018;;Taastrup Apotek ;Taastrup Hovedgade 60;2630;Taastrup;Enkeltmandsvirksomhed;477300 Apoteker;23801099;bgzar@yahoo.dk;Ja
-39801957;22.08.2018;;Det Lille Apotek ;Godthåbsvej 19;9230;Svenstrup;Enkeltmandsvirksomhed;563000 Cafeér, værtshuse, diskoteker mv.;;Lonesvendsen63@gmail.com;Ja
+39801957;22.08.2018;;Det Lille Apotek ;Godthåbsvej 19;9230;Svenstrup;Enkeltmandsvirksomhed;563000 Cafeér  værtshuse  diskoteker mv.;;Lonesvendsen63@gmail.com;Ja
 40649824;01.07.2019;;Hillerød Krone Apotek ;Helsingørsgade 10;3400;Hillerød;Enkeltmandsvirksomhed;477300 Apoteker;;eirheim@mail.dk;Ja
 32745156;01.07.2010;;Frederiksberg Apotek/ Gammel Kongevej Apotek v/Lone Aagaard ;Gammel Kongevej 162;1850;Frederiksberg;Enkeltmandsvirksomhed;477300 Apoteker;33212639;frberg@apoteket.dk;Nej
 35188932;01.12.2013;;Nykøbing Apotek og Holbæk Elefant Apotek v/Trine Frost ;Algade 20;4500;Nykøbing;Enkeltmandsvirksomhed;477300 Apoteker;59910085;;Nej
@@ -139,7 +139,7 @@
 27000894;01.03.2003;;Nørre-Nebel Apotek v/P E Nielsen ;Bredgade 12;6830;Nørre;Enkeltmandsvirksomhed;477300 Apoteker;75288366;pen@apoteket.dk;Ja
 26358698;01.01.2002;;Tinglev Apotek v/Anna M Bucka ;Jernbanegade 1;6360;Tinglev;Enkeltmandsvirksomhed;477300 Apoteker;;;Nej
 31407214;01.07.2008;;Vejgaard Apotek Aalborg v/Rinette Rohde ;Hadsundvej 33B;9000;Aalborg;Enkeltmandsvirksomhed;477300 Apoteker;98136580;vejgaard@apoteket.dk;Ja
-40655689;11.07.2019;;Det Lille Apotek v/Vibeke Nielsen ;Vestergade 17;7600;Struer;Enkeltmandsvirksomhed;563000 Cafeér, værtshuse, diskoteker mv.;;detlilleapotek7600@gmail.com;Ja
+40655689;11.07.2019;;Det Lille Apotek v/Vibeke Nielsen ;Vestergade 17;7600;Struer;Enkeltmandsvirksomhed;563000 Cafeér  værtshuse  diskoteker mv.;;detlilleapotek7600@gmail.com;Ja
 41613912;24.08.2020;;Maribo Apotek v/Louise I. Vorbeck ;Vestergade 1;4930;Maribo;Enkeltmandsvirksomhed;477300 Apoteker;;louise_ingerslev@hotmail.com;Ja
 34783454;01.07.2013;;Århus Løve Apotek v/Marianne Schmidt ;Store Torv 5;8000;Aarhus;Enkeltmandsvirksomhed;477300 Apoteker;86120022;arhloeve@apotek.dk;Nej
 33993749;01.01.2012;;Hadsund Apotek v/Lars Lundager Walmar ;Storegade 23;9560;Hadsund;Enkeltmandsvirksomhed;477300 Apoteker;98571511;hadsund@apoteket.dk;Ja
@@ -153,7 +153,7 @@
 34424225;01.06.2012;;Vejle Løve Apotek v/Claus Holm Slot ;Søndergade 29;7100;Vejle;Enkeltmandsvirksomhed;477300 Apoteker;75828322;vejleloeve@apoteket.dk;Ja
 28413297;01.04.2005;;Skibby Apotek v/ Ole Rønnow Hartmann Witek ;Hovedgaden 40;4050;Skibby;Enkeltmandsvirksomhed;477300 Apoteker;;;Nej
 35423893;20.03.2014;;Hvalsø Apotek v/Charlotte Dalsgaaard Wiberg-Jørgensen ;Roskildevej 4;4330;Hvalsø;Enkeltmandsvirksomhed;477300 Apoteker;46408006;;Nej
-29354758;01.07.2017;;Det lille Apotek v/ Mette L Vigsbo ;Dybekær 1;4281;Gørlev;Enkeltmandsvirksomhed;563000 Cafeér, værtshuse, diskoteker mv.;58856810;;Ja
+29354758;01.07.2017;;Det lille Apotek v/ Mette L Vigsbo ;Dybekær 1;4281;Gørlev;Enkeltmandsvirksomhed;563000 Cafeér  værtshuse  diskoteker mv.;58856810;;Ja
 19693171;01.02.1997;;ORDRUP APOTEK V/LISE EBERHOLST ;Ordrupvej 80;2920;Charlottenlund;Enkeltmandsvirksomhed;477300 Apoteker;39641611;ordrup@apoteket.dk;Ja
 32855032;01.06.2010;;Vejlby Apotek v/Cesare Cota ;Vejlbygade 16A;8240;Risskov;Enkeltmandsvirksomhed;477300 Apoteker;87429400;vejlby@apoteket.dk;Nej
 27034977;01.03.2003;;Tommerup Apotek v/Yvonne Hummelmose ;Tallerupvej 15  -  Tommerup St;5690;Tommerup;Enkeltmandsvirksomhed;477300 Apoteker;;;Ja
@@ -196,7 +196,7 @@
 21665673;01.03.2008;;Assens og Haarby Apotek v/Søren Gøbel ;Østergade 35;5610;Assens;Enkeltmandsvirksomhed;477300 Apoteker;64711035;;Nej
 20731540;01.04.1998;;Aarhus City Vest Apotek v/Helle Kristensen Baunmøller ;c/o City Vest -   Gudrunsvej 7 -  st. 129.;8220;Brabrand;Enkeltmandsvirksomhed;477300 Apoteker;86251533;;Nej
 16198331;01.01.1987;;OXFORD ALLE APOTEK V/HANS-ERIK HOLM PEDERSEN ;Amagerbrogade 204B;2300;København;Enkeltmandsvirksomhed;477300 Apoteker;32559804;apotek.oxford@apoteket.dk;Nej
-26221404;01.11.2001;;Sct. Hans Apotek, Odense/ Charlotte Brun Sørensen ;Skibhusvej 66;5000;Odense;Enkeltmandsvirksomhed;477300 Apoteker;66121128;;Nej
+26221404;01.11.2001;;Sct. Hans Apotek  Odense/ Charlotte Brun Sørensen ;Skibhusvej 66;5000;Odense;Enkeltmandsvirksomhed;477300 Apoteker;66121128;;Nej
 17888870;01.09.1994;;ULDUM APOTEK V/DANJI V M BHANDERI ;Søndergade 18;7171;Uldum;Enkeltmandsvirksomhed;477300 Apoteker;75678003;;Nej
 30306562;01.04.2007;;Herning Løve Apotek v/Henrik Krog Jensen ;Bredgade 45;7400;Herning;Enkeltmandsvirksomhed;477300 Apoteker;97124286;;Nej
 10038839;24.02.1986;;PHARMAKON A/S ;Milnersvej 42;3400;Hillerød;Aktieselskab;551020 Konferencecentre og kursusejendomme;48206000;;Nej
@@ -212,13 +212,13 @@
 39706296;05.07.2018;;Restaurant Det Gamle Apotek I/S v/Michelle og Mark Bøgh Sørensen ;Apotekergade 1A -  st.;6100;Haderslev;Interessentskab;561010 Restauranter;;larius@live.dk;Ja
 40644849;04.07.2019;;Cafe Apotekerhaven ApS ;c/o Rolf Vagn Jørgensen -   Plantagen 22;5500;Middelfart;Anpartsselskab;561010 Restauranter;;;Nej
 26103363;27.06.2001;;BETON-APOTEKET ApS ;Hørskætten 10  -  Klovtofte;2630;Taastrup;Anpartsselskab;469000 Ikke-specialiseret engroshandel;36341900;pg@beton-apoteket.dk;Ja
-74883516;27.04.1984;;ERIK SCHMØLKER ApS ;c/o Erik Schmølker -   Rungsted Strandvej 68;2960;Rungsted;Anpartsselskab;649900 Anden finansiel formidling undtagen forsikring og pensionsforsikring, i.a.n.;20127997;erik@schmolker.com;Ja
-18218399;14.12.1994;;LÆGERNE APOTEKERSTRÆDE 6, STUEN ApS ;Apotekerstræde 6;4700;Næstved;Anpartsselskab;862100 Alment praktiserende læger;55721495;;Nej
+74883516;27.04.1984;;ERIK SCHMØLKER ApS ;c/o Erik Schmølker -   Rungsted Strandvej 68;2960;Rungsted;Anpartsselskab;649900 Anden finansiel formidling undtagen forsikring og pensionsforsikring  i.a.n.;20127997;erik@schmolker.com;Ja
+18218399;14.12.1994;;LÆGERNE APOTEKERSTRÆDE 6  STUEN ApS ;Apotekerstræde 6;4700;Næstved;Anpartsselskab;862100 Alment praktiserende læger;55721495;;Nej
 27448909;01.11.2003;;Det Gamle Apotek I/S v/ Gitte Bergmann & Niels Rossen ;Slagelsevej 14;4460;Snertinge;Interessentskab;889990 Andre sociale foranstaltninger uden institutionsophold i.a.n.;59446697;;Nej
 36905549;15.05.2015;;Apoteka ApS ;Ventrupvej 27;2670;Greve;Anpartsselskab;620200 Konsulentbistand vedrørende informationsteknologi;30320935;mgl@apoteka.dk;Ja
-40324577;28.02.2019;;Apoteksbloggers IVS ;c/o Wiberg-Hansen -   Strandlodsvej 25L;2300;København;Iværksætterselskab;204200 Fremstilling af parfume, hårshampoo, tandpasta mv.;60141749;kontakt@apoteksbloggers.dk;Ja
-36053941;28.07.2014;;A-APOTEKETS DOSISPAK P/S ;c/o A-apoteket -   Venlighedsvej 6;2970;Hørsholm;Kommanditaktieselskab/Partnerselskab;773900 Udlejning og leasing af andet materiel, udstyr og andre materielle aktiver i.a.n.;70207825;lhj@a-apoteket.dk;Nej
-21354600;16.10.1999;;DANMARKS APOTEKERFORENINGS JUBILÆUMSFOND ;c/o 30980 Newsec PAM Denmark A/S -   Lyngby Hovedgade 4;2800;Kongens;Erhvervsdrivende fond;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;45260102;bogholderi@newsec.dk;Ja
+40324577;28.02.2019;;Apoteksbloggers IVS ;c/o Wiberg-Hansen -   Strandlodsvej 25L;2300;København;Iværksætterselskab;204200 Fremstilling af parfume  hårshampoo  tandpasta mv.;60141749;kontakt@apoteksbloggers.dk;Ja
+36053941;28.07.2014;;A-APOTEKETS DOSISPAK P/S ;c/o A-apoteket -   Venlighedsvej 6;2970;Hørsholm;Kommanditaktieselskab/Partnerselskab;773900 Udlejning og leasing af andet materiel  udstyr og andre materielle aktiver i.a.n.;70207825;lhj@a-apoteket.dk;Nej
+21354600;16.10.1999;;DANMARKS APOTEKERFORENINGS JUBILÆUMSFOND ;c/o 30980 Newsec PAM Denmark A/S -   Lyngby Hovedgade 4;2800;Kongens;Erhvervsdrivende fond;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;45260102;bogholderi@newsec.dk;Ja
 86559218;16.10.1999;;APOTEKER S.C. STRØYBERGS FOND TIL BEVARELSE AF JENS BANGS STENHUS ;c/o Advodan Aalborg A/S -   Mølleå 1 -  1.;9000;Aalborg;Erhvervsdrivende fond;682040 Udlejning af erhvervsejendomme;96313363;ejendomaalborg@advodan.dk;Nej
 20738006;10.09.1997;;K/S APOTEKERGADE 9. HADERSLEV ;Uraniavej 14 -  st.;1878;Frederiksberg;Kommanditselskab;682040 Udlejning af erhvervsejendomme;;;Nej
 27478700;20.11.2003;;APOTEKERNES A.M.B.A ;Mileparken 20E;2740;Skovlunde;Andelsselskab (-forening) med begrænset ansvar;464610 Engroshandel med medicinalvarer og sygeplejeartikler;45950330;info@apotekernes.dk;Ja
@@ -243,32 +243,32 @@
 19857638;26.02.1997;;BOYE'S LYS-REKLAMETRYK ApS ;Apotekervænget 37;4990;Sakskøbing;Anpartsselskab;181200 Anden trykning;31726631;reklame@31726631.dk;Ja
 35861270;27.05.2014;;KARKON ApS ;c/o Steen Holsteen Jessen -   Apotekervej 4;9230;Svenstrup;Anpartsselskab;791200 Rejsearrangører;40572232;karkon@mail.dk;Ja
 31497930;19.06.2008;;SPAR HORNSYLD A/S ;Apotekerbakken 4;8783;Hornsyld;Aktieselskab;471120 Supermarkeder;76687551;;Nej
-39451131;20.03.2018;;Brian Frimann, 438 Nørre Alslev ApS ;c/o REMA 1000 Nørre Alslev -   Apotekergade 3;4840;Nørre;Anpartsselskab;471130 Discountforretninger;;438@rema1000.dk;Ja
-32936326;18.05.2010;;Apo IT ApS ;Bavne Alle 25  -  Selling;8370;Hadsten;Anpartsselskab;479116 Detailhandel med tøj, sko, lædervarer, ure eller babyudstyr  via internet;21613520;info@apoit.dk;Nej
+39451131;20.03.2018;;Brian Frimann  438 Nørre Alslev ApS ;c/o REMA 1000 Nørre Alslev -   Apotekergade 3;4840;Nørre;Anpartsselskab;471130 Discountforretninger;;438@rema1000.dk;Ja
+32936326;18.05.2010;;Apo IT ApS ;Bavne Alle 25  -  Selling;8370;Hadsten;Anpartsselskab;479116 Detailhandel med tøj  sko  lædervarer  ure eller babyudstyr  via internet;21613520;info@apoit.dk;Nej
 29924171;28.09.2006;;JYSK ERHVERVSHANDEL ApS ;c/o Hesel Erhverv -   Rådhustorvet 4 -  4.;7100;Vejle;Anpartsselskab;999999 Uoplyst;;;Nej
 38305476;28.12.2016;;Living Yoga ApS ;Apotekerstræde 4 -  1.;4700;Næstved;Anpartsselskab;855100 Undervisning inden for sport og fritid;23813373;info@livingyoganaestved.dk;Nej
-38770152;03.07.2017;;Finn Fabricius, 905 Sakskøbing ApS ;c/o REMA 1000 Sakskøbing -   Apotekervænget 21;4990;Sakskøbing;Anpartsselskab;471130 Discountforretninger;60390905;905@rema1000.dk;Nej
+38770152;03.07.2017;;Finn Fabricius  905 Sakskøbing ApS ;c/o REMA 1000 Sakskøbing -   Apotekervænget 21;4990;Sakskøbing;Anpartsselskab;471130 Discountforretninger;60390905;905@rema1000.dk;Nej
 34584087;24.05.2012;;CANDELARIA HOLDING ApS ;c/o Miguel Kjeldgaard Candelaria -   Apotekerstræde 6 -  st. tv.;4700;Næstved;Anpartsselskab;999999 Uoplyst;;;Ja
 36067063;18.08.2014;;HUMANNER ApS ;Apotekerbakken 23A;8783;Hornsyld;Anpartsselskab;855900 Anden undervisning i.a.n.;;;Nej
 20851406;15.04.1998;;Apothekergaarden Ejendomme ApS ;Storegade 48;4780;Stege;Anpartsselskab;683110 Ejendomsmæglere mv.;28120441;;Ja
 29870217;01.01.2006;;Andelsboligforeningen Apotekervænget ;Apotekervænget 2 - 18;9370;Hals;Forening;682020 Private andelsboligforeninger;;;Nej
 25721632;01.02.2001;;Rådhus Apoteket i Slagelse ;Smedegade 6;4200;Slagelse;Enkeltmandsvirksomhed;477300 Apoteker;58521145;;Nej
 26753007;01.10.2002;;Jernbane Apoteket Randers v/Jeanette Abel ;Vestertorv 2;8900;Randers;Enkeltmandsvirksomhed;477300 Apoteker;86426399;;Nej
-37385697;19.01.2016;;Tarm, Skjern og Ølgod Apoteker ;Storegade 27;6880;Tarm;Enkeltmandsvirksomhed;477300 Apoteker;97371006;098LG@apoteket.dk;Ja
-33550650;01.05.2011;;Odense Apotekerne Bolbro, Ørnen, Tarup & Korup ;c/o Odense Apotekerne v R Jensen -   Vestergade 80;5000;Odense;Enkeltmandsvirksomhed;477300 Apoteker;66122970;282oe@apoteket.dk;Ja
+37385697;19.01.2016;;Tarm  Skjern og Ølgod Apoteker ;Storegade 27;6880;Tarm;Enkeltmandsvirksomhed;477300 Apoteker;97371006;098LG@apoteket.dk;Ja
+33550650;01.05.2011;;Odense Apotekerne Bolbro  Ørnen  Tarup & Korup ;c/o Odense Apotekerne v R Jensen -   Vestergade 80;5000;Odense;Enkeltmandsvirksomhed;477300 Apoteker;66122970;282oe@apoteket.dk;Ja
 16520276;01.12.1992;;PB apo-advice ;Hyldeholm 12;4000;Roskilde;Enkeltmandsvirksomhed;711290 Anden teknisk rådgivning;46323277;;Nej
 16899771;01.06.1993;;Udlejningsejendommen Ålbæk ;c/o Ole Jertrum -   Hjælmevej 22;9990;Skagen;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;98445202;jertrum@apoteket.dk;Nej
 61311211;01.02.1982;;Kyødale (Landbrug) v/Ole Bak ;Kyømarksvej 11;9240;Nibe;Enkeltmandsvirksomhed;015000 Blandet drift;98124166;ole-bak@apoteket.dk;Nej
-39415836;16.03.2018;;Apoteker Hans Clausen Schultz og hustrus mindelegat for unge håndværkere på Samsø fond ;c/o Lasse Bundgaard -   Storegade 2A;8305;Samsø;Fonde og andre selvejende institutioner;649900 Anden finansiel formidling undtagen forsikring og pensionsforsikring, i.a.n.;;maja@bagersaps.dk;Ja
+39415836;16.03.2018;;Apoteker Hans Clausen Schultz og hustrus mindelegat for unge håndværkere på Samsø fond ;c/o Lasse Bundgaard -   Storegade 2A;8305;Samsø;Fonde og andre selvejende institutioner;649900 Anden finansiel formidling undtagen forsikring og pensionsforsikring  i.a.n.;;maja@bagersaps.dk;Ja
 71733912;01.04.1983;;Udlejer Gravers Graversen ;Skovlyvej 14;9670;Løgstør;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;98673722;;Nej
-13915172;01.03.1990;;Betula v/Jens Overø ;Ulrikkenborg Alle 54;2800;Kgs.Lyngby;Enkeltmandsvirksomhed;773900 Udlejning og leasing af andet materiel, udstyr og andre materielle aktiver i.a.n.;45873123;;Nej
+13915172;01.03.1990;;Betula v/Jens Overø ;Ulrikkenborg Alle 54;2800;Kgs.Lyngby;Enkeltmandsvirksomhed;773900 Udlejning og leasing af andet materiel  udstyr og andre materielle aktiver i.a.n.;45873123;;Nej
 30033299;01.02.2007;;Løve Apoteket Randers v/Naser Balderlou Jensen ;Østervold 24;8900;Randers;Enkeltmandsvirksomhed;477300 Apoteker;86430011;011nj@apoteket.dk;Ja
 31824605;01.01.2009;;Løve Apoteket Lillebælt Løvbjerg v/Lene Landsgrav ;Strevelinsvej 11;7000;Fredericia;Enkeltmandsvirksomhed;477300 Apoteker;75923544;015FL@apoteket.dk;Ja
 27221386;01.08.2003;;Svane Apoteket Frederikshavn v/Steen Degn Holm ;Havnegade 2;9900;Frederikshavn;Enkeltmandsvirksomhed;477300 Apoteker;98421676;;Nej
 15293713;15.10.1968;;Lægerne Geels Plads ;Geels Plads 20 -  1.;2830;Virum;Interessentskab;862100 Alment praktiserende læger;45852380;lgp.virum@gmail.com;Nej
-11590004;01.01.1901;;APOTEKER P.C.N. FRIDERICHSENS LEGAT FOR BOTANISKE REJSER ;c/o Dansk Botanisk Forening -  Statens Naturhi -   Øster Voldgade 5 - 7;1350;København;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;;;Nej
+11590004;01.01.1901;;APOTEKER P.C.N. FRIDERICHSENS LEGAT FOR BOTANISKE REJSER ;c/o Dansk Botanisk Forening -  Statens Naturhi -   Øster Voldgade 5 - 7;1350;København;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;;;Nej
 32038506;01.06.2009;;Apoteket Rosen København v/Bent Halling Sørensen ;Tuborgvej 269;2400;København;Enkeltmandsvirksomhed;477300 Apoteker;35817500;;Nej
-11688306;01.01.1901;;Apoteker Victor C.A.Løffler og Hustru Helga Torp-Løffler m fl Mindefond ;c/o DANMARKS APOTEKERFORENING -   Bredgade 54;1260;København;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;33767600;;Nej
+11688306;01.01.1901;;Apoteker Victor C.A.Løffler og Hustru Helga Torp-Løffler m fl Mindefond ;c/o DANMARKS APOTEKERFORENING -   Bredgade 54;1260;København;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;33767600;;Nej
 88978315;27.03.1980;;Poul Brødsgaard ;Solvangen 16;4281;Gørlev;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;72168492;poul_b@mail.tele.dk;Nej
 25912179;16.02.2001;;Restaurant Frederik 2 v/Peter Madsen ;Adelgade 41;8660;Skanderborg;Enkeltmandsvirksomhed;472600 Tobaksforretninger;86520880;;Ja
 32909124;03.06.2010;;Ejerlejlighedsforeningen Apotekergården ;c/o Brian Ritz -   Nytorv 3F;8800;Viborg;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;40336694;efnytorv@gmail.com;Nej
@@ -276,10 +276,10 @@
 28236042;01.02.2005;;Tandlægerne Apotekergaarden v/Lene Søberg ;Vestergade 4;8000;Aarhus;Enkeltmandsvirksomhed;862300 Praktiserende tandlæger;;;Nej
 14958541;01.04.1991;;Bolbro Consult v/Lars Clemmensen ;Strandagervænget 24;7000;Fredericia;Enkeltmandsvirksomhed;711290 Anden teknisk rådgivning;66166382;Clemmensen@apoteket.dk;Nej
 33413033;01.05.2011;;Svane Apoteket Åbenrå v/Shahpour Sobhani ;c/o Aaberaa Svane Apotek v/Shahpour Sobhani -   Opnørplads 1 - 3;6200;Aabenraa;Enkeltmandsvirksomhed;477300 Apoteker;74622200;;Nej
-11588182;01.01.1901;;APOTEKER F.HOLMS OG HUSTRU MARIE FØDT SCHOUBOUES LEGAT ;c/o Kirstine Troldborg -   Maglevænget 13;2920;Charlottenlund;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;;;Nej
-19396843;23.12.1995;;APOTEKER DR PHARM VIGGO HELWEG- MIKKELSEN OG ANNIE HELWEG- MIKKELSEN'S LEGAT (FOND) ;c/o Steffen de Teilman Hald -   Parkvej 33;2830;Virum;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;45859540;hald@apoteket.dk;Nej
+11588182;01.01.1901;;APOTEKER F.HOLMS OG HUSTRU MARIE FØDT SCHOUBOUES LEGAT ;c/o Kirstine Troldborg -   Maglevænget 13;2920;Charlottenlund;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;;;Nej
+19396843;23.12.1995;;APOTEKER DR PHARM VIGGO HELWEG- MIKKELSEN OG ANNIE HELWEG- MIKKELSEN'S LEGAT (FOND) ;c/o Steffen de Teilman Hald -   Parkvej 33;2830;Virum;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;45859540;hald@apoteket.dk;Nej
 39495627;01.01.2018;;Andelsboligforeningen Apotekerhaven ;c/o Revision Limfjord -   Ved Fjorden 25;7600;Struer;Forening;682020 Private andelsboligforeninger;96177100;rp@revisionlimfjord.dk;Ja
-16195901;01.01.1991;;DANMARKS APOTEKERFORENINGS PERSONALEFOND ;c/o DANMARKS APOTEKERFORENING -   Bredgade 54;1260;København;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;33767600;;Nej
+16195901;01.01.1991;;DANMARKS APOTEKERFORENINGS PERSONALEFOND ;c/o DANMARKS APOTEKERFORENING -   Bredgade 54;1260;København;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;33767600;;Nej
 12869274;01.04.1989;;ApoPAN v/Poul Anker Nielsen ;Bispeengen 73;5270;Odense;Enkeltmandsvirksomhed;522120 Parkering og vejhjælp mv.;;poulankernielsen51@gmail.com;Nej
 38752111;29.06.2017;;Foreningen af Danske Online-Apoteker ;Bavne Alle 25;8370;Hadsten;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;;;Ja
 25712455;01.12.2000;;Apokon v/Nina Yde Søndergaard ;Lavendelvej 3;7700;Thisted;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;97925899;nina.yde@outlook.dk;Nej
@@ -292,7 +292,7 @@
 16907073;01.04.1993;;Hueset i Runddelen v/Merete Christensen ;Helgesvej 2;4000;Roskilde;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;46361222;;Nej
 11555888;01.09.1976;;Højer Apoteksejendom v/Jørgen Sandbjerg ;Nakskovvej 10;6000;Kolding;Enkeltmandsvirksomhed;477300 Apoteker;;sandbjerg@apoteket.dk;Nej
 31194946;01.04.2008;;Svane Apoteket Nykøbing Fl v/Betina Aastrup Hansen ;Slotsbryggen 1;4800;Nykøbing;Enkeltmandsvirksomhed;477300 Apoteker;54850622;;Ja
-11708382;01.01.1901;;APOTEKER J.B.MIKKELSENS OG HUSTRU KGL. TRANSLATRICE GUDRUN MIKKELSENS FARMACEUTISKE FOND ;C/O KU - Det Sundhedsvidenskabelige F... -   Blegdamsvej 3B;2200;København;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;;;Nej
+11708382;01.01.1901;;APOTEKER J.B.MIKKELSENS OG HUSTRU KGL. TRANSLATRICE GUDRUN MIKKELSENS FARMACEUTISKE FOND ;C/O KU - Det Sundhedsvidenskabelige F... -   Blegdamsvej 3B;2200;København;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;;;Nej
 26438209;01.05.2002;;Elefant Apoteket Holbæk vJens Ole Jakobsen ;Ahlgade 32;4300;Holbæk;Enkeltmandsvirksomhed;477300 Apoteker;59430138;;Ja
 25232178;01.04.2000;;Vikarduen ;Slettebjerget 111  -  Ny Hammersholt;3400;Hillerød;Enkeltmandsvirksomhed;477300 Apoteker;48240972;poul@duerne.dk;Nej
 39931885;01.01.2018;;Andelsboligforeningen Apotekergården ;c/o Grindsted Boligforening -   Nørregade 36;7200;Grindsted;Forening;682020 Private andelsboligforeninger;75323388;tdm@bovia.dk;Ja
@@ -300,7 +300,7 @@
 19076237;01.12.1995;;EJERFORENINGEN APOTEKERHAVEN ;c/o Anna Marie Handberg -   Normavej 14;7800;Skive;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;97512344;handberg@mail.tele.dk;Ja
 36779292;01.12.2015;;Apotekergaarden v/ Steffen Andersen ;Hejningevej 24;4200;Slagelse;Enkeltmandsvirksomhed;014200 Avl af andet kvæg og bøfler;;;Ja
 19124207;01.05.1996;;HM - Erhverv ;Søndre Strandvej 103;2791;Dragør;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;51883289;hanne.mouritsen@apoteket.dk;Nej
-34636206;01.01.2012;;Apoteker Christian P. Høygaards Familielegat ;c/o Forvaltningsinstituttet -   Toldbodgade 33 -  3.;1253;København;Øvrige virksomhedsformer;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;33691777;forv@forvaltningsinst.dk;Nej
+34636206;01.01.2012;;Apoteker Christian P. Høygaards Familielegat ;c/o Forvaltningsinstituttet -   Toldbodgade 33 -  3.;1253;København;Øvrige virksomhedsformer;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;33691777;forv@forvaltningsinst.dk;Nej
 17515241;01.02.1994;;Ingeborg Blak ;Jasminparken 20;6760;Ribe;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;;;Nej
 29598894;11.07.2006;;Thyholm Egnsmuseum Apotekergården ;c/o Per Overgaard Bach -   Gl Færgevej 5 -  1. th.  -  Oddesund Syd;7600;Struer;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;20415536;2old4y@mail.dk;Ja
 30012526;01.01.2006;;AB Apotekerhaven ;c/o Revisor Ole Traberg -   Vibevej 7;4720;Præstø;Forening;682020 Private andelsboligforeninger;;ole.traberg@gmail.com;Nej
@@ -318,8 +318,8 @@
 31137829;01.03.2008;;Løve Apoteket Horsens v/Vibeke Dengsø Toft-Petersen ;Nørretorv 2;8700;Horsens;Enkeltmandsvirksomhed;477300 Apoteker;75628011;horslove@apoteket.dk;Nej
 24199401;01.01.1993;;APOTEKER NORDGÅRDS BØRNEHAVE ;Jeppe Aakjærsvej 18  -  Skive By;7800;Skive;Fonde og andre selvejende institutioner;889130 Børnehaver;99153550;;Nej
 65344211;01.06.1981;;Ejendommen Adelgade 8 v/Kaj Tipsmark ;Adelgade 8A;8400;Ebeltoft;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;86342501;;Nej
-17498738;01.08.1988;;APOTEKER GEORG HEGGE & FRØKEN RANDI HEGGES MINDELEGAT ;c/o PTU -   Fjeldhammervej 8;2610;Rødovre;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;;;Nej
-11977049;01.01.1901;;APOTEKER C A POULSENS LEGAT ;Rygårds Alle 1;2900;Hellerup;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;;;Nej
+17498738;01.08.1988;;APOTEKER GEORG HEGGE & FRØKEN RANDI HEGGES MINDELEGAT ;c/o PTU -   Fjeldhammervej 8;2610;Rødovre;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;;;Nej
+11977049;01.01.1901;;APOTEKER C A POULSENS LEGAT ;Rygårds Alle 1;2900;Hellerup;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;;;Nej
 20060794;01.08.1997;;Udlejningsejendommen Storegade 23 v/Lars Birkild Pedersen ;Parkallé 25;6880;Tarm;Enkeltmandsvirksomhed;477300 Apoteker;;lars@birkild.dk;Nej
 17107143;01.08.1993;;PIJ_VIKAR ;Uglegårdsparken 4;4990;Sakskøbing;Enkeltmandsvirksomhed;869090 Sundhedsvæsen i øvrigt i.a.n.;54707452;jilp@privat.dk;Ja
 41535377;22.07.2020;;Østjyllands Apotekerforening ;c/o Stefan Petursson -   Bytorvet 21B;8722;Hedensted;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;75891066;248sp@apoteket.dk;Ja
@@ -328,9 +328,9 @@
 74411819;01.03.1984;;Mary Lorenzen ;Østerøvej 79;5800;Nyborg;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;62552103;;Nej
 18853000;01.11.1995;;Apoteker Kirsten Valborg Skriver ;Rosenvænget 11;9520;Skørping;Enkeltmandsvirksomhed;477300 Apoteker;;;Nej
 14422447;01.09.1990;;Ebbe Werenberg ;Ellehaven 4;2950;Vedbæk;Enkeltmandsvirksomhed;477300 Apoteker;45830266;ebbe@apoteket.dk;Ja
-33724128;01.01.2010;;Andelsboligforeningen Apotekervænget, Kolding ;Strandvejen 34A;6000;Kolding;Forening;682020 Private andelsboligforeninger;75504777;hl@a-advokater.dk;Nej
+33724128;01.01.2010;;Andelsboligforeningen Apotekervænget  Kolding ;Strandvejen 34A;6000;Kolding;Forening;682020 Private andelsboligforeninger;75504777;hl@a-advokater.dk;Nej
 10441374;01.11.1986;;v/Erling Hugo Pedersen ;Bastholmen 31;3520;Farum;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;44952410;31@bastholmen.dk;Nej
-15267135;01.01.1901;;APOTEKER JOHAN TOLSTRUP OG HUSTRU EBBA TOLSTRUP FØDT JELSTRUP'S MINDEFOND, ;c/o ADVOKAT PETER LA COUR -   Hvidovrevej 406;2650;Hvidovre;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;;;Nej
+15267135;01.01.1901;;APOTEKER JOHAN TOLSTRUP OG HUSTRU EBBA TOLSTRUP FØDT JELSTRUP'S MINDEFOND  ;c/o ADVOKAT PETER LA COUR -   Hvidovrevej 406;2650;Hvidovre;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;;;Nej
 11403034;21.05.1987;;Andelsboligforeningen Apotekergården ;c/o Boligadministratorerne A/S -   Nyropsgade 13 -  1.;1602;København;Forening;682020 Private andelsboligforeninger;33381111;;Ja
 36094729;09.03.2020;;ejerforeningen apotekerstræde 6 ;c/o jannik yngve nielsen -   Apotekerstræde 6;8900;Randers;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;48422222;jannik.nielsen@live.dk;Nej
 27865038;01.04.2014;;MindXplore / Spirit Signs ;c/o Vinni Petersen -   Vestergade 6;7100;Vejle;Enkeltmandsvirksomhed;869090 Sundhedsvæsen i øvrigt i.a.n.;;vip72@hotmail.dk;Ja
@@ -341,24 +341,24 @@
 35424776;17.03.2014;;Neptun Apoteket Esbjerg v/Jakob Møller ;Stormgade 2;6700;Esbjerg;Enkeltmandsvirksomhed;477300 Apoteker;75128077;neptun@apoteket.dk;Nej
 29343098;01.04.2006;;Løve Apoteket Næstved v/Hans Jacob Hjelme ;Axeltorv 12;4700;Næstved;Enkeltmandsvirksomhed;477300 Apoteker;55720002;;Nej
 28047134;01.01.2005;;Lægerne i Apotekergården I/S ;Vestergade 1;4180;Sorø;Interessentskab;862100 Alment praktiserende læger;57862600;info@apotekergaardensoroe.dk;Nej
-11721230;01.01.1901;;Dansk Farmacihistorisk Fond ;c/o Pharmakon A/S -   Milnersvej 42;3400;Hillerød;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;;;Nej
+11721230;01.01.1901;;Dansk Farmacihistorisk Fond ;c/o Pharmakon A/S -   Milnersvej 42;3400;Hillerød;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;;;Nej
 26459540;01.05.2002;;Jernbane Apoteket Sønderborg v/Anna Grethe Munk Finmand ;Jernbanegade 10;6400;Sønderborg;Enkeltmandsvirksomhed;477300 Apoteker;74423502;;Nej
 32028888;10.06.2009;;C'est la Vibe ;Ydunsgade 5 -  st.;2200;København;Enkeltmandsvirksomhed;551020 Konferencecentre og kursusejendomme;51318555;thomas_vibe@me.com;Nej
 28411588;01.04.2005;;Grøndals Apoteket Vanløse V/Khosrov Aslan Asghari ;Godthåbsvej 187;2720;Vanløse;Enkeltmandsvirksomhed;477300 Apoteker;38860202;334pp@apoteket.dk;Nej
-38740636;23.06.2017;;Apoteker Hans Clausen Schultz og hustrus mindelegat for Fole sogn - fond ;Gåskærgade 26;6100;Haderslev;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;74340004;su@haderslev.dk;Ja
-39851407;11.09.2018;;Ejerforeningen Apotekerhaven, 9575 Terndrup ;c/o Kurt Rasmussen -   Højdedraget 107;9530;Støvring;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;98374919;kr@kurt-rasmussen.dk;Nej
+38740636;23.06.2017;;Apoteker Hans Clausen Schultz og hustrus mindelegat for Fole sogn - fond ;Gåskærgade 26;6100;Haderslev;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;74340004;su@haderslev.dk;Ja
+39851407;11.09.2018;;Ejerforeningen Apotekerhaven  9575 Terndrup ;c/o Kurt Rasmussen -   Højdedraget 107;9530;Støvring;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;98374919;kr@kurt-rasmussen.dk;Nej
 69390617;01.09.1982;;A/B APOTEKERGÅRDEN ;c/o 61209 Newsec PAM Denmark A/S -   Lyngby Hovedgade 4;2800;Kongens;Forening;682020 Private andelsboligforeninger;45260102;bogholderi@newsec.dk;Ja
-21991716;01.01.1970;;APOTEKER AF AALBORG CARL OTTO NIELSENS MINDELEGAT ;c/o Adv. Thyregod & Schaumburg -   Hammerensgade 6 -  2.;1267;København;Fonde og andre selvejende institutioner;649900 Anden finansiel formidling undtagen forsikring og pensionsforsikring, i.a.n.;;;Ja
+21991716;01.01.1970;;APOTEKER AF AALBORG CARL OTTO NIELSENS MINDELEGAT ;c/o Adv. Thyregod & Schaumburg -   Hammerensgade 6 -  2.;1267;København;Fonde og andre selvejende institutioner;649900 Anden finansiel formidling undtagen forsikring og pensionsforsikring  i.a.n.;;;Ja
 25462645;01.08.2014;;Løve Apoteket Skive ;Posthustorvet 1A;7800;Skive;Enkeltmandsvirksomhed;477300 Apoteker;97524166;;Nej
 37109576;02.12.2019;;Aabybro apoteks personaleforening ;Østergade 36;9440;Aabybro;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;98244285;aabybro@apoteket.dk;Ja
 34115478;01.02.2012;;MG Haderslev v/ Jette Sorgenfri von Dippe ;Apotekergade 13;6100;Haderslev;Enkeltmandsvirksomhed;477110 Tøjforretninger;61673836;jsvondippe@gmail.com;Nej
 19427048;21.08.1996;;Enggården & Vindmølle V/Christian Drivsholm Østergaard ;Apotekervænget 6;9850;Hirtshals;Enkeltmandsvirksomhed;351100 Produktion af elektricitet;;;Ja
-17830112;01.01.1969;;HANS CHR FRIGAARD ;Apotekervej 29;4750;Lundby;Enkeltmandsvirksomhed;011100 Dyrkning af korn (undtagen ris), bælgfrugter og olieholdige frø;54431089;tornkaer@mail.dk;Nej
+17830112;01.01.1969;;HANS CHR FRIGAARD ;Apotekervej 29;4750;Lundby;Enkeltmandsvirksomhed;011100 Dyrkning af korn (undtagen ris)  bælgfrugter og olieholdige frø;54431089;tornkaer@mail.dk;Nej
 39561883;31.05.2018;;Sundhed med Alette ;Apotekergade 7A -  1. tv.;6100;Haderslev;Personligt ejet Mindre Virksomhed;869090 Sundhedsvæsen i øvrigt i.a.n.;42450255;alettesoegaard@gmail.com;Ja
-41281936;01.05.2020;;Chaplin Pizza I/S ;Apotekergade 7;6100;Haderslev;Interessentskab;561020 Pizzeriaer, grillbarer, isbarer mv.;;Chaplin.Pizza@outlook.dk;Nej
+41281936;01.05.2020;;Chaplin Pizza I/S ;Apotekergade 7;6100;Haderslev;Interessentskab;561020 Pizzeriaer  grillbarer  isbarer mv.;;Chaplin.Pizza@outlook.dk;Nej
 30098099;01.01.2007;;Læge Ib Pedersen ;Apoteker Rasmussens Plads 6A;6880;Tarm;Enkeltmandsvirksomhed;862100 Alment praktiserende læger;;ibpp@dadlnet.dk;Nej
 41008253;15.12.2019;;FRISØR STUEN ;Apotekerbakken 18;8783;Hornsyld;Enkeltmandsvirksomhed;960210 Frisørsaloner;75790921;Info@frisoer-stuen.dk;Ja
-32227090;01.07.2014;;Anne Plasmann ;Apotekervej 12B;4180;Sorø;Enkeltmandsvirksomhed;479900 Anden detailhandel undtagen fra forretninger, stadepladser og markeder;;aph@nilpeter.com;Nej
+32227090;01.07.2014;;Anne Plasmann ;Apotekervej 12B;4180;Sorø;Enkeltmandsvirksomhed;479900 Anden detailhandel undtagen fra forretninger  stadepladser og markeder;;aph@nilpeter.com;Nej
 20010908;01.07.1997;;JENSEN POTTER LILIAN KRISTINE JENSEN ;Apotekervej 1;4750;Lundby;Enkeltmandsvirksomhed;234900 Fremstilling af andre keramiske produkter;55767613;;Nej
 34402841;01.01.2012;;Ejendomsselskabet Apotekerbakken 22 I/S ;Apotekerbakken 22;8783;Hornsyld;Interessentskab;682030 Anden udlejning af boliger;60946121;Apotekerbakken22@hotmail.com;Ja
 29482861;01.01.2006;;A/B Apotekerhaven I ;c/o Ellen Gravgaard -   Apotekerhaven 6 -  2. mf.;8722;Hedensted;Forening;682020 Private andelsboligforeninger;;;Nej
@@ -370,10 +370,10 @@
 34502862;01.07.2012;;Apoteket Svalen København v/Vibeke Abrahamsen ;Nørrebrogade 224;2200;København;Enkeltmandsvirksomhed;477300 Apoteker;35831217;242va@apoteket.dk;Nej
 14053190;01.05.1990;;436 Svanen v/Inger La Cour Eybye ;Haderslevvej 60;6200;Aabenraa;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;74630776;eybye-family@apoteket.dk;Nej
 30395840;01.05.2007;;Kalundborg Svane Apoteket v/Inger Annette Brasen ;Elmegade 15;4400;Kalundborg;Enkeltmandsvirksomhed;477300 Apoteker;59510005;kalundborg@apoteket.dk;Nej
-32606628;30.06.1971;;APOTEKER HANS CLAUSEN SCHULTZ OG HUSTRUS MINDELEGAT FOR SLÆGTNINGE OG VENNER ;c/o Jens Oluf Petersen -   Lipkesgade 19 -  4. th.;2100;København;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;;jensop@gmail.com;Nej
+32606628;30.06.1971;;APOTEKER HANS CLAUSEN SCHULTZ OG HUSTRUS MINDELEGAT FOR SLÆGTNINGE OG VENNER ;c/o Jens Oluf Petersen -   Lipkesgade 19 -  4. th.;2100;København;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;;jensop@gmail.com;Nej
 21959448;01.11.1999;;LØVE APOTEKET RINGKØBING V/HENNING LUND LUKASEN ;Torvegade 5;6950;Ringkøbing;Enkeltmandsvirksomhed;477300 Apoteker;97320511;;Ja
 29337829;01.04.2006;;Løve Apoteket Holbæk v/Amid Seyedin ;Labæk 4;4300;Holbæk;Enkeltmandsvirksomhed;477300 Apoteker;59432606;;Nej
-11930549;01.01.1901;;Pharmaforsikring, Forsikringsforeningen for medlemmer af Pharmadanmark og Danmarks Apotekerforening ;c/o Pharmadanmark -   Rygårds Alle 1;2900;Hellerup;Forening;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;;jh@pharmadanmark.dk;Nej
+11930549;01.01.1901;;Pharmaforsikring  Forsikringsforeningen for medlemmer af Pharmadanmark og Danmarks Apotekerforening ;c/o Pharmadanmark -   Rygårds Alle 1;2900;Hellerup;Forening;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;;jh@pharmadanmark.dk;Nej
 18205440;01.03.1995;;Vinnie Krogh consulting ;Havneholmen 86 -  6. tv.;1561;København;Enkeltmandsvirksomhed;855900 Anden undervisning i.a.n.;22551676;vinniekrogh@outlook.dk;Ja
 26565707;20.04.2002;;Cafe Istandbul og Pizza v/Abdullah Sahin ;Apotekergade 2 -  st.;6100;Haderslev;Enkeltmandsvirksomhed;561010 Restauranter;;;Nej
 40893717;30.10.2019;;Kirstine Holm Design ;Apotekervænget 1;6430;Nordborg;Personligt ejet Mindre Virksomhed;321200 Fremstilling af smykker i ædle metaller og relaterede produkter;;leneth76@hotmail.com;Nej
@@ -388,13 +388,13 @@
 30400240;01.07.2016;;KristianSkovFoto ;Apotekervej 5;4180;Sorø;Enkeltmandsvirksomhed;742000 Fotografisk virksomhed;57830400;kristianskovfoto@gmail.com;Ja
 39447355;15.10.2018;;Frederiksberg Apoteket Godthåb ;Godthåbsvej 4;2000;Frederiksberg;Enkeltmandsvirksomhed;477300 Apoteker;;bilal.marashdeh@gmail.com;Ja
 33808399;06.07.2015;;Sorø Kolonihaveforening ;c/o Kasserer Mariette Tellerup -   Apotekervej 27;4180;Sorø;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;20454922;mariette@tellerup.dk;Ja
-30251253;01.05.2013;;Princess Pizza ;Apotekerbakken 19;8783;Hornsyld;Enkeltmandsvirksomhed;561020 Pizzeriaer, grillbarer, isbarer mv.;25680423;fahim2106@hotmail.com;Nej
+30251253;01.05.2013;;Princess Pizza ;Apotekerbakken 19;8783;Hornsyld;Enkeltmandsvirksomhed;561020 Pizzeriaer  grillbarer  isbarer mv.;25680423;fahim2106@hotmail.com;Nej
 20022388;14.01.2019;;Bulskov Management Consulting ;Apotekervej 29;4750;Lundby;Enkeltmandsvirksomhed;702200 Virksomhedsrådgivning og anden rådgivning om driftsledelse;47503450;jb@bulskov.ch;Ja
 25905997;18.03.2013;;Solkongen Lundby ;Apotekervej 5;4750;Lundby;Enkeltmandsvirksomhed;351100 Produktion af elektricitet;55766310;ivar.askoee1@skolekom.dk;Ja
 25105885;01.12.1999;;Øjenklinikken Anita Alsing ;Apotekerstræde 6;4700;Næstved;Enkeltmandsvirksomhed;862200 Praktiserende speciallæger;55734488;;Ja
 35625747;01.04.2014;;Vestjysk Øjenklinik ;Apoteker Rasmussens Plads 6E;6880;Tarm;Enkeltmandsvirksomhed;862200 Praktiserende speciallæger;;sb-n@youmail.dk;Ja
 27467091;09.12.2003;;OK-Plus + v/Margrethe Hansen Nielsen ;Apotekerbakken 1;8783;Hornsyld;Enkeltmandsvirksomhed;473000 Servicestationer;;;Nej
-30333969;01.09.2012;;Byens Pølsevogn v/Berit Bentzen ;Apotekervej 17;4180;Sorø;Enkeltmandsvirksomhed;561020 Pizzeriaer, grillbarer, isbarer mv.;;;Nej
+30333969;01.09.2012;;Byens Pølsevogn v/Berit Bentzen ;Apotekervej 17;4180;Sorø;Enkeltmandsvirksomhed;561020 Pizzeriaer  grillbarer  isbarer mv.;;;Nej
 30060024;11.03.2019;;Sorømureren ;Apotekervej 7;4180;Sorø;Enkeltmandsvirksomhed;439910 Murere;40933099;Soroemureren@gmail.com;Nej
 41255765;23.03.2020;;IOGT Danmark ;c/o Hanne Gaaserud -   Apotekerhaven 2 -  st. th.;6430;Nordborg;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;24472916;hanne.gaaserud@hotmail.com;Ja
 68153719;01.05.1982;;GERT SKOV HANSEN ;Apotekervej 12;4180;Sorø;Enkeltmandsvirksomhed;812220 Skorstensfejning;57830398;;Nej
@@ -444,7 +444,7 @@
 60035512;01.10.1981;31.08.2001;SCT NICOLAI APOTEK ;Gerritsgade 7;5700;Svendborg;Enkeltmandsvirksomhed;523100 Apoteker;62210836;;Nej
 74214819;01.02.1984;31.07.2003;SCT LUKAS APOTEK ;Marselis Boulevard 36 -  14. tv.;8000;Århus;Enkeltmandsvirksomhed;980000 Uoplyst;86121222;;Nej
 10805783;01.04.1985;13.12.2010;ISLANDS BRYGGE APOTEK ;Islands Brygge 3;2300;København;Enkeltmandsvirksomhed;999999 Uoplyst;32956361;;Nej
-25699025;16.11.2000;28.07.2002;Det Lille Apotek ;Vestergade 17;7600;Struer;Interessentskab;554010 Værtshuse, bodegaer mv.;97841484;;Nej
+25699025;16.11.2000;28.07.2002;Det Lille Apotek ;Vestergade 17;7600;Struer;Interessentskab;554010 Værtshuse  bodegaer mv.;97841484;;Nej
 74198015;01.06.1984;30.06.2001;HØJREBY HJORTE APOTEK ;Vesterbrogade 55B 4.;4930;Maribo;Enkeltmandsvirksomhed;523100 Apoteker;54941220;;Nej
 89112117;17.04.1980;31.10.2000;SCT MATHIAS APOTEK ;Sct. Mathias Gade 14 -  2.;8800;Viborg;Enkeltmandsvirksomhed;523100 Apoteker;86620666;;Nej
 10892287;01.02.1978;01.04.2000;HADERSLEV HJORTE APOTEK ;c/o Birthe Beck Thomsen -   Favrdalen 3;6100;Haderslev;Enkeltmandsvirksomhed;523100 Apoteker;74525858;;Nej
@@ -476,7 +476,7 @@
 62607912;01.09.1980;13.01.2008;HALS APOTEK V/PER SØLTOFT ;Østergade 8;9370;Hals;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;98251013;;Nej
 19269191;01.07.1996;04.07.2003;ØSTERFÆLLED APOTEK VED BRITT SELCHAU ;Østerbrogade 140;2100;København;Enkeltmandsvirksomhed;523100 Apoteker;35421560;;Nej
 20169583;01.09.1997;30.09.2019;BØRKOP APOTEK V/JENS VILHOLM ;Ny Boder 16;7080;Børkop;Enkeltmandsvirksomhed;477300 Apoteker;75866444;;Nej
-25924584;01.04.2001;30.11.2015;Hornsyld Apotek v/Gert Nielsen ;Apotekerbakken 23;8783;Hornsyld;Enkeltmandsvirksomhed;649900 Anden finansiel formidling undtagen forsikring og pensionsforsikring, i.a.n.;75687344;;Nej
+25924584;01.04.2001;30.11.2015;Hornsyld Apotek v/Gert Nielsen ;Apotekerbakken 23;8783;Hornsyld;Enkeltmandsvirksomhed;649900 Anden finansiel formidling undtagen forsikring og pensionsforsikring  i.a.n.;75687344;;Nej
 21496871;01.05.1999;31.12.2018;BJERRINGBRO APOTEK V/TORBEN HAUGE ;Nørregade 4A;8850;Bjerringbro;Enkeltmandsvirksomhed;477300 Apoteker;86681010;bjerringbro@apoteket.dk;Nej
 26729149;01.09.2002;13.08.2019;Brædstrup Apotek v/Klaus Christiansen ;Søndergade 32;8740;Brædstrup;Enkeltmandsvirksomhed;477300 Apoteker;75751026;;Nej
 18170736;01.07.1991;21.08.2016;KASTRUP APOTEK V/BENEDIKTE LESSOW ;Vordingborggade 6;2100;København;Enkeltmandsvirksomhed;477300 Apoteker;32503633;;Nej
@@ -485,12 +485,12 @@
 16431281;01.04.1988;31.12.2010;BAGSVÆRD APOTEK V/PETER ARENDS ;Kongestien 5B;2830;Virum;Enkeltmandsvirksomhed;477300 Apoteker;45854142;arends@apoteket.dk;Ja
 10889200;01.05.1977;31.03.2000;GIVE APOTEK V/HELGE LARSEN ;Vestergade 1A;7323;Give;Enkeltmandsvirksomhed;523100 Apoteker;;;Nej
 40248552;01.04.1985;31.12.1987;ALLINGE APOTEK V/BENT OVERGAARD ;Søndergade 2;3770;Allinge;Enkeltmandsvirksomhed;980000 Uoplyst;;;Nej
-10203562;12.05.2017;30.07.2017;Dødsboet efter Det Lille Apotek ;c/o Adv. Sys Rovsing -   Poul Ankers Gade 2 -  2. tv.;1271;København;Dødsbo;563000 Cafeér, værtshuse, diskoteker mv.;;;Nej
+10203562;12.05.2017;30.07.2017;Dødsboet efter Det Lille Apotek ;c/o Adv. Sys Rovsing -   Poul Ankers Gade 2 -  2. tv.;1271;København;Dødsbo;563000 Cafeér  værtshuse  diskoteker mv.;;;Nej
 10861403;01.11.1974;01.02.2002;HERLEV APOTEK V/J BERGER ;Herlev Torv 13;2730;Herlev;Enkeltmandsvirksomhed;980000 Uoplyst;44942525;;Nej
 12861044;01.02.1989;31.12.2000;BRØNDBYØSTER APOTEK V/LEO TOFT ;Borrevænget 3;2680;Solrød;Enkeltmandsvirksomhed;523100 Apoteker;56144838;;Nej
 20703695;01.04.1998;30.03.2015;ÅBYHØJ APOTEK/ KIRSTEN MARIE CHRISTENSEN ;Silkeborgvej 226;8230;Åbyhøj;Enkeltmandsvirksomhed;477300 Apoteker;86158882;;Nej
 12919271;01.05.1989;31.05.2003;STEGE APOTEK KAREN BODIL BAGGER ;Storegade 48;4780;Stege;Enkeltmandsvirksomhed;980000 Uoplyst;;;Nej
-70040514;01.01.1984;31.12.2007;Apoteker Otto Prösch/ Balling Apotek ;Eronsvej 12  -  Stenbjerg;7752;Snedsted;Enkeltmandsvirksomhed;513890 Anden specialiseret engroshandel med føde-, drikke- og tobaksvarer;97564013;ag205bal@apotek.dk;Nej
+70040514;01.01.1984;31.12.2007;Apoteker Otto Prösch/ Balling Apotek ;Eronsvej 12  -  Stenbjerg;7752;Snedsted;Enkeltmandsvirksomhed;513890 Anden specialiseret engroshandel med føde-  drikke- og tobaksvarer;97564013;ag205bal@apotek.dk;Nej
 13947937;01.04.1990;31.01.2009;VÆRLØSE APOTEK V/LONE ELKEN ;Bymidten 13;3500;Værløse;Enkeltmandsvirksomhed;477300 Apoteker;44482209;;Nej
 10828295;01.06.1973;30.06.2002;TÅSTRUP APOTEK V/MOGENS KÆRN ;Lendemosevej 6B 10.  -  Gl Holte;2850;Nærum;Enkeltmandsvirksomhed;523100 Apoteker;45807811;;Nej
 61522417;01.03.1982;31.05.2006;BRAMMINGE APOTEK V/WERNER HANSEN ;Jernbanegade 6;6740;Bramming;Enkeltmandsvirksomhed;523100 Apoteker;75173044;;Nej
@@ -515,7 +515,7 @@
 11573088;02.01.1988;31.12.2007;MARIAGER APOTEK V/JOHN BUSSENIUS LARSEN ;Falkevej 1;9500;Hobro;Enkeltmandsvirksomhed;523100 Apoteker;98541018;;Nej
 17099302;01.08.1993;31.12.2012;SMALLEGADES APOTEK V/INGRID P WARMING ;Smallegade 46;2000;Frederiksberg;Enkeltmandsvirksomhed;477300 Apoteker;38870478;smallegade@apotekeren.dk;Nej
 20018038;01.06.1997;09.08.2002;NØRRE-NEBEL APOTEK V/BIRGIT ØSTERGAARD ;Bredgade 12;6830;Nørre;Enkeltmandsvirksomhed;523100 Apoteker;75288366;;Nej
-14577890;01.01.1989;08.07.2008;CAFE BLÅGÅRDS APOTEK V/HANS NIELSEN ;Blågårdsgade 20;2200;København;Enkeltmandsvirksomhed;563000 Cafeér, værtshuse, diskoteker mv.;35372442;;Nej
+14577890;01.01.1989;08.07.2008;CAFE BLÅGÅRDS APOTEK V/HANS NIELSEN ;Blågårdsgade 20;2200;København;Enkeltmandsvirksomhed;563000 Cafeér  værtshuse  diskoteker mv.;35372442;;Nej
 17380001;01.12.1993;04.05.2017;VEJLE GORMS APOTEK V/SØREN BRINTH ;Vestergade 38;7100;Vejle;Enkeltmandsvirksomhed;477300 Apoteker;75840141;gorms@apoteket.dk;Nej
 21800198;01.10.1999;31.12.2019;GIVE APOTEK V/MARIANNE KUNOY SØRENSEN ;Ved Engen 16;2670;Greve;Enkeltmandsvirksomhed;477300 Apoteker;75731544;kunoy@apoteket.dk;Nej
 12366841;01.10.1988;31.12.2010;SØNDERBROS APOTEK V/SVEND ERIK JENSEN ;Dytmærsken 10;8900;Randers;Enkeltmandsvirksomhed;477300 Apoteker;86422900;;Nej
@@ -525,15 +525,15 @@
 10020271;01.02.1986;30.06.2009;ASSENS APOTEK V/H CHR RASMUSSEN ;Østergade 27;5610;Assens;Enkeltmandsvirksomhed;477300 Apoteker;64711035;;Nej
 10148774;01.04.1986;30.11.2008;ASNÆS APOTEK V/APOTEKER BIRTE KNUTSSON ;Asnæs Centret 7;4550;Asnæs;Enkeltmandsvirksomhed;477300 Apoteker;59650600;;Nej
 18842149;01.11.1995;17.04.2007;SCT. CLEMENS APOTEK V/ BIRTE TANGE ;Havnegade 10 A.;7900;Nykøbing;Enkeltmandsvirksomhed;523100 Apoteker;97720966;;Nej
-20545194;15.01.1998;11.05.2017;DET LILLE APOTEK V/TORBEN DALL ;Dybekær 1;4281;Gørlev;Enkeltmandsvirksomhed;563000 Cafeér, værtshuse, diskoteker mv.;58856810;;Nej
+20545194;15.01.1998;11.05.2017;DET LILLE APOTEK V/TORBEN DALL ;Dybekær 1;4281;Gørlev;Enkeltmandsvirksomhed;563000 Cafeér  værtshuse  diskoteker mv.;58856810;;Nej
 10941202;01.10.1987;31.12.2005;ALLINGE APOTEK V/LARS FIND-ANDERSEN ;Assereng 4  -  Allinge;3770;Allinge;Enkeltmandsvirksomhed;702040 Udlejning af erhvervsejendomme;56445026;;Nej
-13445680;25.08.1989;31.12.2010;DET GAMLE APOTEK V/BO LINDER ;Hvissingevej 23 -  2. th.;2600;Glostrup;Enkeltmandsvirksomhed;561020 Pizzeriaer, grillbarer, isbarer mv.;;;Nej
+13445680;25.08.1989;31.12.2010;DET GAMLE APOTEK V/BO LINDER ;Hvissingevej 23 -  2. th.;2600;Glostrup;Enkeltmandsvirksomhed;561020 Pizzeriaer  grillbarer  isbarer mv.;;;Nej
 40904557;01.01.1976;31.12.1999;KORSØR APOTEK V/HELMER STEEN CHRISTIANSEN ;Assensgade 26 -  3. TH.;8000;Århus;Enkeltmandsvirksomhed;523100 Apoteker;;;Nej
 10889707;01.06.1977;31.05.2003;TREKRONER APOTEK V/E LUND-JACOBSEN ;Rammetoften 25  -  Trørød;2950;Vedbæk;Enkeltmandsvirksomhed;523100 Apoteker;36461288;;Nej
 14521542;01.12.1990;31.08.2014;ESBJERG KRONE APOTEK V/OLE CHRISTENSEN ;Kongensgade 36;6700;Esbjerg;Enkeltmandsvirksomhed;477300 Apoteker;75129211;krone@apoteket.dk;Nej
 21154598;01.11.1998;30.06.2015;NØRRE ALSLEV APOTEK V/OLE MENSBERG ;Apotekergade 1;4840;Nørre;Enkeltmandsvirksomhed;477300 Apoteker;54434021;;Nej
 13092648;01.06.1989;31.05.2009;AALBORGHUS APOTEK V/MARTIN TOFT MADSEN ;Grønlands Torv 12;9210;Aalborg;Enkeltmandsvirksomhed;477300 Apoteker;98140611;;Nej
-31337100;01.04.2008;31.12.2014;Det Lille Apotek v/Susanne Nørgård ;Kærhøgevej 40;6800;Varde;Enkeltmandsvirksomhed;563000 Cafeér, værtshuse, diskoteker mv.;75223132;mosegaarden@live.com;Ja
+31337100;01.04.2008;31.12.2014;Det Lille Apotek v/Susanne Nørgård ;Kærhøgevej 40;6800;Varde;Enkeltmandsvirksomhed;563000 Cafeér  værtshuse  diskoteker mv.;75223132;mosegaarden@live.com;Ja
 12258682;01.07.1988;16.06.2008;FREDERICIA LØVE APOTEK V/KAJ LINNEMANN ;Danmarksgade 19;7000;Fredericia;Enkeltmandsvirksomhed;477300 Apoteker;75923544;;Nej
 10644682;01.04.1987;31.12.2014;Grenå Apotek v/Lene Hübertz Olesen ;Åkrogs Strandvej 51E;8240;Risskov;Enkeltmandsvirksomhed;477300 Apoteker;86321422;grenaa@apotek.dk;Nej
 11207898;01.11.1987;31.12.2010;BRANDE APOTEK V/ELSE SKOV VILLADSEN ;Storegade 13;7330;Brande;Enkeltmandsvirksomhed;477300 Apoteker;97180388;;Nej
@@ -545,14 +545,14 @@
 14381147;01.10.1979;31.12.1999;RINGKØBING LØVE APOTEK V/POUL HORSBØL ;Bødkervej 19;9300;Sæby;Enkeltmandsvirksomhed;523100 Apoteker;;;Nej
 15158875;01.07.1991;30.09.2015;BRØNDERSLEV APOTEK V/PREBEN SOMMER LUNDIN ;Løkkegade 2;9480;Løkken;Enkeltmandsvirksomhed;477300 Apoteker;98821211;552psl@apoteket.dk;Nej
 27035469;01.04.2003;31.03.2012;Albani Apotek Odense v/Bente Møgelhøj ;Albanigade 54F;5000;Odense;Enkeltmandsvirksomhed;477300 Apoteker;66120463;;Nej
-19673588;01.06.1991;30.12.2009;DET LILLE APOTEK V/LONE PEDERSEN ;Solbjerg Hovedgade 77A;8355;Solbjerg;Enkeltmandsvirksomhed;563000 Cafeér, værtshuse, diskoteker mv.;86927133;;Nej
-27466036;01.01.2004;30.04.2006;Det Lille Apotek Jørn M. Christensen ;Vestergade 17;7600;Struer;Enkeltmandsvirksomhed;554010 Værtshuse, bodegaer mv.;;;Nej
+19673588;01.06.1991;30.12.2009;DET LILLE APOTEK V/LONE PEDERSEN ;Solbjerg Hovedgade 77A;8355;Solbjerg;Enkeltmandsvirksomhed;563000 Cafeér  værtshuse  diskoteker mv.;86927133;;Nej
+27466036;01.01.2004;30.04.2006;Det Lille Apotek Jørn M. Christensen ;Vestergade 17;7600;Struer;Enkeltmandsvirksomhed;554010 Værtshuse  bodegaer mv.;;;Nej
 15823704;01.05.1992;31.01.2005;Samsø Apotek v/Apoteker Jytte Bundgaard ;Langgade 6  -  Tranebjerg;8305;Samsø;Enkeltmandsvirksomhed;523100 Apoteker;86590030;;Nej
 74874428;01.05.1984;16.02.2005;HADSTEN APOTEK V/JENS JEPSEN KNUDSEN ;Vesselbjergvej 8;8370;Hadsten;Enkeltmandsvirksomhed;523100 Apoteker;86981122;;Nej
 10567939;01.03.1987;11.05.2004;EGTVED APOTEK V/LEIF INGERSLEV JØRGENSEN ;Kystvej 122;6091;Bjert;Enkeltmandsvirksomhed;980000 Uoplyst;75552340;egtved@apoteket.dk;Nej
 19211304;01.06.1996;19.10.2001;HØNG APOTEK V/NIELS BOE MIKKELSEN ;Tingvej 4;4270;Høng;Enkeltmandsvirksomhed;523100 Apoteker;58852294;;Nej
 11293506;01.09.1987;31.08.2007;Hamlets Apotek v/Bertel Johan Würtzen ;Hamletsgade 2;2200;København;Enkeltmandsvirksomhed;523100 Apoteker;35837202;hamlets@apotek.dk;Nej
-19227944;01.04.1996;30.05.2002;DET GAMLE APOTEK DAGMAR TRANEKÆR HORNSTRUP ;Åbakkevej 4;7540;Haderup;Enkeltmandsvirksomhed;554010 Værtshuse, bodegaer mv.;97452193;;Nej
+19227944;01.04.1996;30.05.2002;DET GAMLE APOTEK DAGMAR TRANEKÆR HORNSTRUP ;Åbakkevej 4;7540;Haderup;Enkeltmandsvirksomhed;554010 Værtshuse  bodegaer mv.;97452193;;Nej
 19753298;01.04.1997;31.12.2012;SCT. PAULS APOTEK ÅRHUS V/KIRSTEN LUNDIN ;Jægergårdsgade 76;8000;Aarhus;Enkeltmandsvirksomhed;477300 Apoteker;86121299;;Nej
 70039915;01.03.1983;30.06.2008;Jernbane Alle Apotek v/Niels Peter Holm ;Jernbane Allé 25A;2720;Vanløse;Enkeltmandsvirksomhed;477300 Apoteker;38745745;;Nej
 12646771;01.02.1989;31.12.2010;Skjern Apotek v/Poul Erik Vesterby Knudsen ;Finkevej 5;6900;Skjern;Enkeltmandsvirksomhed;477300 Apoteker;97351544;;Nej
@@ -560,7 +560,7 @@
 10823641;01.11.1972;30.06.2002;SORØ APOTEK V/OLE C U STAHL ;Odinsvej 20;4180;Sorø;Enkeltmandsvirksomhed;980000 Uoplyst;57833044;;Nej
 12015291;01.06.1988;31.12.2007;Silkeborg Ørne Apotek v/Anders Kristian Bech ;Valkyrievej 12;8600;Silkeborg;Enkeltmandsvirksomhed;523100 Apoteker;86821500;;Nej
 60825610;01.12.1981;31.08.2001;Århus Stjerne Apotek v/Svend Ib Mose ;Skåde Højgårdsvej 101;8270;Højbjerg;Enkeltmandsvirksomhed;523100 Apoteker;86276621;;Nej
-79227315;01.11.1985;10.07.2001;DET SKÆVE APOTEK V/LEISY SNEHØJ ANDERSEN ;Digterparken 17A;4500;Nykøbing;Enkeltmandsvirksomhed;554010 Værtshuse, bodegaer mv.;59651339;;Nej
+79227315;01.11.1985;10.07.2001;DET SKÆVE APOTEK V/LEISY SNEHØJ ANDERSEN ;Digterparken 17A;4500;Nykøbing;Enkeltmandsvirksomhed;554010 Værtshuse  bodegaer mv.;59651339;;Nej
 14033106;01.04.1990;31.12.2014;SØNDERBORG LØVE APOTEK V/HELVIG WALLØE HANSEN ;Perlegade 4;6400;Sønderborg;Enkeltmandsvirksomhed;477300 Apoteker;74422000;;Nej
 76479518;01.01.1985;31.12.2007;Gammel Kongevej Apotek v/Hans Gunnar Børsting ;c/o Hans Børsting -   Langkærgårdsvej 60;3460;Birkerød;Enkeltmandsvirksomhed;523100 Apoteker;33313288;;Nej
 17551787;01.03.1994;30.06.2012;VRÅ APOTEK V/APOTEKER TORBEN STEEN ROSENBERG ;Østergade 19;9760;Vrå;Enkeltmandsvirksomhed;477300 Apoteker;98981698;t.s.rosenberg@gmail.com;Nej
@@ -569,25 +569,25 @@
 19401375;01.09.1996;30.09.2009;Nørre-Snede Apotek v/Steen Harald Larsen ;Bredgade 22;8766;Nørre;Enkeltmandsvirksomhed;477300 Apoteker;75771355;;Nej
 12707983;01.03.1989;30.06.2016;ESBJERG NEPTUN APOTEK V/HANS KRISTIAN GADE-KRISTENSEN ;Kongensgade 79;6700;Esbjerg;Enkeltmandsvirksomhed;477300 Apoteker;75133229;;Nej
 17602349;01.03.1994;28.02.2018;SLAGELSE APOTEK - SVANE V/BIRGIT MENSBERG CITY 3 ;Strandhyttevej 7;2670;Greve;Enkeltmandsvirksomhed;477300 Apoteker;43907050;;Nej
-25872460;01.01.2001;30.03.2020;Det Lille Apotek v/Liane Susanne Ilum Nielsen ;Hovedgaden 46;4050;Skibby;Enkeltmandsvirksomhed;563000 Cafeér, værtshuse, diskoteker mv.;47527196;;Nej
+25872460;01.01.2001;30.03.2020;Det Lille Apotek v/Liane Susanne Ilum Nielsen ;Hovedgaden 46;4050;Skibby;Enkeltmandsvirksomhed;563000 Cafeér  værtshuse  diskoteker mv.;47527196;;Nej
 17569236;15.11.2008;31.01.2013;Pihl Vikar/Det Lille Apotek v/Pia Pihl ;Storegade 20;6800;Varde;Enkeltmandsvirksomhed;782000 Vikarbureauer;29865785;info@piapihl.dk;Nej
-17441884;01.01.1994;02.01.1994;DET LILLE APOTEK V/LARS THRANE & KIM LAURIDSEN ;Nygårdsparken 52;6740;Bramming;Interessentskab;554010 Værtshuse, bodegaer mv.;;;Nej
+17441884;01.01.1994;02.01.1994;DET LILLE APOTEK V/LARS THRANE & KIM LAURIDSEN ;Nygårdsparken 52;6740;Bramming;Interessentskab;554010 Værtshuse  bodegaer mv.;;;Nej
 16503649;01.12.1992;31.01.2013;SVENDBORG LØVE APOTEK V/ HANS ULRIK SCHAFFALITZKY DE MUCADELL ;c/o schaffalitzky de muckadell -   Strandhuse 33;5700;Svendborg;Enkeltmandsvirksomhed;477300 Apoteker;62201819;schaffalitzky@apoteket.dk;Nej
 10667291;01.06.1987;31.05.2002;ISLANDS BRYGGE APOTEK V/APOTEKER ULLA B OVERGAARD JENSEN ;c/o Ulla Overgaard Jensen -   Skovbrynet 1;2880;Bagsværd;Enkeltmandsvirksomhed;523100 Apoteker;32956361;;Nej
 20441704;20.11.1997;30.06.2005;DET GAMLE APOTEK KLINIK FOR MASSAGE OG IDRÆTSSKADERV/PERNILLE K BILLENSTEIN ;Ved Parken 12  -  Koldby;7752;Snedsted;Enkeltmandsvirksomhed;851490 Andet sundhedsvæsen;97936161;;Nej
 31282985;27.02.2008;05.01.2012;DET GAMLE APOTEK ApS ;Middelgade 2;8900;Randers;Anpartsselskab;477830 Forhandlere af gaveartikler og brugskunst;86422030;hb@detgamleapotek.eu;Nej
-35042075;14.02.2013;09.07.2015;DET LILLE APOTEK ApS ;c/o Torben Elkjær Jakobsen -   Elmevej 21;6854;Henne;Anpartsselskab;563000 Cafeér, værtshuse, diskoteker mv.;;;Nej
+35042075;14.02.2013;09.07.2015;DET LILLE APOTEK ApS ;c/o Torben Elkjær Jakobsen -   Elmevej 21;6854;Henne;Anpartsselskab;563000 Cafeér  værtshuse  diskoteker mv.;;;Nej
 ApS202191;16.05.1991;18.03.1993;INVESTERINGSSELSKABET DET LILLE APOTEK ApS ;c/o Find Lykkebøe Andersen -   Adelgade 102A  -  Postboks 446;8660;Skanderborg;Anpartsselskab;;;;Nej
 60817928;06.11.1981;01.06.2000;RESTAURANT ITALIANO DET GAMLE APOTEK V/J.P.S.RICHARD OG G.A. DE STEFANO ;Storegade 77C;6100;Haderslev;Interessentskab;553010 Restauranter;74529596;;Nej
 26739322;12.08.2002;02.07.2012;APOTEK 1 DANMARK ApS ;c/o Kromann Reumert -   Sundkrogsgade 5;2100;København;Anpartsselskab;999999 Uoplyst;;;Nej
-ApS191453;21.05.1990;24.06.1994;DET LILLE APOTEK, AALBORG ApS ;Jomfru Ane Gade 12;9000;Aalborg;Anpartsselskab;;;;Nej
+ApS191453;21.05.1990;24.06.1994;DET LILLE APOTEK  AALBORG ApS ;Jomfru Ane Gade 12;9000;Aalborg;Anpartsselskab;;;;Nej
 ApS221747;15.05.1995;11.04.1997;"""DET GAMLE APOTEK"" - RESTAURANT WESTERGAARD ApS ";Apotekergade 1;6100;Haderslev;Anpartsselskab;;;;Nej
 20452633;06.11.1997;07.07.2003;NIHAW - DET KINESIESKE APOTEK ApS ;Peder Skrams Gade 17 -  st. tv.;1054;København;Anpartsselskab;851220 Praktiserende speciallæger og ambulatorier;33128312;;Nej
-78591412;28.06.1985;28.05.2009;DET LILLE APOTEK. VARDE ApS ;c/o Elisabeth og Bent Jensen -   Fyrrelunden 17;6800;Varde;Anpartsselskab;563000 Cafeér, værtshuse, diskoteker mv.;75223132;;Nej
+78591412;28.06.1985;28.05.2009;DET LILLE APOTEK. VARDE ApS ;c/o Elisabeth og Bent Jensen -   Fyrrelunden 17;6800;Varde;Anpartsselskab;563000 Cafeér  værtshuse  diskoteker mv.;75223132;;Nej
 27291414;11.08.2003;26.02.2008;DET GAMLE APOTEK AF 2003 ApS ;Apotekergade 1;6100;Haderslev;Anpartsselskab;561010 Restauranter;;;Nej
 12435177;01.05.1988;02.03.2001;DET BETTE APOTEK 88. BRØNDERSLEV A/S ;Nørregade 30 - 36;9700;Brønderslev;Aktieselskab;980000 Uoplyst;;;Nej
-27665977;02.03.2004;01.01.2008;Apoteker Svend Nielsen & ægtefælleFuldmægtig Ulla Leegaard Nielsens Mindefond ;c/o Advokatfirmaet Jost Jensen & Thomasen -   Taastrup Hovedgade 105;2630;Taastrup;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;;;Nej
-74694128;01.01.1985;31.12.2003;DANMARKS APOTEKERFORENING ;Amaliegade 16;1256;København;Forening;911200 Faglige, oplysende foreninger;;;Nej
+27665977;02.03.2004;01.01.2008;Apoteker Svend Nielsen & ægtefælleFuldmægtig Ulla Leegaard Nielsens Mindefond ;c/o Advokatfirmaet Jost Jensen & Thomasen -   Taastrup Hovedgade 105;2630;Taastrup;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;;;Nej
+74694128;01.01.1985;31.12.2003;DANMARKS APOTEKERFORENING ;Amaliegade 16;1256;København;Forening;911200 Faglige  oplysende foreninger;;;Nej
 11352030;01.11.1987;30.11.2008;SVANE APOTEKET ;Strandboulevarden 1;4800;Nykøbing;Enkeltmandsvirksomhed;477300 Apoteker;54850622;mbalslev@apoteket.dk;Nej
 20881038;01.07.1998;27.02.2015;SVANE APOTEKET SKIVE V/JENS SCHMIDT NIELSEN ;Nørregade 22;7800;Skive;Enkeltmandsvirksomhed;477300 Apoteker;97524211;;Nej
 18210401;01.03.1995;31.12.2017;Ilsa N.Hald ;Parkvej 33;2830;Virum;Enkeltmandsvirksomhed;477300 Apoteker;45859540;Ilsa@apoteket.dk;Ja
@@ -623,8 +623,8 @@ ApS221747;15.05.1995;11.04.1997;"""DET GAMLE APOTEK"" - RESTAURANT WESTERGAARD A
 17781677;01.07.1994;31.10.2013;Birgit Lilleør ;Ladegårdsvej 8;6300;Gråsten;Enkeltmandsvirksomhed;829200 Pakkerier;74541442;;Nej
 11630871;01.01.1901;02.04.2004;APOTEKER CHRISTEN MIKKELSENS OG HUSTRUS FAMILIELEGAT MARIANNE LUND LARSEN ;c/o Marianne L. Larsen -   Kokkedalsvej 24;2665;Vallensbæk;Fonde og andre selvejende institutioner;980000 Uoplyst;43536717;;Nej
 11708633;01.01.1901;31.12.2006;DANMARKS APOTEKERFORENINGS REJSELEGAT ;c/o DANMARKS APOTEKERFORENING -   Bredgade 54;1260;København;Fonde og andre selvejende institutioner;853260 Legater og fonde med velgørende formål;33767600;;Nej
-28733534;01.07.2005;31.12.2008;Midtjysk Boligselskab, Afdeling 99 - Apotekergården (Apoteketgrund) ;c/o v/ Boligkontoret Danmark -   Lundsgade 9;2100;København;Forening;682010 Almennyttige boligselskaber;;;Nej
-28810415;01.07.2005;31.12.2008;Sakskøbing Boligselskab, Afdeling 5, Apotekervænget ;c/o v/ Boligkontoret Danmark -   Lundsgade 9;2100;København;Forening;682010 Almennyttige boligselskaber;;;Nej
+28733534;01.07.2005;31.12.2008;Midtjysk Boligselskab  Afdeling 99 - Apotekergården (Apoteketgrund) ;c/o v/ Boligkontoret Danmark -   Lundsgade 9;2100;København;Forening;682010 Almennyttige boligselskaber;;;Nej
+28810415;01.07.2005;31.12.2008;Sakskøbing Boligselskab  Afdeling 5  Apotekervænget ;c/o v/ Boligkontoret Danmark -   Lundsgade 9;2100;København;Forening;682010 Almennyttige boligselskaber;;;Nej
 26365570;15.05.2017;28.02.2018;Health by Glargard ;Vesterfælledvej 41 -  st. tv.;1750;København;Enkeltmandsvirksomhed;869090 Sundhedsvæsen i øvrigt i.a.n.;29715858;info@natur-apoteket.dk;Ja
 11499643;01.06.1977;02.02.2017;Udlejer Preben Reinhold Jørgensen1 ;Holbergsvej 148;4700;Næstved;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;55720002;naestved@apoteket.dk;Nej
 48342116;01.04.1974;31.10.2000;Hr Poul Viggo Henningsen ;Algade 60;9000;Aalborg;Enkeltmandsvirksomhed;523100 Apoteker;;;Nej
@@ -651,7 +651,7 @@ ApS221747;15.05.1995;11.04.1997;"""DET GAMLE APOTEK"" - RESTAURANT WESTERGAARD A
 18901684;01.02.1996;30.06.2020;VO Doris Bechmann ;Sølykke 5;6600;Vejen;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;74831328;;Nej
 72425510;01.08.1983;01.09.2017;Legarths udlejning ;Skolestien 19;3150;Hellebæk;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;49709815;legarths@mail.dk;Nej
 36006048;15.09.2014;17.09.2019;Beboerforeningen afd.5 Apotekervænget ;Apotekervænget 24;4990;Sakskøbing;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;53145333;bf.afd5@gmail.com;Ja
-11634478;01.01.1901;27.06.2016;Apoteker Julius Waels og cand.pharm. Helga Waels fond ;c/o Det Sundhedsvidenskabelige Fakultet -  ... -   Blegdamsvej 3B;2200;København;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;45128961;legater@sund.ku.dk;Nej
+11634478;01.01.1901;27.06.2016;Apoteker Julius Waels og cand.pharm. Helga Waels fond ;c/o Det Sundhedsvidenskabelige Fakultet -  ... -   Blegdamsvej 3B;2200;København;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;45128961;legater@sund.ku.dk;Nej
 26088992;01.09.2001;06.09.2019;SA v/Anette M Carlsen ;Benløse By 6B;4100;Ringsted;Enkeltmandsvirksomhed;477300 Apoteker;57830012;;Nej
 21397008;01.02.1999;04.09.2019;LEJ udlejning ;c/o Lis Ellinor Jensen -   Østbanegade 21 -  1. tv.;2100;København;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;35266744;552lj@apoteket.dk;Ja
 20270497;31.12.1996;28.08.2017;Udlejningsejendomme v/Jan Lunde & Allan Thyrrestrup ;Stubdrupvej 27;9700;Brønderslev;Interessentskab;682040 Udlejning af erhvervsejendomme;98821503;;Nej
@@ -660,7 +660,7 @@ ApS221747;15.05.1995;11.04.1997;"""DET GAMLE APOTEK"" - RESTAURANT WESTERGAARD A
 72984013;21.04.2010;30.06.2014;Pharma-distribution-Kolding v/Stepan Svoboda ;c/o v/ Stepan Svoboda -   A.D. Burcharths Vej 11;6000;Kolding;Enkeltmandsvirksomhed;477500 Detailhandel med kosmetikvarer og produkter til personlig pleje;75527200;svoboda.kolding@stofanet.dk;Nej
 10898579;01.09.1979;31.12.2006;Mogens Ernst Hansen ;Skodsborgvej 104;9270;Klarup;Enkeltmandsvirksomhed;523100 Apoteker;98319335;;Nej
 64349619;17.03.1981;30.10.2004;Fasan Apoteket v/Poul Wendelboe Nielsen ;Asmundshøj 445;3480;Fredensborg;Enkeltmandsvirksomhed;980000 Uoplyst;48482445;;Nej
-58039217;01.12.2006;28.02.2007;Grillbaren v/ Leif Peter Ørndorf ;Holsteinsgade 12;8300;Odder;Enkeltmandsvirksomhed;553020 Cafeterier, pølsevogne, grillbarer, isbarer mv.;86560207;leif@filatelisten.dk;Nej
+58039217;01.12.2006;28.02.2007;Grillbaren v/ Leif Peter Ørndorf ;Holsteinsgade 12;8300;Odder;Enkeltmandsvirksomhed;553020 Cafeterier  pølsevogne  grillbarer  isbarer mv.;86560207;leif@filatelisten.dk;Nej
 72570316;01.10.1983;30.09.2009;Udlejer Carsten Hansen ;Fåborgvej 80;5762;Vester;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;62242466;;Nej
 38411357;01.07.1977;30.06.2019;John Tranberg ;Neder Hjerkvej 10  -  Hjerk;7870;Roslev;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;97579161;;Nej
 19291987;01.07.1996;31.12.2015;Kirsten Poltorak ;Vibevej 1;9330;Dronninglund;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;98842222;k.poltorak@mail.tele.dk;Nej
@@ -668,8 +668,8 @@ ApS221747;15.05.1995;11.04.1997;"""DET GAMLE APOTEK"" - RESTAURANT WESTERGAARD A
 78175419;01.09.1985;31.07.2006;Sven Gjesing ;Labæk 4;4300;Holbæk;Enkeltmandsvirksomhed;980000 Uoplyst;;;Nej
 21257400;01.12.1998;31.12.2019;Ejendommen Ålandsgade ;c/o Kirsten Norman -   Skippervænget 7;2791;Dragør;Enkeltmandsvirksomhed;477300 Apoteker;32536577;knorman@tdcadsl.dk;Ja
 11655645;01.01.1901;31.12.2003;APOTEKER VIGGO FREDERIKSENS LEGAT TIL FORDEL FOR KONG CHRISTIAN IXS OG DRONNING LOUISES GULDB.LEGAT ;c/o BØRNEHAVEN GULDBRYLLUPSASYLET -   Skt. Pauls Gade 31;8000;Aarhus;Fonde og andre selvejende institutioner;980000 Uoplyst;;;Nej
-11698743;01.01.1901;30.12.2014;APOTEKER AUGUST KONGSTEDS FOND ;c/o LRS. WILHELM KAHLKE -   Købmagergade 3 -  2.;1150;København;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;;;Nej
-16164690;17.12.1991;08.08.2014;APOTEKERFONDEN AF 1991 ;c/o DK'S APOTEKERFORE.POSTBOX 2181 -   Bredgade 54;1260;København;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;;;Nej
+11698743;01.01.1901;30.12.2014;APOTEKER AUGUST KONGSTEDS FOND ;c/o LRS. WILHELM KAHLKE -   Købmagergade 3 -  2.;1150;København;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;;;Nej
+16164690;17.12.1991;08.08.2014;APOTEKERFONDEN AF 1991 ;c/o DK'S APOTEKERFORE.POSTBOX 2181 -   Bredgade 54;1260;København;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;;;Nej
 75728212;01.10.1984;30.06.2020;Ejendomsselskabet Alpevej 11 v/ Nils Ole Olsen ;Alpevej 11;8543;Hornslet;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;86994834;;Nej
 38919563;08.09.2017;10.09.2020;Vejgaard apoteks gavekasse ;c/o Inger Hellegaard -   Hadsundvej 33B;9000;Aalborg;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;98136580;inger.hellegaard@gmail.com;Ja
 43351052;02.12.1974;31.12.2006;Dynalingua v/Hedvig Andersen ;Jernbanegade 46 -  3. th.;6400;Sønderborg;Enkeltmandsvirksomhed;748520 Tolkning og oversættelse;74435959;;Nej
@@ -685,17 +685,17 @@ ApS221747;15.05.1995;11.04.1997;"""DET GAMLE APOTEK"" - RESTAURANT WESTERGAARD A
 13949042;01.04.1990;31.08.2011;SBS Firma ;c/o Steen Barnstein Sørensen -   Madvigs Alle 12 -  3. tv.;1829;Frederiksberg;Enkeltmandsvirksomhed;477300 Apoteker;43904597;sbs@dbmail.dk;Nej
 10859603;01.07.1987;30.09.2017;Sven Nørgaard-Andersen ;Jørgensvej 11;4673;Rødvig;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;23246131;sven@noergaard-stevns.dk;Ja
 14169792;01.01.1989;30.06.2004;DANMARKS APOTEKERFORENINGS FÆLLESFOND ;Bredgade 54;1260;København;Fonde og andre selvejende institutioner;980000 Uoplyst;33767600;;Nej
-11688985;01.01.1901;10.09.2009;APOTEKER VICTOR PEDERSEN OG HUSTRUMARTHA PEDERSENS LEGAT ;c/o Kræftens Bekæmpelse -   Strandboulevarden 49;2100;København;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;;;Nej
+11688985;01.01.1901;10.09.2009;APOTEKER VICTOR PEDERSEN OG HUSTRUMARTHA PEDERSENS LEGAT ;c/o Kræftens Bekæmpelse -   Strandboulevarden 49;2100;København;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;;;Nej
 21305499;10.06.1971;31.12.2004;APOTEKER HARALD BARFOEDS OG HUSTRU DAGMAR BARFOEDS LEGAT ;c/o DK'S FARMACEUTISKE HØJSKOLE -   Universitetsparken 2;2100;København;Fonde og andre selvejende institutioner;731000 Forskning og udvikling inden for naturvidenskab og teknik;;;Nej
-11687385;01.01.1901;30.12.2013;APOTEKER AAGE SCHÆFFERS FOND ;c/o Det Farmaceutiske Fakultet -  ATT: Gitte N -   Universitetsparken 2;2100;København;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;45128961;;Nej
-27782191;18.08.2004;12.03.2009;Apoteker Buch og Hustru Mindefond ;Ramsherred 5;5700;Svendborg;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;;;Nej
-89112028;17.04.1980;30.06.2019;Apoteksejendom, Otterup v/Sten Birger Pedersen ;Kornmodvænget 23  -  Korup;5210;Odense;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;65942993;sten.pedersen@mail.tele.dk;Nej
+11687385;01.01.1901;30.12.2013;APOTEKER AAGE SCHÆFFERS FOND ;c/o Det Farmaceutiske Fakultet -  ATT: Gitte N -   Universitetsparken 2;2100;København;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;45128961;;Nej
+27782191;18.08.2004;12.03.2009;Apoteker Buch og Hustru Mindefond ;Ramsherred 5;5700;Svendborg;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;;;Nej
+89112028;17.04.1980;30.06.2019;Apoteksejendom  Otterup v/Sten Birger Pedersen ;Kornmodvænget 23  -  Korup;5210;Odense;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;65942993;sten.pedersen@mail.tele.dk;Nej
 36239891;03.02.2015;05.02.2020;Ejerforeningen Apotekergaarden ;c/o Jeppe Juhl -   Skodsbølvej 51;6310;Broager;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;;jeppejuhl1@gmail.com;Nej
 77882014;01.06.1985;31.12.2012;Annelise Simonsen ;Skansevej 5;4862;Guldborg;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;54770547;;Nej
 17415379;01.12.1993;31.12.2019;Per Trolle Mortensen ;Lærkehaven 18;2980;Kokkedal;Enkeltmandsvirksomhed;477300 Apoteker;47720007;perhmortensen@hotmail.com;Nej
 27125379;01.01.2001;28.02.2009;I/S Apotekergade ;c/o Sixtus Thomsen -   Krebsen 11;9200;Aalborg;Interessentskab;682040 Udlejning af erhvervsejendomme;;;Nej
 68753414;01.07.1982;22.06.2018;APONORD v/Hanne Løfgreen Tveden ;Vestergaardsvej 22;9493;Saltum;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;40158494;htv@aponord.dk;Ja
-33674309;10.06.2011;27.11.2018;Apoteker Carl Vilhelm Høms Mindelegat ;c/o Steffen De Teilman Hald -   Parkvej 33;2830;Virum;Fonde og andre selvejende institutioner;889910 Foreninger, legater og fonde med sygdomsbekæmpende, sociale og velgørende formål;45859540;peter.clemmensen@webspeed.dk;Nej
+33674309;10.06.2011;27.11.2018;Apoteker Carl Vilhelm Høms Mindelegat ;c/o Steffen De Teilman Hald -   Parkvej 33;2830;Virum;Fonde og andre selvejende institutioner;889910 Foreninger  legater og fonde med sygdomsbekæmpende  sociale og velgørende formål;45859540;peter.clemmensen@webspeed.dk;Nej
 26647118;01.09.2002;31.12.2019;Lene Lorentzen ;Engsvinget 18;3400;Hillerød;Enkeltmandsvirksomhed;477300 Apoteker;47171270;;Nej
 12392877;03.01.1983;30.06.2010;Apotekerløkken I/S ;c/o Mogens Winther -   Østerløkke 3;6200;Aabenraa;Interessentskab;021000 Dyrkning af træer og andre skovbrugsaktiviteter;;;Nej
 18278774;01.04.1995;21.03.2014;Mogens Elgård ;Rugmarken 125;9690;Fjerritslev;Enkeltmandsvirksomhed;477300 Apoteker;98211633;;Ja
@@ -710,24 +710,24 @@ ApS221747;15.05.1995;11.04.1997;"""DET GAMLE APOTEK"" - RESTAURANT WESTERGAARD A
 12833482;01.04.1989;31.10.2011;Fa. Foghsgaard v/Ebbe Foghsgaard ;Rosenstræde 21B -  2. tv.;8800;Viborg;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;86883656;;Nej
 12918887;01.06.1989;31.12.2010;Pind Udlejning v/Teddy K. Pind ;Prins Buris Vej 45A  -  Mejdal;7500;Holstebro;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;97885030;teddy@mail.tele.dk;Nej
 10567904;01.03.1987;30.09.2003;Fin Sørensen Høgh ;c/o Adv Tue Lundkvist -   Hunderupvej 71;5230;Odense;Enkeltmandsvirksomhed;980000 Uoplyst;65342271;;Nej
-21954438;01.10.1999;31.03.2004;Kommandobroen Ulla Boldt ;Fjordglimt 26;7600;Struer;Enkeltmandsvirksomhed;554010 Værtshuse, bodegaer mv.;97840667;;Nej
+21954438;01.10.1999;31.03.2004;Kommandobroen Ulla Boldt ;Fjordglimt 26;7600;Struer;Enkeltmandsvirksomhed;554010 Værtshuse  bodegaer mv.;97840667;;Nej
 16117471;01.06.1992;04.02.2015;SVANE APOTEKET HANS CHR THORSTENSEN ;Ll. Sct. Peder Stræde 10;8800;Viborg;Enkeltmandsvirksomhed;477300 Apoteker;86620022;;Nej
 65667614;01.07.1981;31.12.1999;REBERBANE APOTEKET ;Reberbansgade 25;9000;Aalborg;Enkeltmandsvirksomhed;523100 Apoteker;98123311;;Nej
 10680174;01.12.1977;30.09.2002;Hr. Knud Faber ;Vestergade 25;8900;Randers;Enkeltmandsvirksomhed;523100 Apoteker;;;Nej
 10192153;05.02.2015;30.08.2015;Boet efter Hans Christian Thorstensen -Svane Apoteket Viborg ;c/o Advokat Martin Jørgensen -   Lundborgvej 18;8800;Viborg;Dødsbo;477300 Apoteker;;;Nej
-77307559;03.07.1967;31.12.2010;APOTEKER ANNELISE OLSEN ;Søndergade 23;5970;Ærøskøbing;Enkeltmandsvirksomhed;011100 Dyrkning af korn (undtagen ris), bælgfrugter og olieholdige frø;74630786;;Nej
+77307559;03.07.1967;31.12.2010;APOTEKER ANNELISE OLSEN ;Søndergade 23;5970;Ærøskøbing;Enkeltmandsvirksomhed;011100 Dyrkning af korn (undtagen ris)  bælgfrugter og olieholdige frø;74630786;;Nej
 25066596;01.03.2000;31.12.2019;LB Sletten v/Lone Bøgh ;Ravnhøj 82;9000;Aalborg;Enkeltmandsvirksomhed;682040 Udlejning af erhvervsejendomme;97420043;boegh@apoteket.dk;Ja
 26428815;01.06.1982;31.01.2001;DELFIN APOTEKET ;Nørre Farimagsgade 63;1364;København;Enkeltmandsvirksomhed;523100 Apoteker;33143836;;Nej
 73937019;01.12.2008;31.03.2015;SuhrMagicTask v/Per Leif Suhr ;c/o Per Leif Suhr -   Vodroffsvej 14 -  3. tv.;1900;Frederiksberg;Enkeltmandsvirksomhed;620200 Konsulentbistand vedrørende informationsteknologi;48760770;per@suhr.eu;Nej
 17202472;01.06.1993;30.04.2006;I/S APOTEKERGÅRDEN ;c/o adv Peter Junge -   Kaj Munks Vej 4;7400;Herning;Interessentskab;702040 Udlejning af erhvervsejendomme;;;Nej
 20550546;01.02.1998;24.08.2020;GDC ejendom v/Grethe D Clemmensen ;Storegade 11;4171;Glumsø;Enkeltmandsvirksomhed;477300 Apoteker;21794711;grethe.clemmensen@apoteket.dk;Ja
-FAP212266;02.04.1992;22.12.1994;DYVEKE APOTEK LATVIA, FILIAL AF DYVEKE APOTEK RIGA LTD. LETLAND ;c/o Dyveke Apotek -   Øresundsvej 53;2300;København;Filial af udenlandsk anpartsselskab eller selskab;;;;Nej
+FAP212266;02.04.1992;22.12.1994;DYVEKE APOTEK LATVIA  FILIAL AF DYVEKE APOTEK RIGA LTD. LETLAND ;c/o Dyveke Apotek -   Øresundsvej 53;2300;København;Filial af udenlandsk anpartsselskab eller selskab;;;;Nej
 40574964;17.06.2019;07.11.2019;JS RENGØRING ;Apotekervænget 4 -  2. th.;4990;Sakskøbing;Personligt ejet Mindre Virksomhed;812100 Almindelig rengøring i bygninger;;jeanettesoderberg@hotmail.com;Ja
 31660068;17.09.2008;08.08.2019;Radsted Pensionistforening ;c/o Ruth Jensen -   Apotekervænget 46 -  1. tv.;4990;Sakskøbing;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;54705476;viw@guldborgsund.dk;Nej
 71572528;28.02.1983;31.12.2001;LORENTZEN BOG & IDE V/MOGENS LORENTZEN ;Apotekergade 13;6100;Haderslev;Enkeltmandsvirksomhed;524700 Bog- og papirhandlere;74522507;;Nej
-28127502;18.10.2004;31.12.2004;Hornsyld Pizza v/Kazim Kilic ;Apotekerbakken 19;8783;Hornsyld;Enkeltmandsvirksomhed;553020 Cafeterier, pølsevogne, grillbarer, isbarer mv.;;;Nej
-31453232;01.06.2014;02.07.2016;Hjorth' s EDB Service ;Apotekerstræde 7;8900;Randers;Enkeltmandsvirksomhed;474100 Detailhandel med computere, ydre enheder og software;53643416;Kontakt@hjorth-edb.dk;Ja
-28201745;01.02.2007;30.06.2007;Princec Pizza Kebop v/Sonay Kevek ;Apotekerbakken 19;8783;Hornsyld;Enkeltmandsvirksomhed;553020 Cafeterier, pølsevogne, grillbarer, isbarer mv.;75614555;;Nej
+28127502;18.10.2004;31.12.2004;Hornsyld Pizza v/Kazim Kilic ;Apotekerbakken 19;8783;Hornsyld;Enkeltmandsvirksomhed;553020 Cafeterier  pølsevogne  grillbarer  isbarer mv.;;;Nej
+31453232;01.06.2014;02.07.2016;Hjorth' s EDB Service ;Apotekerstræde 7;8900;Randers;Enkeltmandsvirksomhed;474100 Detailhandel med computere  ydre enheder og software;53643416;Kontakt@hjorth-edb.dk;Ja
+28201745;01.02.2007;30.06.2007;Princec Pizza Kebop v/Sonay Kevek ;Apotekerbakken 19;8783;Hornsyld;Enkeltmandsvirksomhed;553020 Cafeterier  pølsevogne  grillbarer  isbarer mv.;75614555;;Nej
 27078222;01.04.2003;30.09.2004;HM CONSULT v/Hans Myglegaard ;Apotekervænget 5  -  Horne;9850;Hirtshals;Enkeltmandsvirksomhed;804290 Undervisning i øvrigt;98949449;;Nej
 69110916;30.08.1982;31.07.2005;ØJENLÆGE AXEL KEMP ;Apotekerstræde 6;4700;Næstved;Enkeltmandsvirksomhed;851220 Praktiserende speciallæger og ambulatorier;;;Nej
 20161175;01.08.1997;30.11.2005;Tatol v/Marianne Jørgensen ;Apotekerbakken 18;8783;Hornsyld;Enkeltmandsvirksomhed;521110 Kolonialhandel;75687028;;Nej
@@ -767,16 +767,16 @@ FAP212266;02.04.1992;22.12.1994;DYVEKE APOTEK LATVIA, FILIAL AF DYVEKE APOTEK RI
 28234899;01.02.2005;31.12.2009;SL Service V/Svend Larsen ;Apotekerbakken 2;8783;Hornsyld;Enkeltmandsvirksomhed;331100 Reparation af jern- og metalvarer;;;Nej
 26806100;01.10.2002;15.10.2004;Hornsyld Pizza v/Ali Ihsan Kevek ;Apotekerbakken 19;8783;Hornsyld;Enkeltmandsvirksomhed;980000 Uoplyst;;;Nej
 74622313;29.12.1983;31.12.2003;NÆSTVED INDUSTRI VÆRKTØJ V/PETERSEN ;Apotekervej 29;4750;Lundby;Enkeltmandsvirksomhed;980000 Uoplyst;55732100;;Nej
-37358703;11.01.2016;13.01.2019;Hobbykemi/Flemming B Larsen ;Apotekervænget 14 -  2. th.;4990;Sakskøbing;Personligt ejet Mindre Virksomhed;479115 Detailhandel med hobbyartikler, musikinstrumenter, sportsudstyr, legetøj, cykler via internet;21161167;flbjorch@mail.dk;Ja
+37358703;11.01.2016;13.01.2019;Hobbykemi/Flemming B Larsen ;Apotekervænget 14 -  2. th.;4990;Sakskøbing;Personligt ejet Mindre Virksomhed;479115 Detailhandel med hobbyartikler  musikinstrumenter  sportsudstyr  legetøj  cykler via internet;21161167;flbjorch@mail.dk;Ja
 35084398;08.05.2013;08.05.2013;F.E.service.aps ;Apotekerstræde 12;8900;Randers;Enkeltmandsvirksomhed;811000 Kombinerede serviceydelser;;;Ja
 30654307;01.03.2007;30.04.2013;Princess Pizza I/S Jack Odis Shaadi Odis ;Apotekerbakken 19;8783;Hornsyld;Interessentskab;561010 Restauranter;75688300;;Nej
 35500081;01.12.2013;31.03.2014;Simon Jørgensen ;Apotekerhaven 5;8450;Hammel;Enkeltmandsvirksomhed;439910 Murere;51956331;bmbak@mail.dk;Ja
 20585633;01.01.1998;30.06.2001;Hornsyld Pizza v/Seref Demir ;Apotekerbakken 19;8783;Hornsyld;Enkeltmandsvirksomhed;553010 Restauranter;75688300;;Nej
 25144341;01.02.2000;31.08.2008;Henning Lund ;Apotekervænget 63;6000;Kolding;Enkeltmandsvirksomhed;472500 Detailhandel med drikkevarer;75503920;;Nej
 27811426;01.09.2004;31.12.2010;Haderslev Sandwichbar v/Fatma Sahin ;Apotekergade 7;6100;Haderslev;Enkeltmandsvirksomhed;561010 Restauranter;;;Nej
-27180205;01.06.2003;01.09.2004;Princess Hornsyld Pizza v/Anakadin Kevioglu ;Apotekerbakken 19;8783;Hornsyld;Enkeltmandsvirksomhed;553020 Cafeterier, pølsevogne, grillbarer, isbarer mv.;;;Nej
-25143140;01.01.2000;30.10.2000;Urfa Pizza V/Mutlu Ecevit Demir ;Apotekerbakken 19;8783;Hornsyld;Enkeltmandsvirksomhed;553020 Cafeterier, pølsevogne, grillbarer, isbarer mv.;75688300;;Nej
-31731550;04.07.2011;11.11.2015;Nørregaard´s madkompani v/Per Nørregaard Henriksen ;Apotekervej 17;4180;Sorø;Enkeltmandsvirksomhed;561020 Pizzeriaer, grillbarer, isbarer mv.;23988143;wnh@stofanet.dk;Nej
+27180205;01.06.2003;01.09.2004;Princess Hornsyld Pizza v/Anakadin Kevioglu ;Apotekerbakken 19;8783;Hornsyld;Enkeltmandsvirksomhed;553020 Cafeterier  pølsevogne  grillbarer  isbarer mv.;;;Nej
+25143140;01.01.2000;30.10.2000;Urfa Pizza V/Mutlu Ecevit Demir ;Apotekerbakken 19;8783;Hornsyld;Enkeltmandsvirksomhed;553020 Cafeterier  pølsevogne  grillbarer  isbarer mv.;75688300;;Nej
+31731550;04.07.2011;11.11.2015;Nørregaard´s madkompani v/Per Nørregaard Henriksen ;Apotekervej 17;4180;Sorø;Enkeltmandsvirksomhed;561020 Pizzeriaer  grillbarer  isbarer mv.;23988143;wnh@stofanet.dk;Nej
 25939239;15.03.2001;31.07.2002;Massør Eva Kjær ;Apotekerbakken 6A;8783;Hornsyld;Enkeltmandsvirksomhed;851490 Andet sundhedsvæsen;75687041;;Nej
 10252849;01.07.1986;31.03.2006;Lægerne Schou og Range ;Apotekerbakken 4;8783;Hornsyld;Interessentskab;851210 Alment praktiserende læger;75687766;;Nej
 41855916;01.07.1972;19.08.2016;JOHANNES CHRISTENSEN ;Apotekervej 4;9230;Svenstrup;Enkeltmandsvirksomhed;015000 Blandet drift;98384036;;Nej
@@ -785,32 +785,32 @@ FAP212266;02.04.1992;22.12.1994;DYVEKE APOTEK LATVIA, FILIAL AF DYVEKE APOTEK RI
 43213628;01.08.1972;01.10.2004;Fabrikant Bjarne Michaelsen ;Apotekerhaven 4  -  Hvidbjerg;7790;Thyholm;Enkeltmandsvirksomhed;011190 Agerbrug i øvrigt;97871231;;Nej
 28472390;01.01.2006;30.09.2016;Haderslev Fiskehus v/Preben Larsen ;Apotekergade 11;6100;Haderslev;Enkeltmandsvirksomhed;472300 Fiskeforretninger;74533169;;Ja
 34271887;01.10.2015;31.01.2020;Lauthnet Group ;Apotekerstien 7 -  2.;9500;Hobro;Enkeltmandsvirksomhed;742000 Fotografisk virksomhed;50678910;michael@lauthnet.com;Ja
-39615355;01.08.2018;27.08.2018;Danish Comfort ;c/o Mette Unger Graugaard -   Apotekerhaven 22 -  st.;8450;Hammel;Enkeltmandsvirksomhed;464700 Engroshandel med møbler, tæpper og belysningsartikler;;metteungernielsen@hotmail.com;Ja
+39615355;01.08.2018;27.08.2018;Danish Comfort ;c/o Mette Unger Graugaard -   Apotekerhaven 22 -  st.;8450;Hammel;Enkeltmandsvirksomhed;464700 Engroshandel med møbler  tæpper og belysningsartikler;;metteungernielsen@hotmail.com;Ja
 38748394;01.01.2017;31.05.2018;Arkitekt Søren Schmidt ;Apotekerbakken 15;8783;Hornsyld;Enkeltmandsvirksomhed;711100 Arkitektvirksomhed;22288188;schmidt@mail.mira.dk;Ja
 32593119;15.06.2020;31.07.2020;SpecTel Consult ;c/o Lars Specht -   Apotekervej 20;4750;Lundby;Enkeltmandsvirksomhed;620200 Konsulentbistand vedrørende informationsteknologi;30296626;lars@specht.dk;Ja
 36230940;13.01.2015;15.01.2020;Tamilsk kvindelig organisation holbæk ;c/o Plesdestameela Jeyarasa -   Apotekerstræde 1;4550;Asnæs;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;58513008;tamilskekvinder2007@gmail.com;Nej
 17932500;01.06.1994;16.08.2019;TOLK LARS JENSEN BROLUND ;Apotekerstræde 11;8900;Randers;Enkeltmandsvirksomhed;743000 Oversættelse og tolkning;86411095;;Nej
 31648750;08.09.2008;16.08.2010;Ellidshøj Borgerforening ;c/o Steen Jessen -   Apotekervej 12;9230;Svenstrup;Frivillig forening;949900 Andre organisationer og foreninger i.a.n.;61714606;antfarm@vip.cybercity.dk;Nej
 16684996;01.02.1993;31.03.2007;BRAYSHAW INTERNATIONEL ASSOCIATES V/RICHARD BRAYSHAW ;Apotekerbakken 20 -  1.;8783;Hornsyld;Enkeltmandsvirksomhed;511800 Agenturhandel med andet specialiseret sortiment;75688255;;Nej
-38142526;01.12.2016;18.12.2017;Haderslev Sandwichbar ;Apotekergade 7;6100;Haderslev;Enkeltmandsvirksomhed;561020 Pizzeriaer, grillbarer, isbarer mv.;25761061;mfsts6161@gmail.com;Ja
+38142526;01.12.2016;18.12.2017;Haderslev Sandwichbar ;Apotekergade 7;6100;Haderslev;Enkeltmandsvirksomhed;561020 Pizzeriaer  grillbarer  isbarer mv.;25761061;mfsts6161@gmail.com;Ja
 25318129;10.04.2000;01.01.2015;Designware V/Per Steffensen ;Apotekerstræde 6A -  1.;8900;Randers;Enkeltmandsvirksomhed;620100 Computerprogrammering;86439308;steff@designware.dk;Nej
 26783933;01.09.2002;31.12.2004;Tornkær Vine v/Anni Petersen ;Apotekervej 29;4750;Lundby;Enkeltmandsvirksomhed;522500 Vinforretninger;;;Nej
 27711081;01.06.2004;24.07.2004;Hoffco v/Susanne Dufresne ;Apotekergade 9 -  1. mf.;6100;Haderslev;Enkeltmandsvirksomhed;515400 Engroshandel med isenkram og varmeanlæg samt tilbehør;75117142;;Nej
 17205900;30.06.1993;30.09.2008;Aage's Taxi v/Svend Aage Brok ;Apotekerhaven 6 -  3. mf.;8722;Hedensted;Enkeltmandsvirksomhed;493200 Taxikørsel;75890822;;Nej
 26690471;01.03.2011;01.03.2011;Solomon Innovation v/Mikel Schmidt Jensen ;Apotekerstræde 6A -  st.;8900;Randers;Enkeltmandsvirksomhed;256200 Maskinforarbejdning;;mikkel-schmidt@mail.com;Nej
 48983618;01.07.1974;17.03.2001;ANTON JAGT- OG FISKERI V/A HUNDEVADT ;Apotekergade 5;6100;Haderslev;Enkeltmandsvirksomhed;524845 Sportsforretninger;74521955;;Nej
-10166616;01.01.2001;31.12.2006;Faxse Kroen Lærkevej 21 Kolding v/Per Nielsen ;Apotekervænget 7;6000;Kolding;Enkeltmandsvirksomhed;554010 Værtshuse, bodegaer mv.;;;Nej
-23830019;01.01.1970;31.12.2004;SPECIALARBEJDERFORBUNDET I DANMARK, SAKSKØBING AFD. ;Apotekervænget 25;4990;Sakskøbing;Forening;912000 Fagforeninger;54705045;;Nej
+10166616;01.01.2001;31.12.2006;Faxse Kroen Lærkevej 21 Kolding v/Per Nielsen ;Apotekervænget 7;6000;Kolding;Enkeltmandsvirksomhed;554010 Værtshuse  bodegaer mv.;;;Nej
+23830019;01.01.1970;31.12.2004;SPECIALARBEJDERFORBUNDET I DANMARK  SAKSKØBING AFD. ;Apotekervænget 25;4990;Sakskøbing;Forening;912000 Fagforeninger;54705045;;Nej
 86871610;19.08.1979;31.12.2015;SLAGTERMESTER BENT HORNBÆK JENSEN ;Apotekerbakken 24;8783;Hornsyld;Enkeltmandsvirksomhed;472200 Slagter- og viktualieforretninger;75687017;;Nej
 17076876;14.08.2017;31.03.2020;C Vintage ;Apotekergade 9A -  st. th.;6100;Haderslev;Enkeltmandsvirksomhed;477900 Detailhandel med brugte varer i forretninger;74530008;charlotte@damkjaer-rode.dk;Nej
 27063578;17.06.2015;10.04.2018;Invictuscph ;Apotekervej 1;4900;Nakskov;Enkeltmandsvirksomhed;960220 Skønheds- og hudpleje;;ke@invictuscph.dk;Nej
-31060060;13.11.2007;16.04.2010;APOTEKERGADE 1, HADERSLEV ApS ;Apotekergade 1;6100;Haderslev;Anpartsselskab;561010 Restauranter;74520082;;Nej
+31060060;13.11.2007;16.04.2010;APOTEKERGADE 1  HADERSLEV ApS ;Apotekergade 1;6100;Haderslev;Anpartsselskab;561010 Restauranter;74520082;;Nej
 ApS54612;08.03.1983;24.06.1993;PALLE WESTERBY EUROGRAIN ApS ;Sandvikenvej 1;4900;Nakskov;Anpartsselskab;;;;Nej
 27156711;12.05.2003;22.09.2005;RESTAURATIONSSELSKABET APOTEKET ApS ;Hellerupvej 40;2900;Hellerup;Anpartsselskab;980000 Uoplyst;39620599;;Nej
 ApS194313;08.10.1990;23.10.1992;APOTEKERCAFEEN I VEJLE ApS ;Dæmningen 53;7100;Vejle;Anpartsselskab;;;;Nej
 18128209;01.10.1994;14.09.2016;Selskabet af 31. marts 2015 ApS ;Hydrovej 5;6270;Tønder;Anpartsselskab;464930 Engroshandel med kufferter og lædervarer;74720203;;Nej
 ApS11845;18.05.1976;20.05.1992;APOTEKERGÅRDEN RINGSTED ApS ;Nørregade 12;4100;Ringsted;Anpartsselskab;;;;Nej
-20439645;26.08.1997;11.05.2000;RESTAURANT APOTEKERGÅRDEN RINGSTED ApS ;Nørregade 12B;4100;Ringsted;Anpartsselskab;554010 Værtshuse, bodegaer mv.;57610171;;Nej
+20439645;26.08.1997;11.05.2000;RESTAURANT APOTEKERGÅRDEN RINGSTED ApS ;Nørregade 12B;4100;Ringsted;Anpartsselskab;554010 Værtshuse  bodegaer mv.;57610171;;Nej
 32560105;04.11.2009;06.10.2011;APOTEKERNES HJÆLPEMIDDELDISTRIBUTION A.M.B.A. ;c/o Rådhus Apoteket -   Smedegade 6;4200;Slagelse;Andelsselskab (-forening) med begrænset ansvar;999999 Uoplyst;;;Nej
 15204885;01.06.1991;17.03.2014;APOTEKERSERVICE OG -RÅDGIVNING ApS ;c/o Sandholt -   Jollen 49;3070;Snekkersten;Anpartsselskab;711290 Anden teknisk rådgivning;;;Nej
 32938604;27.05.2010;01.03.2013;PA AF 15. APRIL 2011 ApS ;Apoteker Rasmussens Plads 1;6880;Tarm;Anpartsselskab;711100 Arkitektvirksomhed;;;Nej
@@ -818,9 +818,9 @@ ApS176790;01.01.1989;16.01.1997;ATELIERMESTEREN ApS ;Apotekervej 3;4180;Sorø;An
 10269695;05.05.1986;09.12.2011;TGPA AF 15. APRIL 2011 ApS ;Apoteker Rasmussens Plads 1;6880;Tarm;Anpartsselskab;711100 Arkitektvirksomhed;97371800;;Nej
 37435635;08.02.2016;26.11.2018;Mamma Jamma ApS ;Apotekergade 1;6100;Haderslev;Anpartsselskab;561010 Restauranter;;;Ja
 10066212;17.01.2001;01.06.2005;CAFEEN ApS ;Hellerupvej 40;2900;Hellerup;Anpartsselskab;554090 Cafeér og kaffebarer mv.;39620599;;Nej
-32788041;15.03.2010;22.09.2016;LMNT ApS ;Apotekergade 1 -  st.;6100;Haderslev;Anpartsselskab;563000 Cafeér, værtshuse, diskoteker mv.;74520082;mail@lmnt.dk;Nej
-26541727;26.03.2002;15.10.2013;DIT APOTEKS UDVIKLINGSSELSKAB ApS ;J Chr Juliussens Vej 13 -  2. th.;8700;Horsens;Anpartsselskab;773900 Udlejning og leasing af andet materiel, udstyr og andre materielle aktiver i.a.n.;70263265;cl@dit-apotek.dk;Nej
-26376742;20.12.2001;08.05.2012;ApS KOMPLEMENTARSELSKABET APOTEKERGÅRDEN, KØBMAGERGADE ;c/o I/S Ejendomsinvest -   Nørre Søgade 35;1370;København;Anpartsselskab;811000 Kombinerede serviceydelser;;;Nej
+32788041;15.03.2010;22.09.2016;LMNT ApS ;Apotekergade 1 -  st.;6100;Haderslev;Anpartsselskab;563000 Cafeér  værtshuse  diskoteker mv.;74520082;mail@lmnt.dk;Nej
+26541727;26.03.2002;15.10.2013;DIT APOTEKS UDVIKLINGSSELSKAB ApS ;J Chr Juliussens Vej 13 -  2. th.;8700;Horsens;Anpartsselskab;773900 Udlejning og leasing af andet materiel  udstyr og andre materielle aktiver i.a.n.;70263265;cl@dit-apotek.dk;Nej
+26376742;20.12.2001;08.05.2012;ApS KOMPLEMENTARSELSKABET APOTEKERGÅRDEN  KØBMAGERGADE ;c/o I/S Ejendomsinvest -   Nørre Søgade 35;1370;København;Anpartsselskab;811000 Kombinerede serviceydelser;;;Nej
 17240994;29.06.1993;15.02.2010;GALLA CATERING OG ARRANGEMENTSERVICE ApS ;Chr.Winthers Vej 42;2800;Kgs.Lyngby;Anpartsselskab;562100 Event catering;39620599;;Nej
 25492242;07.06.2000;24.04.2015;AS 1 AF 25. APRIL 2014 A.M.B.A. ;c/o Bech-Bruun -   Langelinie Allé 35;2100;København;Andelsselskab (-forening) med begrænset ansvar;477300 Apoteker;;;Nej
 ApS155488;01.10.1986;20.12.1995;ASX 10883 ApS ;Apotekergade 9A -  1.;6100;Haderslev;Anpartsselskab;;;;Nej
@@ -834,7 +834,7 @@ ApS17490;30.08.1976;10.06.1992;ARKITEKTFIRMAET BENT SCHREIBER ApS ;Apotekerbakke
 29832005;22.12.2006;29.08.2011;TGH AF 15. APRIL 2011 ApS ;Apoteker Rasmussens Plads 1;6880;Tarm;Anpartsselskab;642020 Ikke-finansielle holdingselskaber;;;Nej
 51344316;20.12.1974;01.03.2001;VEGETA ApS ;Apotekergade 3;6100;Haderslev;Anpartsselskab;980000 Uoplyst;;;Nej
 ApS178106;09.12.1988;03.02.1993;I M O ApS ;Apotekervænget 9;6000;Kolding;Anpartsselskab;;;;Nej
-37380008;05.01.2016;19.10.2017;Invictus-Cph ApS ;Apotekervej 1;4900;Nakskov;Anpartsselskab;749090 Andre liberale, videnskabelige og tekniske tjenesteydelser i.a.n.;;;Ja
+37380008;05.01.2016;19.10.2017;Invictus-Cph ApS ;Apotekervej 1;4900;Nakskov;Anpartsselskab;749090 Andre liberale  videnskabelige og tekniske tjenesteydelser i.a.n.;;;Ja
 22513818;11.12.1975;12.11.2009;R. OG C. QUIEL HADERSLEV ApS ;Apotekergade 11;6100;Haderslev;Anpartsselskab;999999 Uoplyst;74521983;;Nej
 28292295;26.11.2004;05.01.2011;KH VEJLE ApS ;c/o Kim Hesel -   Rådhustorvet 4 -  2. tv.;7100;Vejle;Anpartsselskab;999999 Uoplyst;;;Nej
 31152984;11.12.2007;29.03.2017;APOLOG ApS ;c/o Edvard Baasch -   Himmelbjergvej 60;8600;Silkeborg;Anpartsselskab;464610 Engroshandel med medicinalvarer og sygeplejeartikler;;;Nej
@@ -848,9 +848,9 @@ VIR170354;06.06.1983;12.10.1995;DANMARKS APOTEKERFORENINGS PENSIONSKASSE ;Højbr
 12070993;01.01.1988;05.02.2001;IBP INVEST ApS ;Apotekervej 29;4750;Lundby;Anpartsselskab;652395 Finansieringsvirksomhed i øvrigt;;;Nej
 19189589;01.03.1996;30.04.2008;JENSEN LEASING A/S ;Tjalfesvej 1 - 19;2600;Glostrup;Aktieselskab;649100 Finansiel leasing;43456074;jensen.group@pc.dk;Nej
 31469686;13.05.2008;01.09.2009;MOLO INVEST II ApS ;Apotekergade 13A;6100;Haderslev;Anpartsselskab;999999 Uoplyst;;;Nej
-A/S187940;20.12.1989;20.08.1996;SØNDERJYDSK BOGHANDEL, HADERSLEV A/S ;Apotekergade 4;6100;Haderslev;Aktieselskab;;;;Nej
+A/S187940;20.12.1989;20.08.1996;SØNDERJYDSK BOGHANDEL  HADERSLEV A/S ;Apotekergade 4;6100;Haderslev;Aktieselskab;;;;Nej
 24258076;01.04.1987;15.03.2010;APOTEKERVEJ ApS ;Ahornvej 12;4180;Sorø;Anpartsselskab;682040 Udlejning af erhvervsejendomme;;;Nej
-26380073;20.12.2001;08.06.2012;K/S APOTEKERGÅRDEN, KØBMAGERGADE ;c/o CB Richard Ellis A/S -   Trondhjems Plads 3;2100;København;Kommanditselskab;682040 Udlejning af erhvervsejendomme;;;Nej
+26380073;20.12.2001;08.06.2012;K/S APOTEKERGÅRDEN  KØBMAGERGADE ;c/o CB Richard Ellis A/S -   Trondhjems Plads 3;2100;København;Kommanditselskab;682040 Udlejning af erhvervsejendomme;;;Nej
 77641017;20.09.1985;28.06.2016;PENSIONSKASSEN FOR APOTEKERE OG FARMACEUTER ;Grønningen 15 -  st. th.;1270;København;Særlig finansiel virksomhed;653010 Pensionskasser;33153588;pb@farmapension.dk;Nej
-31253233;21.01.2008;25.05.2016;K/S APOTEKERGÅRDEN, ALGADE 82 ;c/o Clausen Invest ApS -   Haarlem Alle 37;2791;Dragør;Kommanditselskab;682040 Udlejning af erhvervsejendomme;;;Nej
-33860978;23.04.2010;16.04.2012;APOTEKSGRUPPEN I HELSINGBORG NR.1,FILIAL AF APOTEKERGRUPPEN I HELSINGBORG NR. 1 AB, SVERIGE ;Vadstrupvej 77;2880;Bagsværd;Filial af udenlandsk anpartsselskab eller selskab;464610 Engroshandel med medicinalvarer og sygeplejeartikler;26600600;shahzad.riaz@gmail.com;Nej
+31253233;21.01.2008;25.05.2016;K/S APOTEKERGÅRDEN  ALGADE 82 ;c/o Clausen Invest ApS -   Haarlem Alle 37;2791;Dragør;Kommanditselskab;682040 Udlejning af erhvervsejendomme;;;Nej
+33860978;23.04.2010;16.04.2012;APOTEKSGRUPPEN I HELSINGBORG NR.1 FILIAL AF APOTEKERGRUPPEN I HELSINGBORG NR. 1 AB  SVERIGE ;Vadstrupvej 77;2880;Bagsværd;Filial af udenlandsk anpartsselskab eller selskab;464610 Engroshandel med medicinalvarer og sygeplejeartikler;26600600;shahzad.riaz@gmail.com;Nej
