@@ -9,8 +9,11 @@ def haversine(cords1,cords2):
     Calculate the great circle distance between two points 
     on the earth (specified in decimal degrees)
     """
-    lon1, lat1 = cords1
-    lon2, lat2 = cords2
+    lon1 = cords1.x
+    lat1 = cords1.y
+    lon2 = cords2.x
+    lat2 = cords2.y   
+    
     
     # convert decimal degrees to radians 
     lon1, lat1, lon2, lat2 = map(radians, [lon1, lat1, lon2, lat2])
