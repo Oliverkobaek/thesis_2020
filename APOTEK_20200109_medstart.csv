@@ -1,0 +1,809 @@
+﻿ApotekNr;Navn;TypeID;Adresse;PostNr;Startdato;Slutdato;amt;Kommune;Region
+359;Albertslund Apotek;6;Bytorvet 5;2620;01Jan1966 0:00:00,000;;1084;165;1084
+412;Allerød Apotek;6;Mølcks Passage 5;2620;01.01.1992;31.03.2008;1084;201;1084
+346-1;Allerød Apotek;7;Allerød Stationsvej 9;3450;07.03.2008;;1084;201;1084
+082-1;Allinge Apotek;7;Kirkegade 13;3770;01May2016 0:00:00,000;;1084;400;1084
+175;Allinge Apotek;6;Kirkegade 13;3770;01-01-1898 00:00;01May2016 0:00:00,000;1084;400;1084
+243-1;Amager Strand Apotek;7;Strandlodsvej 41;2300;21Sep2015 0:00:00,000;;1084;101;1084
+022-1;Antvorskov Apotek;7;Idagårdsvej 1;4200;01Jun2018 0:00:00,000;;1085;330;1085
+411;Apopro Online Apotek;6;Ventrupvej 27;2670;15Jun2017 0:00:00,000;;1085;253;1085
+090-7;Apotek Borups Alle;7;Borups Alle 116 st. tv.;2000;12Nov2018 0:00:00,000;;1084;147;1084
+090-1;Apotek Fisketorvet;7;Fisketorvet, Kalvebod Brygge 59;1561;01Aug2015 0:00:00,000;;1084;101;1084
+090-3;Apotek Humletorvet;7;Humletorvet 23;1799;01Nov2016 0:00:00,000;;1084;101;1084
+090-6;Apotek Illum;7;Østergade 52;1001;03Sep2018 0:00:00,000;25Aug2019 0:00:00,000;1084;101;1084
+090-2;Apotek Spinderiet;7;Valby Torvegade 13;2500;02May2016 0:00:00,000;;1084;101;1084
+090-8;Apotek Strøget;7;Frederiksberggade 1A;1459;02Sep2019 0:00:00,000;;1084;101;1084
+090-4;Apotek Vesterbro;7;Vesterbrogade 60;1620;13Feb2017 0:00:00,000;;1084;101;1084
+090-5;Apotek Ørsted;7;H.C. Ørsteds Vej 38;1879;01Aug2017 0:00:00,000;;1084;147;1084
+285-2;Apoteket Borgen;7;Kastanie Allé 3, st., dør 30;6400;29Sep2016 0:00:00,000;;1083;540;1083
+123-2;Apoteket Dalumcentret;7;Dalumvej 46;5250;21Sep2017 0:00:00,000;;1083;461;1083
+079-2;Apoteket Egevangen;7;Egevangen 8;2980;01Sep2015 0:00:00,000;;1084;210;1084
+111-1;Apoteket Frederiksberg Centret;7;Falkoner Alle 21;2000;01Dec2017 0:00:00,000;;1084;147;1084
+017-4;Apoteket Frihedens Butikscenter;7;Strandmarksvej 20;2650;09Jun2016 0:00:00,000;01Jul2017 0:00:00,000;1084;167;1084
+355-3;Apoteket Frihedens Butikscenter;7;Strandmarksvej 20;2650;01Jul2017 0:00:00,000;01Oct2018 0:00:00,000;1084;167;1084
+364-2;Apoteket Gefion;7;Gefionsvej 45A;3000;06Feb2017 0:00:00,000;;1084;217;1084
+109-1;Apoteket Glostrup Shoppingcenter;7;Glostrup Shoppingcenter 48;2600;26Aug2016 0:00:00,000;;1084;161;1084
+013-1;Apoteket Havnegade;7;Havnegade 69;4900;01Dec2015 0:00:00,000;;1085;360;1085
+281-1;Apoteket HerningCentret;7;Merkurvej 1D,st.109, HerningCentret;7400;01Jul2015 0:00:00,000;;1082;657;1082
+225-2;Apoteket i Ballerup Centret;7;Ballerup-Centret 2, 1. 3;2750;26Oct2015 0:00:00,000;;1084;151;1084
+223-2;Apoteket i Fredericia Sundhedshus;7;Dronningensgade 97 A st;7000;01Nov2018 0:00:00,000;;1083;607;1083
+184-1;Apoteket Jernbane Allé;7;Jernbane Allé 31;2720;01Jul2019 0:00:00,000;;1084;101;1084
+327-1;Apoteket Lille Bjørn;7;Nordens Plads 4A, stuen;2000;04Jan2016 0:00:00,000;;1084;147;1084
+360-2;Apoteket Møllebro;7;Slangerupgade 50;3400;09Dec2019 0:00:00,000;;1084;219;1084
+096-3;Apoteket Nørregade-Odder;7;Nørregade 6;8300;01Sep2018 0:00:00,000;;1082;727;1082
+152-3;Apoteket Odense Banegård;7;Østre Stationsvej 27, 2.sal;5000;14Jan2019 0:00:00,000;;1083;461;1083
+281-2;Apoteket Porshøj;7;Porsvænget 4;7400;03Aug2015 0:00:00,000;;1082;657;1082
+170-3;Apoteket ROs Torv;7;ROs Torv 210;4000;28Aug2015 0:00:00,000;;1085;265;1085
+274-1;Apoteket Thors Bakke;7;Biografgade 3;8900;01Sep2015 0:00:00,000;;1082;730;1082
+282-1;Apoteket Vesterbro Odense;7;Vesterbro 39;5000;21Sep2018 0:00:00,000;;1083;461;1083
+318-A1;Apoteksudsalg fra Trekroner Apopotek;8;Frugthaven 14;2500;01.01.1992;01Jun2012 0:00:00,000;13;101;
+367-A2;Apoteksudsalg Vest;8;Frederiksværkgade 115;3400;13.09.2001;31Oct2016 0:00:00,000;1084;219;1084
+367-A1;Apoteksudsalg Øst;8;Fredskovhellet 1;3400;01.01.1992;27Apr2020 0:00:00,000;1084;219;1084
+281-A2;Apoteksudsalget herningCentret;8;Merkurvej 51;7400;18.11.2013;01Jul2015 0:00:00,000;1082;657;1082
+327-A1;Apoteksudsalget Lille Bjørn;8;Nordens Plads 2;2000;01Jun2004 0:00:00,000;04Jan2016 0:00:00,000;1084;147;1084
+364-A1;Apoteksudsalget på Kingosvej;8;Kingosvej 54;3000;01.03.2008;04Feb2017 0:00:00,000;1084;217;1084
+077-A1;Apoteksudsalget RingStedet;8;Klosterparks Allé 10;4100;09Jul2008 0:00:00,000;01Sep2015 0:00:00,000;1085;329;1085
+274-A1;Apoteksudsalget Thors Bakke;8;Biografgade 1 B;8900;20.01.2014;01Sep2015 0:00:00,000;1082;730;1082
+323-A1;Apoteksudsalget Vestamager Centret;8;Ugandavej 111;2770;01.07.2015;06Dec2018 0:00:00,000;1084;185;1084
+220-A1;Arden Apoteksudsalg;8;Skovvej 4;9510;01Apr2003 0:00:00,000;;1081;846;1081
+216;Asnæs Apotek;6;Asnæs Centret 7;4550;01Jan1905 0:00:00,000;;1085;306;1085
+024;Assens Apotek;6;Østergade 35;5610;01-01-1753 00:00;;1083;420;1083
+326-1;Assentoft Apotek;7;Storegade 61, Assentoft;8960;01Jan2016 0:00:00,000;;1082;730;1082
+326-A1;Assentoft Apoteksudsalg;8;Storegade 61, Assentoft;8960;01.01.2001;01Jan2016 0:00:00,000;1082;730;1082
+285-1;Augustenborg Apotek;7;Storegade 41;6440;01Dec2015 0:00:00,000;;1083;540;1083
+285-A1;Augustenborg Apoteksudsalg;8;Storegade 41;6440;01.01.1992;30Nov2015 0:00:00,000;1083;540;1083
+246-2;Aulum Apotek;7;Skolegade 2;7490;01Oct2016 0:00:00,000;;1082;657;1082
+246-A1;Aulum Apoteksudsalg;8;Skolegade 2;7490;01.01.2000;01Oct2016 0:00:00,000;1082;657;1082
+104-1;Auning Apotek;7;Centervej 4B;8963;29.12.2009;;1082;707;1082
+355-A1;Avedøre Apoteksudsalg;8;;;01.01.1992;31Dec2013 0:00:00,000;1084;167;1084
+223-A1;Axeltorvs Apoteksudsalg;8;Jyllandsgade 24;7000;01Apr2019 0:00:00,000;01May2019 0:00:00,000;1083;607;1083
+353;Bagsværd Apotek;6;Bagsværd Torv 6;2880;01Jan1956 0:00:00,000;;1084;159;1084
+225;Ballerup Apotek;6;Centrumgaden 24-26;2750;01Jan1907 0:00:00,000;;1084;151;1084
+225-A4;Ballerup Centrets Apoteksudsalg;8;Banetoften 30;2750;12Dec2011 0:00:00,000;26Oct2015 0:00:00,000;1084;151;1084
+143-1;Balling Apotek;7;Vestergade 1, Balling;7860;01Dec2003 0:00:00,000;;1082;779;1082
+205;Balling Apotek;6;Vestergade 1, Balling;7860;01Jan1903 0:00:00,000;30Nov2003 0:00:00,000;76;781;
+019-1;Bankager Apotek;7;Bankagervej 111;8700;01Jul2015 0:00:00,000;;1082;615;1082
+019-A1;Bankagervejs Apoteksudsalg;8;Bankagervej 111;8700;01.01.2000;01Jul2015 0:00:00,000;1082;615;1082
+241-A1;Beder Apoteksudsalg;8;Butikstorvet;8330;01.01.2000;02Oct2017 0:00:00,000;1082;751;1082
+241-2;Beder-Malling Apotek;7;Byvej 2;8330;02Oct2017 0:00:00,000;;1082;751;1082
+419;Bellinge Apoteksudsalg;8;Elmegårdsvej 2;5250;01.03.2003;30.06.2015;1083;461;1083
+123-A1;Bellinge Apoteksudsalg;8;Elmegårdsvej 2;5250;01.07.2015;31.05.2020;1083;461;1083
+088-1;Billund Apotek;7;Butikstorvet 3;7190;01Jul2015 0:00:00,000;;1083;530;1083
+088-A1;Billund Apoteksudsalg;8;Butikstorvet 3;7190;01.01.1992;01Jul2015 0:00:00,000;1083;530;1083
+346;Birkerød Apotek;6;Teglporten 27;3460;01Jan1938 0:00:00,000;;1084;230;1084
+145;Bjerringbro Apotek;6;Nørregade 4;8850;01-01-1877 00:00;;1082;791;1082
+180-1;Bjæverskov Apotek;7;Ejbovej 33;4632;20Jun2019 0:00:00,000;;1085;259;1085
+048;Bogense Apotek;13;Vestergade 9;5400;01-01-1799 00:00;31Oct2017 0:00:00,000;1083;480;1083
+316-2;Bogense Apotek;7;Vestergade 9;5400;01Nov2017 0:00:00,000;;1083;480;1083
+180;Borup Apotek;6;Hovedgaden 15;4140;01-01-1899 00:00;;1085;259;1085
+271-1;Bramdrupdam Apotek;7;Centervej 5;6000;26Mar2020 0:00:00,000;;1083;621;1083
+253;Bramminge Apotek;6;Storegade 2, st.;6740;01Jan1907 0:00:00,000;;1083;561;1083
+115-1;Brande Apotek;7;Storegade 13;7330;01May2009 0:00:00,000;;1082;756;1082
+258;Brande Apotek;6;Storegade 13;7330;01Jan1916 0:00:00,000;01May2009 0:00:00,000;1082;756;1082
+348-1;Bredalsparken Apotek;7;Hvidovrevej 322;2650;03Feb2017 0:00:00,000;;1084;167;1084
+234-2;Bredballe Apotek;7;Bredballe Center 12;7120;12Apr2018 0:00:00,000;;1083;630;1083
+234-A1;Bredballe Apoteksudsalg;8;Bredballe Center 23;7120;01.01.2000;12Apr2018 0:00:00,000;1083;630;1083
+349-A1;Brede Apoteksudsalg;8;Brede Torv, Lystoftevej 52;2800;;31Jul2017 0:00:00,000;1084;173;1084
+296;Broager;6;Storegade 21, Broager kommune;;17Jan1912 0:00:00,000;30Jul1977 0:00:00,000;;540;
+289-1;Broager Apotek;7;Storegade 6 A;6310;01.01.1992;;1083;540;1083
+105-3;Brovst Apotek;7;Østergade 16;9460;01Nov2009 0:00:00,000;;1081;849;1081
+167;Brovst Apotek;6;Vestergade 6;9460;01-01-1897 00:00;01Nov2009 0:00:00,000;1081;849;1081
+337-2;Bruuns Apotek;7;M.P. Bruuns Gade 25, 99;8000;01May2016 0:00:00,000;;1082;751;1082
+355-1;Brøndby Strand Apotek;7;Brøndby Strand Centrum 16;2660;27.08.2016;;1084;153;1084
+413;Brøndby Strand Apotek;7;Brøndby Strand Centrum 16;2660;01.01.1992;26.08.2016;1084;153;1084
+354-1;Brøndbyvester Apotek;7;Søndre Ringvej 41F;2605;01Dec2015 0:00:00,000;;1084;153;1084
+354;Brøndbyøster Apotek;6;Nygårds Plads 29A;2605;01Jan1957 0:00:00,000;;1084;153;1084
+172;Brønderslev Apotek;6;Peder Møllers Plads 10;9700;01-01-1883 00:00;;1081;810;1081
+172-2;Brønderslev Løve Apotek;7;Løvbjerg Arkaden 14;9700;03Dec2016 0:00:00,000;;1081;810;1081
+341-4;Brønshøj Apotek;7;Højenhald 2;2700;29Apr2016 0:00:00,000;;1084;101;1084
+094;Brørup;6;Ved Kolding-varde vejen;;12-08-1848 00:00;31Aug1976 0:00:00,000;;575;
+253-1;Brørup Apotek;7;Søndergade 17;6650;01.01.1992;;1083;575;1083
+358;Buddinge Apotek;13;Søborg Hovedgade 201;2860;01Jan1961 0:00:00,000;;1084;159;1084
+276;Børkop Apotek;13;Ny Boder 16;7080;01Jan1907 0:00:00,000;;1083;630;1083
+194;Bøvlingbjerg;6;Tangsøgade 34, Lemvig;;11Feb1902 0:00:00,000;01Jun1994 0:00:00,000;1082;665;
+120-1;Bøvlingbjerg Apotek;7;Fårevej 143, Lejlighed 1;7650;02.03.2009;;1082;665;1082
+159;Charlottenlund Apotek;6;Lindegårdsvej 51, st;2920;01-01-1894 00:00;;1084;157;1084
+290;Christiansfeld Apotek;6;Lindegade 21;6070;01-01-1786 00:00;01Jun2008 0:00:00,000;1083;621;1083
+291-1;Christiansfeld Apotek;7;Lindegade 35 C;6070;01.06.2008;;1083;621;1083
+017-3;City 2 Apoteket;7;Cityringen 4, 218;2630;31Mar2016 0:00:00,000;;1084;169;1084
+252-A2;City 2 Apoteksudsalg;8;City 2;2630;25Jun2001 0:00:00,000;11Jan2016 0:00:00,000;1084;169;1084
+414;Dianalund Apotek;6;Torvet 8;2630;01.01.1992;16.10.2009;1085;340;1085
+207-1;Dianalund Apotek;7;Torvet 5;4293;01.11.2008;;1085;340;1085
+350-1;Dragør Apotek;7;Maglebytorv 18;2791;01Sep2006 0:00:00,000;;1084;155;1084
+326-2;Dronningborg Apotek;7;Skovlyvej 15;8930;24Apr2017 0:00:00,000;;1082;730;1082
+316-1;Dronningensvej Apotek;7;Dronningensvej 5, st. tv.;5800;06Jun2016 0:00:00,000;;1083;450;1083
+144;Dronninglund Apotek;6;Slotsgade 64;9330;01-01-1876 00:00;;1081;810;1081
+078-2;Dæmningens Apotek;7;Dæmningen 17;7400;06Dec2018 0:00:00,000;;1082;657;1082
+070;Ebeltoft Apotek;6;Bryggerivej 4;8400;01-01-1815 00:00;;1082;706;1082
+273-1;Egeris Apotek;7;Kirke Allé 94;7800;04Apr2016 0:00:00,000;;1082;779;1082
+122;Egtved Apotek;13;Aftensang 10;6040;01-01-1871 00:00;;1083;630;1083
+178-3;Egå Apotek;7;Egå Havvej 2H;8250;08Jan2018 0:00:00,000;;1082;751;1082
+178-A1;Egå Apoteksudsalg;8;Egå Havvej 2H;8250;01.01.2000;08Jan2018 0:00:00,000;1082;751;1082
+189;Ejby Apotek;6;Algade 4;5592;01Jan1901 0:00:00,000;;1083;410;1083
+131-2;Engelsborg Apotek;7;Fabrikvej 2;8800;02Nov2015 0:00:00,000;;1082;791;1082
+015-A3;Erritsø Apoteksudsalg;8;Erritsø Butikstorv;7000;05.02.2009;01Feb2016 0:00:00,000;1083;607;1083
+363-3;Esbjerg City Nord Apotek;7;Stormgade 157;6715;01Oct2016 0:00:00,000;;1083;561;1083
+363;Esbjerg Jerne Apotek;6;Strandby Kirkevej 80;6705;01Jan1967 0:00:00,000;;1083;561;1083
+158;Esbjerg Krone Apotek;6;Kongensgade 36;6700;01Jan1929 0:00:00,000;;1083;561;1083
+158-1;Esbjerg Krone Apotek Broen;7;Exnersgade 18, st. 15;6700;10Apr2017 0:00:00,000;;1083;561;1083
+319;Esbjerg Løve Apotek;6;Torvegade 43, Esbjerg;;18Mar1929 0:00:00,000;01Nov1992 0:00:00,000;;561;
+233;Esbjerg Neptun Apotek;6;Stormgade 2;6700;01Jan1910 0:00:00,000;;1083;561;1083
+154-1;Espergærde Apotek;7;Nørremarken 3;3060;01.01.1992;;1084;217;1084
+206;Fakse Apotek;6;Rønnedevej 15;4640;01-01-1892 00:00;;1085;320;1085
+093;Fanø Apotek;6;Hovedgaden 64;6720;01.01.1992;29.02.2008;1083;563;1083
+363-1;Fanø Apotek;7;Hovedgaden 64;6720;01.03.2008;;1083;563;1083
+107;Farsø Apotek;6;Nørregade 11;9640;01-01-1860 00:00;01May2018 0:00:00,000;1081;820;1081
+259-2;Farsø Apotek;7;Torvet 8;9640;01May2018 0:00:00,000;;1081;820;1081
+278;Farum Apotek;6;Farum Bytorv 69;3520;01-01-1885 00:00;;1084;190;1084
+012-A1;Fensmark Apoteksudsalg;8;Holmegårdsvej 1 A, Fensmark;4684;01.01.1992;;1085;370;1085
+152-A3;Ferritslev Apoteksudsalg;8;Ørbækvej 883;5863;01Sep2013 0:00:00,000;02May2016 0:00:00,000;1083;430;1083
+029-2;Fields Apotek;7;Arne Jacobsens Allé 12;2300;20Jul2015 0:00:00,000;;1084;101;1084
+029-A1;Fields Copenhagen Apoteksudsalg;8;Arne Jacobsens Allé 12;2300;01Aug2010 0:00:00,000;20Jul2015 0:00:00,000;1084;101;1084
+039-1;Fjerritslev Apotek;7;Østergade 11-13;9690;01Jul2010 0:00:00,000;;1081;849;1081
+073;Fjerritslev Apotek;6;Jernbanegade 2;9690;01-01-1824 00:00;30Jun2010 0:00:00,000;1081;849;1081
+068-2;Fjord Apoteket Frederikssund;7;Kalvøvej 2A;3600;12Nov2018 0:00:00,000;;1084;250;1084
+177-2;Folkebo Apotek;7;Hjallesevej 201B;5230;27Nov2017 0:00:00,000;;1083;461;1083
+177-A1;Folkebo Apoteksudsalg;8;Hjallesevej 207;5230;01.01.1992;27Nov2017 0:00:00,000;1083;461;1083
+154-2;Fredensborg Apotek;7;Jernbanegade 3;3480;01.01.1992;;1084;210;1084
+223;Fredericia Krone Apotek;13;Prinsessegade 45-49;7000;01Jan1907 0:00:00,000;;1083;607;1083
+015-2;Fredericia Løve Apoteket Vestcentret;7;Venusvej 10 B;7000;01Jul2015 0:00:00,000;;1083;607;1083
+111;Frederiksberg Apotek;6;Gammel Kongevej 162;1850;01-01-1867 00:00;;1084;147;1084
+310;Frederiksberg Apoteket Bjørnen;6;Nordens Plads 16;2000;01Nov1977 0:00:00,000;31May2004 0:00:00,000;14;147;
+184;Frederiksberg Apoteket Godthåb;6;Godthåbsvej 4;2000;12Nov1901 0:00:00,000;;1084;147;1084
+327;Frederiksberg Dalgas Boulevard Apotek;6;Dalgas Boulevard 91;2000;01.03.1994;;1084;147;1084
+222;Frederiksberg Fasan Apotek;6;Godthåbsvej 58;2000;01Jan1907 0:00:00,000;23Dec2004 0:00:00,000;14;147;
+262;Frederiksberg Gl. Kongevej Apotek;13;Gammel Kongevej 76;1850;01Jan1916 0:00:00,000;;1084;147;1084
+334-1;Frederiksberg Løve Apotek;7;Falkoner Alle 88;2000;22Nov2018 0:00:00,000;;1084;147;1084
+185;Frederiksberg Smallegades Apotek;6;Smallegade 46;2000;01Jan1900 0:00:00,000;;1084;147;1084
+066;Frederikshavn Løve Apotek;6;Hangaardsvej 7;9900;01-01-1810 00:00;;1081;813;1081
+313;Frederikshavn Svane Apotek;6;Søndergade 1;9900;01Jan1923 0:00:00,000;;1081;813;1081
+068;Frederikssund Apotek;6;Nygade 1, 1. sal 18;3600;01-01-1815 00:00;;1084;250;1084
+080;Frederiksværk Apotek;6;Nørregade 4;3300;11-12-1857 00:00;;1084;260;1084
+355;Friheden Apotek;6;Strandmarksvej 20;2650;01Jan1958 0:00:00,000;;1084;167;1084
+267;Frøstrup Apotek;6;Hanstholm;;14Sep1903 0:00:00,000;01Jul1972 0:00:00,000;;787;
+102;Fuglebjerg Apotek;6;Indre Krummerupvej 1;4250;01-01-1856 00:00;31Jul2007 0:00:00,000;1085;370;1085
+137-1;Fuglebjerg Apotek;7;Byagervej 6 A;4250;01Aug2007 0:00:00,000;;1085;370;1085
+034;Faaborg Løve Apotek;6;Herregårdscentret 6;5600;01-01-1753 00:00;;1083;430;1083
+129;Galten Apotek;13;Torvet 3;8464;01-01-1876 00:00;;1082;746;1082
+215;Gentofte Apotek;13;Gentoftegade 35;2820;01Jan1904 0:00:00,000;;1084;157;1084
+279;Gesten Apotek;6;Vejen Kommune;;05Nov1902 0:00:00,000;30Sep1969 0:00:00,000;;575;
+113;Gilleleje Apotek;6;Vesterbrogade 6 B;3250;01-01-1869 00:00;;1084;270;1084
+269;Gislev;6;Nyborgvej 11, Ryslinge kommune;;24Jun1907 0:00:00,000;15Feb1973 0:00:00,000;;430;
+115;Give Apotek;6;Østergade 8-14;7323;01-01-1869 00:00;;1083;630;1083
+024-2;Glamsbjerg Apotek;7;Søndergade 70;5620;01May2017 0:00:00,000;;1083;420;1083
+024-1-A1;Glamsbjerg Apoteksudsalg;8;Søndergade 26;5620;18.07.2008;01May2017 0:00:00,000;1083;420;1083
+076-A1;Glarbjerg Apoteksudsalg;8;Glarbjergvej 85;8900;01.01.2000;30Nov2004 0:00:00,000;70;731;
+274-A3;Glarbjerg Apoteksudsalg;8;Glarbjergvej 85;8900;01Dec2004 0:00:00,000;;1082;730;1082
+109;Glostrup Apotek;6;Hovedvejen 101;2600;01-01-1863 00:00;;1084;161;1084
+137;Glumsø Apotek;13;Østergade 8;4171;01-01-1883 00:00;;1085;370;1085
+415;Gram Apotek;7;Torvet 3;6510;01.01.1992;22.06.2015;1083;510;1083
+286-1;Gram Apotek;7;Torvet 4;6510;25.02.2015;;1083;510;1083
+225-A1;Grantoften Apoteksudsalg;8;Grantoftestræde 11;2750;01.04.2000;09Dec2011 0:00:00,000;1084;151;
+037;Grenaa Apotek;6;Kannikegade 12;8500;01-01-1753 00:00;;1082;707;1082
+370;Greve Apotek;6;Greve Midtby Center 14 B;2670;27Jun2005 0:00:00,000;;1085;253;1085
+365-22;Greve Apotek (gl);7;Greve Midtby Center 6 E;2670;01.01.1991;26Jun2005 0:00:00,000;25;253;
+088;Grindsted Apotek;6;Borgergade 29;7200;01-01-1842 00:00;;1083;530;1083
+088-2;Grindsted Lyng Apotek;7;Vestergade 34;7200;01Nov2019 0:00:00,000;;1083;530;1083
+113-A1;Græsted Apoteksudsalg;8;Græsted Hovedgade 8;3230;01.01.1992;;1084;270;1084
+289;Gråsten Apotek;6;Sundsnæs 13;6300;01-01-1828 00:00;;1083;540;1083
+297-A1;Guderup Apoteksudsalg;8;Mosevej 1, Guderup;6430;01.04.2003;11Jul2014 0:00:00,000;1083;540;1083
+298-1-A1;Guderup Apoteksudsalg;8;Mosevej 1, Guderup;6430;01Feb2014 0:00:00,000;;1083;540;1083
+136-1;Guldborgsund Svane Apotek;7;Guldborgsundcentret 23, Sundby;4800;01Jun2020 0:00:00,000;;1085;376;1085
+323-2;Gyldenrisparkens Apotek;7;Amagerbrogade 264;2300;01Sep2015 0:00:00,000;;1084;101;1084
+201;Gørding;6;Søndergade 3, Bramminge;;05Nov1902 0:00:00,000;30Aug1975 0:00:00,000;;561;
+097;Gørlev;6;Østerled 35, Gørlev;;24Dec1907 0:00:00,000;28Feb1990 0:00:00,000;;326;
+254-1;Gørlev Apotek;7;Algade 29;4281;01.01.1991;;1085;326;1085
+291;Haderslev Hjorte Apotek;6;Bispebroen 2 A;6100;01-01-1753 00:00;;1083;510;1083
+047-2;Haderslev Krone Apotek;7;Bredgade 12;6100;29Aug2019 0:00:00,000;;1083;510;1083
+292;Haderslev Løve Apotek;13;Jomfrustien 40;6100;01-01-1802 00:00;;1083;510;1083
+164;Hadsten Apotek;6;Vesselbjergvej 8;8370;01-01-1896 00:00;;1082;710;1082
+164-2;Hadsten Gazelle Apotek;7;Bavne Allé 25;8370;01Feb2016 0:00:00,000;13Dec2016 0:00:00,000;1082;710;
+218;Hadsund Apotek;6;Storegade 23-25;9560;01Jan1905 0:00:00,000;;1081;846;1081
+125;Hallund;6;Sølvgade 73, Brønderslev;;15-08-1873 00:00;29Nov1975 0:00:00,000;;;
+144-1;Hals Apotek;7;Havnegade 7A;9370;01Feb2006 0:00:00,000;;1081;851;1081
+245;Hals Apotek;6;Havnegade 4;9370;01Jan1903 0:00:00,000;01Feb2006 0:00:00,000;80;817;
+087;Hammel Frijsenborg Apotek;13;Østergade 1;8450;01-01-1841 00:00;;1082;710;1082
+237;Hammershøj;6;Ranersvej 13. Tjele;;24Jun1907 0:00:00,000;30Nov1980 0:00:00,000;;;
+131-1;Hammershøj Apotek;7;Randersvej 8;8830;01.01.1992;;1082;791;1082
+247-A1;Hanstholm Apoteksudsalg;8;Bytorvet 20;7730;01.01.1992;;1081;787;1081
+129-1;Harlev Apotek;7;Gl. Stillingvej 427;8462;01Sep2015 0:00:00,000;;1082;746;1082
+129-A1;Harlev Apoteksudsalg;8;Gl. Stillingvej 427;8462;02Dec2002 0:00:00,000;01Sep2015 0:00:00,000;1082;746;1082
+337-1;Hasle Apotek;7;Hasle Torv, Viborgvej 150;8210;16Nov2015 0:00:00,000;;1082;751;1082
+337-A1;Hasle Apoteksudsalg;8;Hasle Torv, Viborgvej 150;8210;01.01.2000;13Nov2015 0:00:00,000;1082;751;1082
+100;Haslev Apotek;6;Jernbanegade 11;4690;01-01-1856 00:00;;1085;320;1085
+255-1;Hasseris Apotek;7;Hasseris Bymidte 9;9000;01Sep2015 0:00:00,000;;1081;851;1081
+255-A2;Hasseris Bymidte Apoteksudsalg;8;Hasseris Bymidte 9;9000;01.01.2000;01Sep2015 0:00:00,000;1081;851;1081
+221;Havdrup Apotek;6;Skovvej 5, Postboks 10;4622;01Jan1907 0:00:00,000;27Jun2005 0:00:00,000;25;269;
+370-1;Havdrup Apotek;7;Møllemarken 8;4622;27Jun2005 0:00:00,000;;1085;269;1085
+192;Haverslav;6;Jyllandsgade 20, Nørager;;28Oct1901 0:00:00,000;31Jul1974 0:00:00,000;;;
+156-3;Havne Apoteket;7;Windfeld Hansensgade 2;7100;01Sep2016 0:00:00,000;;1083;630;1083
+225-3;Hedegårdens Apotek;7;Hedeparken 9;2750;20Jun2016 0:00:00,000;;1084;151;1084
+225-A2;Hedegårdens Apoteksudsalg;8;Hedeparken 9;2750;01.04.2000;20Jun2016 0:00:00,000;1084;151;1084
+252-1;Hedehusene Apotek;7;Hovedgaden 421;2640;01.01.1992;;1084;169;1084
+248;Hedensted Apotek;6;Bytorvet 21 B;8722;01Jan1914 0:00:00,000;;1082;766;1082
+182;Hellerup Apotek;13;Strandvejen 165;2900;01Jan1900 0:00:00,000;;1084;157;1084
+264;Hellerup Jernbane;6;Hellerupvej 40, 2900 Hellerup;;20Jan1917 0:00:00,000;30Nov1974 0:00:00,000;;;
+330;Hellerup Øregård Apotek;6;Strandvejen 203;2900;01Jan1932 0:00:00,000;31Oct2003 0:00:00,000;15;157;
+191;Helsinge Apotek;6;Østergade 35;3200;01Jan1901 0:00:00,000;;1084;270;1084
+364;Helsingør Axeltorvs Apotek;6;Groskenstræde 2 A;3000;01Jan1968 0:00:00,000;;1084;217;1084
+238;Helsingør Stengades Apotek;6;Stengade 46;3000;01Jan1912 0:00:00,000;;1084;217;1084
+004;Helsingør Svane;6;;;01Jan1900 0:00:00,000;31Aug1970 0:00:00,000;;;
+368-2;Herfølge Apotek;7;Vordingborgvej 106;4681;01Feb2017 0:00:00,000;;1085;259;1085
+368-A1;Herfølge Apoteksudsalg;8;Vordingborgvej 106;4681;01.11.2015;31Jan2016 0:00:00,000;1085;259;1085
+351;Herlev Apotek;6;Herlev Torv 13;2730;01Jan1951 0:00:00,000;;1084;163;1084
+078;Herning Løve Apotek;6;Bredgade 45;7400;01-01-1832 00:00;;1082;657;1082
+281;Herning Østergades Apotek;6;Østergade 5;7400;15Sep1920 0:00:00,000;;1082;657;1082
+035-1;Hesselager Apotek;7;Langgade 5;5874;01Jun2012 0:00:00,000;;1083;479;1083
+117;Hesselager Apotek;6;Langgade 20;5874;01-01-1870 00:00;01Jun2012 0:00:00,000;1083;479;1083
+044;Hillerød Frederiksborg Apotek;6;Slotsgade 26;3400;01-01-1792 00:00;;1084;219;1084
+367;Hillerød Krone Apotek;6;Helsingørsgade 10;3400;01Jan1998 0:00:00,000;;1084;219;1084
+367-2;Hillerød Øst Apotek;7;Fredskovhellet 1;3400;27Apr2020 0:00:00,000;;1084;219;1084
+164-1;Hinnerup Apotek;7;Storegade 5;8382;01Oct2006 0:00:00,000;;1082;710;1082
+356;Hirtshals Apotek;6;Jørgen Fibigersgade 18;9850;01Jan1959 0:00:00,000;;1081;860;1081
+144-2;Hjallerup Apotek;7;Søndergade 6;9320;19Mar2018 0:00:00,000;;1081;810;1081
+144-A1;Hjallerup Apoteksudsalg;8;Søndergade 6;9320;01.01.2001;19Mar2018 0:00:00,000;1081;810;1081
+345-A1;Hjallese Apoteksudsalg;8;Odensevej 18 B;5260;01.01.2000;29Apr2013 0:00:00,000;1083;461;
+363-2;Hjerting Apotek;7;Havbakken 2;6710;01Dec2015 0:00:00,000;;1083;561;1083
+351-A1;Hjortespring-Centrets Apoteksudsalg;8;Dildhaven 45;2730;01.07.2010;30.09.2020;1084;163;1084
+045-1;Hjørring Hjorte Apotek;7;Frederikshavnsvej 44;9800;01Feb2018 0:00:00,000;;1081;860;1081
+045;Hjørring Løve Apotek;6;Østergade 7 A;9800;01-01-1794 00:00;;1081;860;1081
+236;Hjørring Svane Apotek;6;Strømgade 5;9800;01Jan1911 0:00:00,000;30Jun2019 0:00:00,000;1081;860;1081
+054;Hobro Apotek;6;Adelgade 18;9500;01-01-1803 00:00;;1081;846;1081
+026;Holbæk Elefant Apotek;13;Ahlgade 32;4300;01-01-1753 00:00;;1085;316;1085
+239;Holbæk Løve Apotek;6;Labæk 4-6;4300;01Jan1913 0:00:00,000;;1085;316;1085
+025-A2;Holeby Apoteksudsalg;8;;;31Aug2008 0:00:00,000;27Apr2010 0:00:00,000;1085;360;
+030;Holstebro Løveapotek;6;Store Torv 8;7500;01-01-1753 00:00;;1082;661;1082
+275;Holstebro Svane Apotek;6;Nørregade 51;7500;01Jan1917 0:00:00,000;;1082;661;1082
+253-2;Holsted Apotek;7;Søndergade 16;6670;01Jun2005 0:00:00,000;;1083;575;1083
+268;Holsted Apotek;6;Søndergade 16;6670;01Jan1906 0:00:00,000;01Jun2005 0:00:00,000;55;569;
+283;Holte Apotek;6;Holte Midtpunkt 20, 1. sal;2840;01Jan1919 0:00:00,000;;1084;230;1084
+226;Hornbæk;6;Sauntevej 2, Hornbæk;;04Mar1908 0:00:00,000;30Sep1976 0:00:00,000;;;
+113-1;Hornbæk Apotek;7;Sauntevej 2;3100;01.01.1992;;1084;217;1084
+011-2;Hornbæk Løve Apotek;7;Viborgvej 102A;8920;02Nov2015 0:00:00,000;;1082;730;1082
+104;Hornslet Apotek;6;Byvej 8;8543;01-01-1857 00:00;;1082;706;1082
+108;Hornsyld Apotek;6;Apotekerbakken 23;8783;01-01-1860 00:00;27May2015 0:00:00,000;1082;766;1082
+248-A1;Hornsyld Apoteksudsalg;8;Apotekerbakken 23;8783;01.05.2015;;1082;766;1082
+321;Horsens Hvide Hest;6;Amaliegade 5, Horsens;;23Aug1929 0:00:00,000;31Jul1986 0:00:00,000;;;
+166;Horsens Løve Apotek;6;Nørretorv 2;8700;01-01-1897 00:00;;1082;615;1082
+118;Horsens Svane Apotek;6;Grønlandsvej 1 D;8700;01-01-1870 00:00;;1082;615;1082
+019;Horsens Søndergades Apotek;6;Søndergade 12;8700;01-01-1753 00:00;;1082;615;1082
+183-1;Hovedbanens Apotek;7;Bernstorffsgade 16;1577;04Sep2017 0:00:00,000;;1084;101;1084
+272;Hovedgård;6;Greved Kommune;;24Jun1907 0:00:00,000;30Nov1989 0:00:00,000;;;
+166-1;Hovedgård Apotek;7;Ørridslevvej 1;8732;01.01.1992;29.02.2008;1082;615;1082
+027-1;Humble Apotek;7;Hovedgaden 2;5932;01.09.2016;;1083;482;1083
+251;Humble Apotek;6;Hovedgaden 2, 5932 Humble;;23Apr1915 0:00:00,000;30Sep1998 0:00:00,000;1083;482;
+154;Humlebæk Apotek;6;Humlebæk Center 23;3050;01-01-1893 00:00;;1084;210;1084
+263;Hundborg;6;Thisted Kommune;;24Jun1907 0:00:00,000;31Dec1967 0:00:00,000;;;
+415;Hundested Apotek;6;Nørregade 54;3390;01.01.1992;31.12.2019;1084;260;1084
+080-1;Hundested Apotek;7;Nørregade 54;3390;01.11.2019;;1084;260;1084
+365;Hundige Apotek;6;Over Bølgen 19H;2670;01Jan1976 0:00:00,000;;1085;253;1085
+277;Hurup Apotek;6;Sundsvej 1;7760;15Dec1918 0:00:00,000;;1081;787;1081
+341-5;Husum Bypark Apotek;7;Frederikssundsvej 284 (i Føtex);2700;01Sep2017 0:00:00,000;;1084;101;1084
+119;Hvalsø Apotek;6;Roskildevej 4;4330;01-01-1871 00:00;;1085;350;1085
+074;Hvidbjerg Thyholm;6;(formentlig)i Søndbjerg, Thyholm;;04-09-1822 00:00;30Apr1970 0:00:00,000;;;
+038-A1;Hvide Sande Apoteksudsalg;8;Metheasvej 1;6960;01.01.2000;;1082;760;1082
+348;Hvidovre Apotek;6;Hvidovrevej 178;2650;01Jan1950 0:00:00,000;;1084;167;1084
+348-A1;Hvidovre C Apoteksudsalg;8;;;;26Nov2014 0:00:00,000;1084;167;1084
+348-2;Hvidovre Hospital Privatapoteket;7;Kettegård alle 30;2650;12Sep2018 0:00:00,000;;1084;167;1084
+355-2;Hvidovre Stationsapotek;7;Laurits Olsensvej 1, stuen, dør 30;2650;15Nov2016 0:00:00,000;;1084;167;1084
+017-1;Hyrdehøj Apotek;7;Hyrdehøj Alle 5;4000;10Nov2015 0:00:00,000;;1085;265;1085
+353-A1;Høje Gladsaxe Torv Apoteksudsalg;8;Høje Gladsaxe Torv 2;2860;30.04.2008;31Dec2010 0:00:00,000;1084;159;
+252-2;Høje Taastrup Apotek;7;Høje Taastrup Boulevard 44;2630;31Oct2016 0:00:00,000;;1084;169;1084
+252-A1;Høje Tåstrup Apoteksudsalg;8;Høje Taastrup Boulevard 44;2630;01.01.1992;31Oct2016 0:00:00,000;1084;169;1084
+299;Højer;6;Højer Kommune;;24-04-1840 00:00;31Mar1989 0:00:00,000;;;
+302-A1;Højer Apoteksudsalg;8;Skolegade 8;6280;01Jan2011 0:00:00,000;;1083;550;1083
+085;Højreby Hjorte Apotek;6;Hovedgaden 46 A;4920;01-01-1842 00:00;13Oct2001 0:00:00,000;35;;
+254;Høng Apotek;6;Centervej 35;4270;01Jan1907 0:00:00,000;;1085;326;1085
+060-3;Hørning Apotek filial af Skanderborg Apotek;7;Nørre Allé 38;8362;23Nov2015 0:00:00,000;;1082;746;1082
+060-A1;Hørning Apoteksudsalg;8;Nørre Allé 13;8362;01.01.2000;23Nov2015 0:00:00,000;1082;715;1082
+079;Hørsholm Apotek;6;Hørsholm Midtpunkt 78;2970;01-01-1840 00:00;;1084;223;1084
+298-A1;Høruphav Apoteksudsalg;8;Søndre Landevej 222, Høruphav;6470;01.01.1992;;1083;540;1083
+216-A1;Hørve Apoteksudsalg;8;Vallekildevej 3;4534;05.03.2008;02May2014 0:00:00,000;1085;306;1085
+024-1;Haarby Apotek;7;Algade 33;5683;01.05.1994;;1083;420;1083
+187;Haarby Apotek;6;Algade 33;5683;01Jan1900 0:00:00,000;19Mar2008 0:00:00,000;1083;420;1083
+067-1-A2;Haarlev Apoteksudsalg;8;Hovedgaden 10 A;4652;24.07.2010;;1085;336;1085
+249;Ikast Apotek;13;Østergade 15;7430;01Jan1914 0:00:00,000;;1082;756;1082
+249-1;Ikast Apotek Vest;7;Vestergade 63 ved/Løvbjerg;7430;01Oct2016 0:00:00,000;;1082;756;1082
+365-1;Ishøj Apotek;7;Ishøj Nørregade 12, Ishøj Bycenter;2635;01.01.1991;;1084;183;1084
+266;Islands Brygge Apotek;6;Islands Brygge 3-5;2300;01Jan1917 0:00:00,000;01Feb2003 0:00:00,000;13;101;
+339-1;Islev Apotek;7;Fortvej 5;2610;01Mar2018 0:00:00,000;;1084;175;1084
+360-1;Islev Apotek;7;Fortvej 5;2610;03Aug2015 0:00:00,000;01Mar2018 0:00:00,000;1084;175;1084
+115-2;Jelling Apotek;7;Gorms Torv 5;7300;01Dec2016 0:00:00,000;;1083;630;1083
+115-A1;Jelling Apoteksudsalg;8;Gorms Torv 5;7300;01.01.2000;01Dec2016 0:00:00,000;1083;630;1083
+293;Jels Løve;6;Vestergade 4, Rødding;;13-11-1871 00:00;28Feb1979 0:00:00,000;;;
+285-3;Jernbane apoteket Perlegade;7;Perlegade 81;6400;15Jul2019 0:00:00,000;;1083;540;1083
+169-1;Jernbaneapoteket;7;Sdr. stationsvej 28 K;4200;01Mar2018 0:00:00,000;;1085;330;1085
+291-2;Jomfrustiens Apotek;7;Jomfrustien 40;6100;05Dec2016 0:00:00,000;01Apr2019 0:00:00,000;1083;510;1083
+248-1;Juelsminde Apoteksfilial;7;Søgade 3;7130;27May2015 0:00:00,000;;1082;766;1082
+116;Jyderup Apotek;6;Sølystvej 1;4450;01-01-1870 00:00;;1085;316;1085
+170-1;Jyllinge Apotek;7;Jyllinge Center 31;4040;01Dec2001 0:00:00,000;;1085;265;1085
+130-A1;Jægerspris Apoteksudsalg;8;Hovedgaden 42 B;3630;01.01.1992;09Apr2018 0:00:00,000;1084;250;1084
+130-1;Jægerspris Fasan Apotek;7;Hovedgaden 42B;3630;09Apr2018 0:00:00,000;;1084;250;1084
+023;Kalundborg Svane Apotek;6;Elmegade 15;4400;01-01-1753 00:00;;1085;326;1085
+067-1;Karise Apotek;7;Syrenvænget 20;4653;01Jul2010 0:00:00,000;;1085;320;1085
+083;Karise Apotek;6;Bredgade 26;4653;01-01-1842 00:00;30Jun2010 0:00:00,000;1085;320;1085
+210;Karup Apotek;6;Årestrupvej 15;7470;01Jan1903 0:00:00,000;02Jan2006 0:00:00,000;76;769;
+246-1;Karup Apotek;7;Herningvej 2;7470;09Jan2006 0:00:00,000;;1082;791;1082
+350;Kastrup Apotek;6;Skottegården 2;2770;01Jan1950 0:00:00,000;;1084;185;1084
+306-2;Kennedy Apotek;7;"J. F. Kennedy&#39;s Plads 1E st";9000;01Nov2017 0:00:00,000;;1081;851;1081
+052;Kerteminde Apotek;6;Langegade 37;5300;01-01-1796 00:00;;1083;440;1083
+280;Kibæk;6;Bredgade 11, 6933 Kibæk;;28Jan1919 0:00:00,000;30Sep1997 0:00:00,000;;;
+078-A1;Kibæk Apoteksudsalg;8;Nr. Bredgade 11;6933;07.04.2009;;1082;657;1082
+354-A1;Kirkebjerg Torv Apoteksudsalg;8;Park Allé 288;2605;17.05.2012;30Nov2015 0:00:00,000;1084;153;1084
+112;Kjellerup Apotek;6;Bryggerstræde 5;8620;01-01-1868 00:00;;1082;740;1082
+077-1;Klosterparkens Apotek;7;Klosterparks Allé 10;4100;01Sep2015 0:00:00,000;;1085;329;1085
+101;Kløver Apoteket Brædstrup;6;Søndergade 32;8740;01-01-1856 00:00;;1082;615;1082
+101-1;Kløver Apoteket Østbirk;7;H.C. Andersensvej 2A;8752;15.09.2018;;1082;615;1082
+168;Koldby Apotek;6;Algade 18 D;7770;03-07-1877 00:00;30Jun1999 0:00:00,000;76;;
+005;Kolding Løve Apotek;6;Sundhedshuset, Jernbanegade 26;6000;01-01-1753 00:00;;1083;621;1083
+005-1;Kolding Løve Apotek - Storcenter;7;Kolding Storcenter, Skovvangen 42;6000;01Jul2015 0:00:00,000;;1083;621;1083
+005-A1;Kolding Storcenter Apoteksudsalg;8;Skovvangen 42;6000;16.08.2010;01Jul2015 0:00:00,000;1083;621;1083
+142;Kolding Svane Apotek;6;Låsbygade 2;6000;01-01-1885 00:00;31Oct2000 0:00:00,000;60;;
+070-1;Kolind Apotek;7;Drasbeksgade 16;8560;02.07.2008;;1082;706;1082
+323-4;Kongelundens Apotek;7;Kongelundsvej 364;2770;06Dec2018 0:00:00,000;;1084;185;1084
+079-3;Kongevejens Apotek;7;Usserød Kongevej 65 B;2970;09Nov2015 0:00:00,000;;1084;223;1084
+079-A1;Kongevejens Apoteksudsalg;8;Usserød Kongevej 65B;2970;01.01.2000;09Nov2015 0:00:00,000;1084;223;1084
+043;Korsør Apotek;6;Algade 49;4220;01-01-1761 00:00;;1085;330;1085
+357-2;Korup Apoteksfilial;7;Åbakkevej 67 D;5210;01Oct2015 0:00:00,000;;1083;461;1083
+357-A1;Korup Apoteksudsalg;8;Åbakkevej 67;5210;27.09.2001;01Oct2015 0:00:00,000;1083;461;1083
+060-4;Kridthøj Apotek filial af Skanderborg Apotek;7;Olaf Rudes Vej 22;8270;02May2016 0:00:00,000;;1082;751;1082
+011-A2;Kristrup Apoteksudsalg;8;Valdemarsvej 1 ST;8960;01.01.2000;01Sep2015 0:00:00,000;1082;730;1082
+011-1;Kristrup Løve Apotek;7;Valdemarsvej 1 ST;8960;01Sep2015 0:00:00,000;;1082;730;1082
+188-2;Kvægtorvets Apotek;7;Kvægtorvet 8;4700;09Mar2020 0:00:00,000;;1085;370;
+243;København Amagerbro Apotek;6;Reberbanegade 3;2300;01Jan1913 0:00:00,000;;1084;101;1084
+341;København Apoteket Rosen;6;Tuborgvej 269;2400;01Jan1935 0:00:00,000;;1084;101;1084
+341-1;København Apoteket Ryparken;7;Lyngbyvej 155;2100;02.07.2008;30.06.2009;1084;101;1084
+420;København Apoteket Ryparken;7;Lyngbyvej 154;2100;01.02.1988;31.05.2007;1084;101;1084
+242;København Apoteket Svalen;6;Nørrebrogade 224;2200;01Jan1913 0:00:00,000;;1084;101;1084
+232;København Apoteket Trianglen;6;Ndr. Frihavnsgade 3;2100;01Jan1909 0:00:00,000;;1084;101;1084
+303;København Archiv;6;Jagtevej 11, 2200 København N;;19Jan1921 0:00:00,000;31May1996 0:00:00,000;;;
+128;København Blågårds;6;Korsgade 45, København;;15-02-1876 00:00;30Sep1973 0:00:00,000;;;
+324;København Borups Alle;6;Borup Alle 178 København NV;;18Apr1930 0:00:00,000;31Aug1981 0:00:00,000;;;
+193;København Brønshøj Apotek;6;Frederikssundsvej 121;2700;01Jan1902 0:00:00,000;23Dec2004 0:00:00,000;13;101;
+029;København Christianshavns Apotek;6;Torvegade 47;1400;01-01-1753 00:00;;1084;101;1084
+139;København Delfin Apoteket;6;Nørre Farimagsgade 63;1364;01-01-1884 00:00;31May2002 0:00:00,000;13;101;
+329;København Dyveke Apotek;6;Øresundsvej 53;2300;01Jan1932 0:00:00,000;31May2010 0:00:00,000;1084;101;1084
+309;København Enghave Apotek;13;Enghave Plads 25;1670;01Jan1922 0:00:00,000;;1084;101;1084
+227;København Frihavns;6;Strandboulevarden 61, København;;07Apr1909 0:00:00,000;30Sep1991 0:00:00,000;;;
+061;København Gammel torvs Apotek;6;På hjørnet af nytorv og Frederiksgade, København;;07-06-1811 00:00;30Apr1991 0:00:00,000;;;
+186;København Gefions;6;Lipkesgade 28, København;;24Aug1900 0:00:00,000;31Aug1972 0:00:00,000;;;
+163;København Griffenfeld;6;Nørrebrogade 53, København;;27-02-1897 00:00;30Apr1964 0:00:00,000;;;
+229;København Griffenfeld (II);6;Åboulevard 70, 2200 København N;;07Apr1909 0:00:00,000;30Nov1987 0:00:00,000;;;
+334;København Grøndalsapoteket;13;Godthåbsvej 187A;2720;01Jan1935 0:00:00,000;;1084;101;1084
+149;København Gyldenløves;6;Gyldenløvesgade 4, København+E64;;23-01-1889 00:00;31Mar1966 0:00:00,000;;;
+133;København H.C. Ørsted;6;H.C.Ørstedvej 19 B., København;;15-03-1881 00:00;31Oct1972 0:00:00,000;;;
+340;København Hamlets Apotek;6;Hamletsgade 2;2200;01Jan1937 0:00:00,000;01Jun2009 0:00:00,000;1084;101;1084
+341-2;København Hamlets Apotek;7;Hamletsgade 2;2200;01Jun2009 0:00:00,000;;1084;101;1084
+050;København Hjorte;6;Gothersgade 35, København;;27-12-1799 00:00;30Jun1967 0:00:00,000;;;
+308;København Holmbladsgades Apotek;6;Holmbladsgade 20;2300;01Jan1922 0:00:00,000;28Feb2003 0:00:00,000;13;101;
+322;København Husum Apotek;6;Frederikssundsvej 320;2700;01Jan1929 0:00:00,000;;1084;101;1084
+029-1;København Islands Brygge Apotek;7;Islands Brygge 3-5;2300;01Feb2003 0:00:00,000;;1084;101;1084
+162;København Istedgades Apotek;6;Istedgade 130, 1650 kbh.V;;27-02-1896 00:00;31Dec1996 0:00:00,000;;;
+041;København Kgl. Fredriks Hospital;6;Bredgade 66, København;;06-08-1756 00:00;30Jun1965 0:00:00,000;;;
+016;København Kong Salomons Apotek;6;;;01Jan1900 0:00:00,000;01Jul1961 0:00:00,000;;;
+021;København Kongelig Hof Apotek;6;Store Kongensgade 45;1264;01-01-1753 00:00;;1084;101;1084
+126;København Krone;6;Holbergsgade 11, kbh.K;;15-02-1876 00:00;31Jul1976 0:00:00,000;;;
+110;København Kultorvet;6;Lille Kjøbmagergade 57, København;;14-07-1863 00:00;31Jul1980 0:00:00,000;;;
+338;København Linde Apoteket;6;Frederikssundsvej 152;2700;01Jan1937 0:00:00,000;;1084;101;1084
+009;København Løve Apotek;6;;;01Jan1900 0:00:00,000;30Apr1971 0:00:00,000;;;
+090;København Nørrebro Apotek;6;Nørrebrogade 8;2200;01-01-1843 00:00;;1084;101;1084
+336;København Oxford Allé Apotek;6;Amagerbrogade 204 B;2300;01Jan1936 0:00:00,000;01Jan2009 0:00:00,000;1084;101;1084
+153;København Sct. Jacobs;6;Østerbrogade 98, København;;31-05-1893 00:00;30Jun1956 0:00:00,000;;;
+190;København Sct. Johannes;6;Fredensgade 5, København;;06Feb1901 0:00:00,000;31Jul1968 0:00:00,000;;;
+148;København Sct. Matthæus;6;Istegade 24, Kbh.V;;23-01-1889 00:00;31Jan1976 0:00:00,000;;;
+134;København Sct. Stefans Apotek;13;Nørrebrogade 140;2200;01-01-1881 00:00;;1084;101;1084
+127;København Sct.Pouls;6;Adelgade 115, København;;15-02-1876 00:00;31Aug1974 0:00:00,000;;;
+140;København Sorte Hest;6;Vesterbrogade 124, København;;01-08-1884 00:00;31Oct1970 0:00:00,000;;;
+183;København Steno Apotek;6;Vesterbrogade 6 C;1620;01Jan1900 0:00:00,000;;1084;101;1084
+230;København Stjernen;6;Nørrebrogade 184, København N;;07Apr1909 0:00:00,000;30Nov1987 0:00:00,000;;;
+261;København Store Vibenshus;6;Lyngbyvej 1, København;;11Sep1916 0:00:00,000;30Apr1991 0:00:00,000;;;
+135;København Sundby;6;Amagerbrogade 65, kbh.S;;07-06-1881 00:00;29Apr1989 0:00:00,000;;;
+001;København Svane Apotek;6;Østergade 18;;01Jan1900 0:00:00,000;28Feb1994 0:00:00,000;13;;
+332;København Sydhavnsapoteket;13;Borgbjergsvej 15;2450;01Jan1933 0:00:00,000;;1084;101;1084
+231;København Sønderboulevard;6;Sønder Boulevard 52, København;;07Apr1909 0:00:00,000;08Feb1973 0:00:00,000;;;
+199;København Sønderbro Apotek;6;Amagerbrogade 158;2300;01Jan1902 0:00:00,000;;1084;101;1084
+318;København Trekroner Apotek;6;Vigerslev Allé 38;2500;01Jan1925 0:00:00,000;;1084;101;1084
+031;København Vaisenhus Apotek;13;Landemærket 3-5;1119;01-01-1753 00:00;;1084;101;1084
+197;København Valby Apotek;6;Valby Langgade 49;2500;01Jan1902 0:00:00,000;;1084;101;1084
+307;København Vanløse Apotek;6;Jyllingvej 73, 2720 Vanløse;;18Aug1922 0:00:00,000;31Jan1993 0:00:00,000;;;
+046;København Vesterbro;6;Øhlenschlægersgade København;;16-01-1795 00:00;01Mar1991 0:00:00,000;;;
+228;København Ægris;6;Ægrisgade 55, København;;07Apr1909 0:00:00,000;31Jan1976 0:00:00,000;;;
+202;København Øresunds Apotek;6;Østerbrogade 151;2100;01Jan1902 0:00:00,000;;1084;101;1084
+114;København Østerbro;6;Hjørnet af Østerbrogade, København;;20-03-1869 00:00;31Mar1993 0:00:00,000;;;
+320;København Østerbro Apotek;13;Østerbrogade 101;2100;01Jan1929 0:00:00,000;;1084;101;1084
+217;Københavnes Rådhus;6;Vester Voldgade 86, København;;18May1905 0:00:00,000;29Feb1972 0:00:00,000;;;
+368;Køge Boholte Apotek;6;Marksvinget 31;4600;01Jan1999 0:00:00,000;;1085;259;1085
+014-2;Køge Stations Apotek;7;Rådhusstræde 10G - Overfor Køge S-station;4600;14Jun2018 0:00:00,000;;1085;259;1085
+014;Køge Torvets Apotek;6;Brogade 1;4600;19.11.1979;;1085;259;1085
+017-A1;Køgevej Apoteksudsalg;8;Køgevej 108 D;4000;25.03.2015;17Sep2016 0:00:00,000;1085;265;1085
+170-5;Køgevejens Apotek;7;Roskildevænget 2B;4000;01Apr2020 0:00:00,000;;1085;265;1085
+152;Langeskov Apotek;6;Langeskov Centret 27;5550;01-01-1891 00:00;;1083;440;1083
+152-A1;Langeskov Apoteksudsalg;8;Langeskov Centret 6;5550;01.01.1992;31Aug2013 0:00:00,000;1083;440;
+274-2;Langå Apotek;7;Bredgade 18;8870;01Jun2017 0:00:00,000;;1082;730;1082
+274-A2;Langå Apoteksudsalg;8;Bredgade 18;8870;01.01.2000;01Jun2017 0:00:00,000;1082;730;1082
+064;Lemvig Apotek;6;Vasen 6;7620;01-01-1813 00:00;;1082;665;1082
+060-5;Lillesø Apotek;7;Adelgade 27;8660;01Jan2020 0:00:00,000;;1082;746;1082
+092-1;Lindholm Apotek;7;Lindholm Nærbanevej 1D;9400;01Jul2015 0:00:00,000;;1081;851;1081
+092-A3;Lindholm Apoteksudsalg;8;Lindholm Nærbanevej 1D;9400;28Mar2014 0:00:00,000;01Jul2015 0:00:00,000;1081;851;
+341-3;Lufthavns Apotek København;7;Lufthavnsboulevarden 6 T2-ST-386;2770;01Nov2015 0:00:00,000;01Nov2019 0:00:00,000;1084;185;1084
+350-2;Lufthavns Apotek København;7;Lufthavnsboulevarden 6 T2-ST-386;2770;01Nov2019 0:00:00,000;;1084;185;1084
+265;Lundby;6;Lundby Hovedgade 63, Vordingborg;;19Mar1907 0:00:00,000;26Sep1981 0:00:00,000;;;
+032-1;Lundby Apotek;7;Lundby Hovedgade 90;4750;01.10.2016;;1085;390;1085
+286-3;Lunderskov Apotek;7;Iver Dahlsvej 4;6640;26Nov2018 0:00:00,000;;1083;621;1083
+416;Lunderskov Apoteksudsalg;6;Storegade 2;6640;01.01.1992;30.06.2009;1083;621;1083
+286-2-A2;Lunderskov Apoteksudsalg;8;Storegade 2;6640;01.07.2008;26Nov2018 0:00:00,000;1083;621;1083
+342;Lyngby Løve Apotek;6;Jernbanepladsen 43;2800;11.04.2016;;1084;173;1084
+342-1;Lyngby Storcenter Apotek;7;Lyngby Storcenter nr. 1, st., dør 1;2800;11Apr2016 0:00:00,000;;1084;173;1084
+059;Lyngby Svane Apotek;6;Lyngby Hovedgade 27;2800;01-01-1806 00:00;;1084;173;1084
+278-1;Lynge Apotek;7;Lynge Bytorv 5;3540;04Dec2017 0:00:00,000;;1084;201;1084
+278-A1;Lynge Apoteksudsalg;8;Lynge Bytorv 9;3540;01.01.2000;04Dec2017 0:00:00,000;1084;201;1084
+178-1;Lystrup Apotek;7;Lystrup Centervej 85;8520;03Dec2001 0:00:00,000;;1082;751;1082
+084;Løgstør Apotek;13;Østerbrogade 1 B;9670;01-01-1832 00:00;01May2018 0:00:00,000;1081;820;1081
+181-2;Løgstør Apotek;7;Østerbrogade 1 B;9670;01May2018 0:00:00,000;;1081;820;1081
+104-2;Løgten Apotek;7;Bytorvet 1 A;8541;21Sep2015 0:00:00,000;;1082;751;1082
+104-A2;Løgten Apoteksudsalg;8;Bytorvet 1 A;8541;30.08.2009;21Sep2015 0:00:00,000;1082;751;1082
+300;Løgumkloster Apotek;6;Østergade 5 B;6240;01-01-1777 00:00;31Dec2009 0:00:00,000;1083;550;1083
+302-1;Løgumkloster Apotek;7;Østergade 5B;6240;01Jul2010 0:00:00,000;;1083;550;1083
+257;Løkken;6; Løkken- Vrå Kommune;;21-08-1884 00:00;31Jan1976 0:00:00,000;;;
+160-1;Løkken Apotek;7;Jyllandsgade 13;9480;01.03.1994;30.06.2012;;;
+105-4;Løkken Apotek;7;Jyllandsgade 13;9480;01.09.2013;;1081;860;1081
+018-3;Løve Apotek Maribo;7;Lollands Centret 36;4930;04Aug2017 0:00:00,000;;1085;360;1085
+018;Løve Apotek Nykøbing F.;6;Langgade 5;4800;01-01-1753 00:00;;1085;376;1085
+018-1;Løve Apotek Nysted;7;Adelgade 13;4880;01Jul2013 0:00:00,000;;1085;376;1085
+018-2;Løve Apotek Østerbro;7;Vendsysselvej 5 B;4800;16Nov2015 0:00:00,000;;1085;376;1085
+015-1;Løve Apoteket Centrum;7;Jyllandsgade 23;7000;01-01-1753 00:00;;1083;607;1083
+015;Løve Apoteket Lillebælt Løvbjerg;6;Strevelinsvej 11;7000;01Feb2016 0:00:00,000;;1083;607;1083
+035-2;Løve Apoteket Svendborg Øst;7;Møllergade 92;5700;01Dec2017 0:00:00,000;;1083;479;1083
+005-2;Løve Apoteket Vonsildvej;7;Vonsildvej 1 G;6000;01Sep2018 0:00:00,000;;1083;621;1083
+092-A1;Løvvang Centret Apoteksudsalg;8;Løvbakken 4;9400;02.08.2012;25Apr2014 0:00:00,000;1081;851;1081
+096-2;Malling Apotek;7;Stationspladsen 5G;8340;01Oct2017 0:00:00,000;;1082;751;1082
+096-A1;Malling Apoteksudsalg;8;Stationspladsen 5;8340;01.10.1992;01Oct2017 0:00:00,000;1082;751;1082
+218-1;Mariager Apotek;7;Østergade 10;9550;12.10.2007;;1081;846;1081
+025;Maribo Apotek;6;Vestergade 1;4930;01-01-1753 00:00;;1085;360;1085
+025-1;Maribo Torvegades Apotek;7;Torvegade 9;4930;01Mar2018 0:00:00,000;;1085;360;1085
+302-3;Marsk Apoteket;7;Plantagevej 38;6270;03Oct2016 0:00:00,000;;1083;550;1083
+315;Marstal Apotek;6;Kirkestræde 23;5960;01Jan1902 0:00:00,000;;1083;492;1083
+241-3;Mega Syd Apotek;7;Ringvej Syd 100F;8260;03Aug2020 0:00:00,000;;1082;751;
+047;Middelfart Apotek;6;Jernbanegade 2C;5500;01-01-1799 00:00;;1083;410;1083
+015-3;Middelfart Løve Apotek Kløvervej;7;Kløvervej 10-14;5500;31Aug2018 0:00:00,000;;1083;410;1083
+416;Mariager Apotek;6;Falkevej 1;9550;01.01.1970;31.12.2007;1081;846;1081
+070-1-A1;Mols Apoteksudsalg;8;Knebel Bygade 21;8420;01.01.1992;;1082;706;1082
+052-A1;Munkebo Apoteksudsalg;8;Bycentret 204;5330;01.01.1992;;1083;440;1083
+225-1;Maaløv Apotek;7;Stationsvej 7;2760;01.04.2000;;1084;151;1084
+241-A2;Mårslet Apoteksudsalg;8;Hørretvej, Mårslet;8320;01.01.2000;11Jun2019 0:00:00,000;1082;751;1082
+241-A4;Mårslet Apoteksudsalg;8;Hørretvej 12;8320;01Feb2020 0:00:00,000;;1082;751;1082
+013;Nakskov Løve Apotek;6;Nygade 17-19;4900;01-01-1753 00:00;;1085;360;1085
+235;Nakskov Nybro;6;Nybrovej 1, Nakskov;;08Sep1911 0:00:00,000;01Jan1995 0:00:00,000;;;
+008-1;Neptun Apotek Ribe;7;Seminarievej 1;6760;24Nov2016 0:00:00,000;;1083;561;1083
+233-1;Neptun Apotek Sædding;7;Sædding Center;6710;21.03.2014;;1083;561;1083
+082;Nexø Apotek;6;Strandgade 7;3730;01-01-1830 00:00;;1084;400;1084
+057;Nibe Apotek;13;Mellemgade 9;9240;01-01-1804 00:00;30Sep2013 0:00:00,000;1081;851;1081
+181-1;Nibe Apotek;7;Mellemgade 9;9240;01Oct2013 0:00:00,000;;1081;851;1081
+152-2;Niels Bohrs Allé Apotek;7;Niels Bohrs Allé 150;5230;29Oct2016 0:00:00,000;;1083;461;1083
+196;Nimtofte Apotek;6;Ryomgårdvej 21;8581;01Jan1902 0:00:00,000;28Feb2010 0:00:00,000;1082;706;1082
+079-1;Nivå Apotek;7;Nivå Center 75;2990;01.01.1992;;1084;210;1084
+297;Nordborg Apotek;6;Storegade 28;6430;01-01-1835 00:00;11Jul2014 0:00:00,000;1083;540;1083
+298-1;Nordborg Apotek;7;Storegade 28;6430;01Feb2014 0:00:00,000;;1083;540;1083
+278-2;Nordhavn Apotek;7;Århusgade 134 A;2150;27Mar2020 0:00:00,000;;1084;101;1084
+189-3;Nr. Aaby Apotek;7;Grønnegade 12;5580;23Oct2017 0:00:00,000;;1083;410;1083
+189-A1;Nr. Aaby Apoteksudsalg;8;Østergade 34;5580;01.06.2014;23Oct2017 0:00:00,000;1083;410;1083
+316;Nyborg Apotek;6;Kongegade 8;5800;01Jan1924 0:00:00,000;;1083;450;1083
+020;Nyborg Løve Apotek;6;;;01Jan1900 0:00:00,000;30Jun1968 0:00:00,000;;;
+053-3;Nyholm Apotek;7;Nyholmvej 20 C/o Bilka Holstebro;7500;01Sep2019 0:00:00,000;;1082;661;1082
+062;Nykøbing Apotek;6;Algade 20;4500;01-01-1809 00:00;;1085;306;1085
+136;Nykøbing F. Svane Apotek;6;Slotsbryggen 1-3;4800;01-01-1882 00:00;;1085;376;1085
+335;Nykøbing Falster Østerbro Apotek;6;Østerbrogade 33 , 4800 Nykøbing F.;;12Feb1936 0:00:00,000;30Sep1997 0:00:00,000;;;
+314;Nykøbing Mors Sct. Clemens Apotek;6;Algade 3;7900;01Jan1923 0:00:00,000;;1081;773;1081
+055;Nykøbing Mors Svane;6;Rådhustorvet 5, Morsø;;25-05-1804 00:00;30Jun1973 0:00:00,000;;;
+075;Nysted Apotek;6;Adelgade 13;4880;01-01-1827 00:00;30Jun2013 0:00:00,000;1085;376;1085
+138;Nærum Apotek;6;Nærum Vænge Torv 35;2850;01-01-1873 00:00;;1084;230;1084
+177-1;Næsby Apotek;7;Bogensevej 49;5270;01Oct2016 0:00:00,000;;1083;461;1083
+421;Næsby Apoteksudsalg;6;Bogensevej 49;5270;01.01.2001;28.02.2009;1083;461;1083
+177-A2;Næsby Apoteksudsalg;8;Bogensevej 49;5270;30.12.2013;01Oct2016 0:00:00,000;1083;461;1083
+012;Næstved Løve Apotek;6;Apotekergaarden, Axeltorv 12;4700;01-01-1753 00:00;;1085;370;1085
+188-1;Næstved Sct. Jørgens Apotek;7;Sct. Jørgens Park 34;4700;01.01.1991;;1085;370;1085
+012-1;Næstved Storcenter Apotek;7;Næstved Storcenter nr. 3 butik 45;4700;01Nov2015 0:00:00,000;;1085;370;1085
+012-A2;Næstved Storcenter Apoteksudsalg;8;Næstved Storcenter;4700;01.01.1992;30Oct2015 0:00:00,000;1085;370;1085
+188;Næstved Svane Apotek;6;Torvestræde 8;4700;01Jan1900 0:00:00,000;;1085;370;1085
+195;Nørre Alslev Apotek;6;Apotekergade 1;4840;01Jan1902 0:00:00,000;;1085;376;1085
+273-2;Nørregades Apotek;7;Nørregade 32 C;7800;05Sep2016 0:00:00,000;;1082;779;1082
+124;Nørre-Nebel Apotek;13;Bredgade 12;6830;01Mar2003 0:00:00,000;;1083;573;1083
+156-1;Nørre-Snede Apotek;7;Bredgade 22;8766;01Jun2009 0:00:00,000;;1082;756;1082
+219;Nørre-Snede Apotek;6;Bredgade 22;8766;01Jan1906 0:00:00,000;01Jun2009 0:00:00,000;1082;756;1082
+096;Odder Apotek;6;Rosensgade 14;8300;01-01-1850 00:00;;1082;727;1082
+177;Odense Albani Apotek;6;Albanigade 54 F;5000;01-01-1899 00:00;;1083;461;1083
+328;Odense Apoteket Bryggergården;6;;;01Jan1931 0:00:00,000;14Jan2014 0:00:00,000;1083;461;1083
+282;Odense Apoteket Ørnen;6;Vestergade 80;5000;01Jan1919 0:00:00,000;;1083;461;1083
+123;Odense Bellinge Apotek;6;Elmegårdsvej 2;5250;01-01-1871 00:00;;1083;461;1083
+357;Odense Bolbro Apotek;13;Middelfartvej 129;5200;01Jan1960 0:00:00,000;;1083;461;1083
+345;Odense Dalum Apotek;6;Dalumvej 34;5250;01Jan1938 0:00:00,000;;1083;461;1083
+002;Odense Løve Apotek;6;;;01-01-1753 00:00;31Mar1989 0:00:00,000;42;;
+151-1;Odense Rosengården Apotek;7;Ørbækvej 75;5220;01.01.1996;;1083;461;1083
+198;Odense Sct. Hans Apotek;6;Skibhusvej 66;5000;01Jan1902 0:00:00,000;;1083;461;1083
+151;Odense Sct. Knuds Apotek;6;Kongensgade 51;5000;01-01-1889 00:00;;1083;461;1083
+049;Odense Svane;6;Ved Graabrødre Hospital, Odense;;25-06-1794 00:00;30Jun1974 0:00:00,000;;;
+198-1;Odense Vollsmose Apotek;7;Vollsmose Allé 10, Center Øst;5240;01.01.1992;;1083;461;1083
+124-1;Oksbøl Apotek;7;Vestergade 14;6840;22May2017 0:00:00,000;;1083;573;1083
+124-A1;Oksbøl Apoteksudsalg;8;Vestergade 14;6840;01.01.1992;30.04.2017;1083;573;1083
+325;Ordrup Apotek;6;Ordrupvej 80;2920;01Jan1930 0:00:00,000;;1084;157;1084
+121;Otterup Apotek;6;Nørregade 2;5450;01-01-1871 00:00;;1083;480;1083
+003-2;Overlund Apotek;7;c/o Løvbjerg, Randersvej 60;8800;18Jun2018 0:00:00,000;;1082;791;1082
+301-1;Padborg Apotek;7;Bovvej 9;6330;01.01.1992;;1083;580;1083
+011-3;Paderup Løve Apotek;7;Merkurvej 55;8960;28Sep2017 0:00:00,000;;1082;730;1082
+105-1;Pandrup Apotek;7;Bredgade 3;9490;01Sep2015 0:00:00,000;;1081;849;1081
+105-A3;Pandrup Apoteksudsalg;8;Bredgade 6K;9490;01.01.2001;01Sep2015 0:00:00,000;1081;849;1081
+365-2;Plusapoteket Waves;7;Over Bølgen 3 D, Waves;2670;29Oct2015 0:00:00,000;;1085;253;1085
+086;Præstø Apotek;6;Svend Gønges Torv 12;4720;01-01-1816 00:00;;1085;390;1085
+238-1;Prøvestens Apotek;7;Birkedalsvej 7-9;3000;01Sep2015 0:00:00,000;;1084;217;1084
+238-A1;Prøvestenscentrets Apoteksudsalg;8;Birkedalsvej 7;3000;01.10.2001;01Sep2015 0:00:00,000;1084;217;1084
+274;Randers Jernbane Apotek;6;Vestertorv 2;8900;01Jan1917 0:00:00,000;;1082;730;1082
+171;Randers Krone;6;Adelgade 2, 8900 Randers;;21-12-1898 00:00;31Dec1996 0:00:00,000;;;
+011;Randers Løve Apotek;6;Østervold 24;8900;01-01-1753 00:00;;1082;730;1082
+326-3;Randers Nord Apotek;7;Mariagervej 175;8920;28Jun2018 0:00:00,000;;1082;730;1082
+076;Randers Svane Apotek;6;Middelgade 2;8900;01-01-1831 00:00;30Nov2004 0:00:00,000;70;731;
+326;Randers Sønderbros Apotek;6;Dytmærsken 10;8900;01Jan1931 0:00:00,000;;1082;730;1082
+008;Ribe Apotek;13;J. Lauritzens Plads 14-16;6760;01-01-1753 00:00;;1083;561;1083
+091;Ringe Apotek;13;Torvet 5;5750;01-01-1842 00:00;;1083;430;1083
+038;Ringkøbing Løve Apotek;6;Torvegade 5;6950;01-01-1753 00:00;;1082;760;1082
+077;Ringsted Apotek;6;Sct. Hansgade 23;4100;01-01-1808 00:00;;1085;329;1085
+022-2;Ringsted Svane Apotek;7;Nørregade 13;4100;01Dec2019 0:00:00,000;;1085;329;1085
+252-4;Roskilde Apotek - Stationscentret;7;Stationscentret 12;4000;19Oct2016 0:00:00,000;01Apr2019 0:00:00,000;1085;265;1085
+017;Roskilde Dom Apotek;6;Algade 51;4000;01-01-1753 00:00;;1085;265;1085
+170-4;Roskilde Stations Apotek;7;Stationscentret 12;4000;01Apr2019 0:00:00,000;;1085;265;1085
+170;Roskilde Svane Apotek;6;Skomagergade 19;4000;01-01-1898 00:00;;1085;265;1085
+143;Roslev Apotek;6;Jernbanegade 15;7870;01-01-1885 00:00;;1082;779;1082
+027;Rudkøbing Apotek;6;Engdraget 1;5900;01-01-1753 00:00;;1083;482;1083
+254-A1;Ruds-Vedby Apoteksudsalg;8;Rudsgade 10B;4291;01.01.1991;01Nov2002 0:00:00,000;30;303;
+079-4;Rungsted Apotek;7;Rungsted Bytorv;2960;14Jan2016 0:00:00,000;;1084;223;1084
+079-A2;Rungsted Apoteksudsalg;8;Rungsted Bytorv;2960;01.01.2001;14Jan2016 0:00:00,000;1084;223;1084
+060-1;Ry Apotek filial af Skanderborg Apotek;7;Siimtoften 2;8680;02Nov2015 0:00:00,000;;1082;746;1082
+060-A2;Ry Apoteksudsalg;8;Siimtoften 2;8680;01.01.2000;30Oct2015 0:00:00,000;1082;737;1082
+196-A2;Ryomgård Apoteksudsalg;8;Vestergade 35;8550;02.07.2008;28Feb2010 0:00:00,000;70;721;
+197-1;Ryparken Apotek;7;Lyngbyvej 153;2100;30Aug2019 0:00:00,000;;1084;101;1084
+081;Rødby Løve Apotek;13;Østergade 51;4970;01-01-1819 00:00;;1085;360;1085
+286;Rødding Apotek;6;Kongevej 2;6630;01-01-1839 00:00;;1083;575;1083
+287-1;Rødekro Apotek;7;Østergade 6;6230;05Oct2015 0:00:00,000;;1083;580;1083
+287-A1;Rødekro Apoteksudsalg;8;Østergade 6;6230;01.05.2011;05Oct2015 0:00:00,000;1083;580;1083
+339;Rødovre Apotek;6;Rødovre Centrum 1C, st. 124;2610;01Jan1937 0:00:00,000;;1084;175;1084
+354-2;Rødovre Krone Apotek;7;Rødovre Centrum 1R, st. 6;2610;29Aug2016 0:00:00,000;;1084;175;1084
+354-A2;Rødovre Stationscenter Apoteksudsalg;8;;;;08Aug2011 0:00:00,000;1084;175;
+360-A2;Rødovrevej Apoteksudsalg;8;Fortvej 5;2610;01.01.1994;03Aug2015 0:00:00,000;1084;175;1084
+070-2;Rønde Apotek;7;Ceresvej 16-18;8410;07Dec2015 0:00:00,000;;1082;706;1082
+070-1-A2;Rønde Apoteksudsalg;8;Ceresvej 16-18;8410;01.01.1992;07Dec2015 0:00:00,000;1082;706;1082
+042;Rønne Apotek;6;Store Torvegade 12;3700;01-01-1760 00:00;;1084;400;1084
+191-1;Rådhusapoteket Helsinge;7;Frederiksborgvej 20;3200;26Oct2015 0:00:00,000;;1084;270;1084
+056;Sakskøbing Apotek;6;Søndergade 9;4990;01-01-1804 00:00;01Dec2017 0:00:00,000;1085;376;1085
+013-2;Sakskøbing Løve Apotek;7;Søndergade 11;4990;15Sep2017 0:00:00,000;;1085;376;1085
+105-A1;Saltum Apoteksudsalg;8;Tinghøjgade 13;9493;01-01-1857 00:00;01Jun2014 0:00:00,000;1081;849;1081
+071;Samsø Apotek;6;Langgade 6, Tranebjerg;8305;01-01-1815 00:00;01Jan2005 0:00:00,000;70;741;
+096-1;Samsø Apotek;7;Langgade 6, Tranebjerg;8305;01Jan2005 0:00:00,000;;1082;741;1082
+053-2;Sct. Mathias Apotek;7;Sct. Mathias Gade 38, lejemål 202;8800;01Feb2018 0:00:00,000;;1082;791;1082
+161-2;Sct. Nicolai Apotek Vest;7;Kvickly Storcenter Vestergade 167;5700;01Sep2016 0:00:00,000;;1083;479;1083
+204;Silkeborg Himmelbjerg Apotek;6;Borgergade 20;8600;01Jan1903 0:00:00,000;;1082;740;1082
+204-1;Silkeborg Nørrevænget Apotek;7;Viborgvej 16 D;8600;01Mar2018 0:00:00,000;;1082;740;1082
+344;Silkeborg Svane Apotek;6;Torvet 9;8600;01Jan1938 0:00:00,000;;1082;740;1082
+089;Silkeborg Ørne Apotek;13;Vestergade 9;8600;01-01-1842 00:00;;1082;740;1082
+208;Sindal Apotek;6;Vestergade 2 A;9870;31Dec2004 0:00:00,000;31Dec2004 0:00:00,000;80;839;
+356-1;Sindal Apotek;7;Vestergade 2 A;9870;01Jan2005 0:00:00,000;;1081;860;1081
+212;Skagen Apotek;6;Sct. Laurentiivej 44;9990;01Jan1903 0:00:00,000;;1081;813;1081
+063-1;Skalborg Apotek;7;Otto Mønsteds Vej 1;9200;18Aug2018 0:00:00,000;;1081;851;1081
+060;Skanderborg Apotek;6;Adelgade 61;8660;01-01-1806 00:00;;1082;746;1082
+060-2;Skanderborg Apotek - Filial Bloms;7;Adelgade 61;8660;16Nov2015 0:00:00,000;01Jan2020 0:00:00,000;1082;746;1082
+317-1;Skejby Apotek;7;Skelagervej 5;8200;18Jan2016 0:00:00,000;;1082;751;1082
+317-A1;Skejby Apoteksudsalg;8;Skejbycentret;8200;01.01.2000;18Jan2016 0:00:00,000;1082;751;1082
+130;Skibby Apotek;6;Hovedgaden 40;4050;01-01-1876 00:00;;1084;250;1084
+255-2;Skipperen Apotek;7;Vestre Alle 7;9000;01Oct2018 0:00:00,000;;1081;851;1081
+053;Skive Løve Apotek;6;Posthustorvet 1A;7800;01-01-1801 00:00;;1082;779;1082
+053-1;Skive Løve Apotek City Vest;7;Holstebrovej 68b;7800;02Dec2015 0:00:00,000;;1082;779;1082
+273;Skive Svane Apotek;6;Sdr. Boulevard 7;7800;01Jan1917 0:00:00,000;;1082;779;1082
+305;Skjern Apotek;13;Bredgade 44B;6900;01Jan1921 0:00:00,000;;1082;760;1082
+360;Skovlunde Apotek;6;Torvestrædet 2;2740;01Jan1966 0:00:00,000;;1084;151;1084
+058;Skælskør Apotek;6;Algade 21;4230;01-01-1805 00:00;;1085;330;1085
+294;Skærbæk Apotek;6;Storegade 43;6780;01-01-1858 00:00;31May2001 0:00:00,000;50;;
+295-1;Skærbæk Apotek;7;Storegade 40;6780;01Jun2001 0:00:00,000;;1083;550;1083
+220;Skørping Apotek;6;Sverriggårdsvej 10;9520;01Jan1906 0:00:00,000;;1081;840;1081
+012-2;Slagelse Løve Apotek;7;Vestsjællandscenteret 10A, Butik 26;4200;14Oct2016 0:00:00,000;;1085;330;1085
+169;Slagelse Rådhusapoteket;6;Smedegade 8;4200;01-01-1897 00:00;;1085;330;1085
+022;Slagelse Svane Apotek;6;Jernbanegade 7, st. 4;4200;01-01-1753 00:00;;1085;330;1085
+068-1;Slangerup Apotek;7;Kongensgade 16;3550;04Jan2016 0:00:00,000;;1084;250;1084
+068-A1;Slangerup Apoteksudsalg;8;Kongensgade 14 A;3550;01.01.2000;04Jan2016 0:00:00,000;1084;250;1084
+239-1;Slotscentret Apotek;7;Slotsvolden 7, st. 1;4300;12Jun2019 0:00:00,000;;1085;316;1085
+361-3;Slotsgade Apotek;7;Slotsgade 8-14;9000;16Nov2018 0:00:00,000;;1081;851;1081
+332-1;Sluseholmens Apotek;7;Lone Kellermanns Vej 21 st;2450;19Nov2018 0:00:00,000;;1084;101;1084
+225-4;Smørum Apotek;7;Flodvej 75 M;2765;05Sep2016 0:00:00,000;;1084;240;1084
+225-A3;Smørum Apoteksudsalg;8;Flodvej 75 L;2765;01Jun2000 0:00:00,000;05Sep2016 0:00:00,000;1084;151;1084
+116-A1;Snertinge Apoteksudsalg;8;Nykøbingvej 14;4460;01Dec2002 0:00:00,000;31Mar2006 0:00:00,000;;;
+096-A2;Solbjerg Apoteksudsalg;8;Solbjerg Hovedgade 92;8355;01.10.1992;;1082;751;1082
+014-1;Solrød Apotek;7;Solrød Center 78;2680;01.01.1992;;1085;269;1085
+092-3;Solsidens Apotek;7;Vestergade 30, Butik 2;9400;01Feb2016 0:00:00,000;;1081;851;1081
+059-1;Sorgenfri Apotek;7;Sorgenfri Torv 19;2830;06Nov2017 0:00:00,000;;1084;173;1084
+059-A1;Sorgenfri Apoteksudsalg;8;Sorgenfri Torv, Grønnevej 8;2830;01Aug2017 0:00:00,000;06Nov2017 0:00:00,000;1084;173;1084
+349-A2;Sorgenfri Apoteksudsalg;8;Sorgenfri Torv, Grønnevej 8;2830;01.01.1994;31Jul2017 0:00:00,000;1084;173;1084
+007;Sorø Apotek;6;Storgade 19 A;4180;01-01-1753 00:00;;1085;340;1085
+028;Stege Apotek;6;Storegade 6;4780;01-01-1753 00:00;;1085;390;1085
+207;Stenlille Apotek;6;Hovedgaden 48;4295;01Jan1903 0:00:00,000;;1085;340;1085
+369;Stenløse Apotek;13;Egedal Centret 2;3660;01Jun2004 0:00:00,000;;1084;240;1084
+068-111;Stenløse Apotek Filial;7;Stenløse Centret 2;3660;01.01.1992;31May2004 0:00:00,000;20;235;
+067;Stevns Apotek;6;Nytorv 5;4660;01-01-1815 00:00;;1085;336;1085
+352-1;Stjerneapoteket Storcenter Nord;7;Finlandsgade 17;8200;01Jul2015 0:00:00,000;;1082;751;1082
+250;Stoholm Apotek;6;Johan Bittmannsvej 2 C;7850;01Jan1914 0:00:00,000;01Sep2018 0:00:00,000;1082;791;1082
+273-3;Stoholm Apotek;7;Johan Bittmannsvej 2 C;7850;01Sep2018 0:00:00,000;;1082;791;1082
+352-A1;Storcenter Nord Apoteksudsalg;8;Finlandsgade 17;8200;01.05.2000;01Jul2015 0:00:00,000;1082;751;1082
+011-A3;Storcenterets Apoteksudsalg;8;Merkurvej 55;8960;23.10.2014;28Sep2017 0:00:00,000;1082;730;1082
+176;Storvorde Sejlflod Apotek;13;Rødhøjvej 2;9280;01-01-1899 00:00;;1081;851;1081
+047-1;Strib Apotek;7;Sofiendalvej 10;5500;04Jan2016 0:00:00,000;;1083;410;1083
+047-A1;Strib Apoteksudsalg;8;Sofiendalvej 10;5500;15Jun2015 0:00:00,000;04Jan2016 0:00:00,000;1082;410;
+047-A2;Strib Apoteksudsalg;8;Sofiendalvej 10, Strib;5500;29Jun2015 0:00:00,000;20Nov2015 0:00:00,000;1082;410;
+150;Struer Apotek;6;Østergade 11;7600;01-01-1878 00:00;;1082;671;1082
+067-2;Strøby Egede Apotek;7;Kystvejen 3B;4600;09Nov2015 0:00:00,000;23Oct2019 0:00:00,000;1085;336;1085
+180-2;Strøby Egede Apotek;7;Kystvejen 3B;4600;23Oct2019 0:00:00,000;;1085;336;1085
+067-A1;Strøby Egede Apoteksudsalg;8;Kystvejen 3B;4600;01.01.1992;06Nov2015 0:00:00,000;1085;336;1085
+065;Stubbekøbing Apotek;6;Vestergade 24 B;4850;01-01-1813 00:00;01Jan2006 0:00:00,000;35;391;
+195-1;Stubbekøbing Apotek;7;Torvet 2;4850;01Jan2006 0:00:00,000;;1085;376;1085
+416;Støvring Apotek;6;Hobrovej 84;9530;01.01.2000;27.01.2020;1081;840;1081
+220-1;Støvring Apotek;7;Hobrovej 84;9530;27.01.2020;;1081;840;1081
+116-A2;Svebølle Apoteksudsalg;8;Centret 4E;4470;01.11.2001;;1085;326;1085
+035;Svendborg Løve Apotek;6;Vestergade 16;5700;01-01-1753 00:00;;1083;479;1083
+161;Svendborg Sct. Nicolai Apotek;6;Gerritsgade 7;5700;01-01-1896 00:00;;1083;479;1083
+361-2;Svenstrup Apotek;7;Godthåbsvej 12;9230;03Sep2018 0:00:00,000;;1081;851;1081
+361-A2;Svenstrup Apoteksudsalg;8;Godthåbsvej 12;9230;01.01.1992;03Sep2018 0:00:00,000;1081;851;1081
+116-A3;Svinninge Apoteksudsalg;8;Hovedgaden 41;4520;01.01.1991;;1085;316;1085
+069;Sæby Apotek;6;Søndergade 7;9300;01-01-1815 00:00;;1081;813;1081
+312;Søborg Apotek;6;Søborg Hovedgade 86;2860;01Jan1925 0:00:00,000;;1084;159;1084
+013-A2;Søllested Apoteksudsalg;8;Jernbanegade 18;4920;13Oct2001 0:00:00,000;01May2012 0:00:00,000;1085;360;
+285;Sønderborg Jernbane Apotek;6;Jernbanegade 10;6400;01-01-1799 00:00;;1083;540;1083
+298;Sønderborg Løve Apotek, Center Øst;6;Grundtvigs Allé 179;6400;01-01-1753 00:00;;1083;540;1083
+298-2;Sønderborg Løve Apotek, Perlegade;7;Perlegade 28;6400;06Oct2016 0:00:00,000;;1083;540;1083
+121-1;Søndersø Apotek;7;Toftekær 2;5471;01Jun2015 0:00:00,000;;1083;480;1083
+165;Søndersø Apotek;6;Odensevej 23;5471;01-01-1881 00:00;01Jun2015 0:00:00,000;1083;480;1083
+112-1;Søtorvet Apotek;7;Søtorvet 1;8600;25Jul2016 0:00:00,000;;1082;740;1082
+098;Tarm Apotek;6;Storegade 27;6880;09-12-1851 00:00;;1082;760;1082
+417;Tarup Apotek;7;Rugvang 36-40;5210;01.01.1992;31.08.2016;1083;461;1083
+357-1;Tarup Apotek;7;Rugvang 36-40;5210;01.09.2016;;1083;461;1083
+099;Terndrup;6;i skibested;;26-07-1854 00:00;30Nov1973 0:00:00,000;;;
+218-2;Terndrup Apotek;7;Hadsundvej 7;9575;01Aug2016 0:00:00,000;;1081;840;1081
+218-A1;Terndrup Apoteksudsalg;8;Hadsundvej 7;9575;15.01.2012;01Aug2016 0:00:00,000;1081;840;1081
+247;Thisted Løve Apotek;6;Sydhavnsvej 11;7700;01Jan1914 0:00:00,000;;1081;787;1081
+039;Thisted Svane Apotek;6;Storegade 5;7700;01-01-1753 00:00;;1081;787;1081
+064-A1;Thyborøn Apoteksudsalg;8;Bredgade 7;7680;01.01.2000;;1082;665;1082
+366-1;Tilst Apotek;7;Agerøvej 7;8381;27Jun2016 0:00:00,000;;1082;751;1082
+366-A1;Tilst Apoteksudsalg;8;Agerøvej 7;8381;01.01.2000;26Jun2016 0:00:00,000;1082;751;1082
+078-1;Tinghus Apoteket;7;Østergade 13;7400;01Jul2015 0:00:00,000;01Apr2020 0:00:00,000;1082;657;1082
+301;Tinglev Apotek;6;Jernbanegade 1;6360;01-01-1897 00:00;;1083;580;1083
+295;Toftlund Apotek;6;Søndergade 2;6520;01-12-1876 00:00;;1083;550;1083
+123-1;Tommerup Apotek filial af Odense Bellinge Apotek;7;Tallerupvej 15;5690;01Jul2015 0:00:00,000;;1083;420;1083
+241-1;Tranbjerg Apotek;7;Kirketorvet 18;8310;04Apr2016 0:00:00,000;;1082;751;1082
+241-A3;Tranbjerg Apoteksudsalg;8;Center Syd;8310;01.01.2000;04Apr2016 0:00:00,000;1082;751;1082
+170-A1;Trekroner Apoteksudsalg;8;Trekroner Centervej 55;4000;01Aug2008 0:00:00,000;01Jul2015 0:00:00,000;1085;265;1085
+170-2;Trekroner Løve Apotek;7;Trekroner Centervej 59-61;4000;01Jul2015 0:00:00,000;;1085;265;1085
+370-2;Tune Apotek;7;Tune Center 3B;4030;01Dec2015 0:00:00,000;;1085;253;1085
+370-1-A2;Tune Apoteksudsalg;8;Tune Center 3 B;4030;01.01.1992;30Nov2015 0:00:00,000;1085;265;1085
+119-1;Tølløse Apotek;7;Vestergade 70;4340;27Mar2017 0:00:00,000;;1085;316;1085
+119-A1;Tølløse Apoteksudsalg;8;Jernbanevej 18;4340;27.09.2001;27Mar2017 0:00:00,000;1085;316;1085
+302;Tønder Løve Apotek;6;Storegade 28;6270;01-01-1753 00:00;;1083;550;1083
+156-2;Tørring Apotek;7;Bredgade 10;7160;01May2016 0:00:00,000;;1082;766;1082
+156-A1;Tørring Apoteksudsalg;8;Bredgade 10;7160;24.09.2001;01May2016 0:00:00,000;1082;766;1082
+323;Tårnby Apotek;6;Kamillevej 4;2770;01Jan1929 0:00:00,000;;1084;185;1084
+323-3;Tårnby Torv Apotek;7;Tårnby Torv 9;2770;01Jun2018 0:00:00,000;;1084;185;1084
+323-A2;Tårnby Torv Apoteksudsalg;8;Tårnby Torv 9;2770;01.01.1992;01Jun2018 0:00:00,000;1084;185;1084
+252;Taastrup Apotek;6;Taastrup Hovedgade 60;2630;01Jan1908 0:00:00,000;;1084;169;1084
+252-3;Taastrup Apotek - City 2;7;City 2, 141 plan 1;2630;11Jan2016 0:00:00,000;10Dec2019 0:00:00,000;1084;169;1084
+017-2;Taastrup Torv Apotek;7;Taastrup Torv 8;2630;17Nov2015 0:00:00,000;;1084;169;1084
+156;Uldum Apotek;6;Søndergade 18;7171;01-01-1873 00:00;;1082;766;1082
+120;Ulfborg Apotek;13;Bredgade 9;6990;01-01-1871 00:00;;1082;661;1082
+417;Ullerslev Apoteksudsalg;6;Ullerslev centret;5540;01.01.1992;03.04.2011;1083;450;1083
+152-A2;Ullerslev Apoteksudsalg;8;Ullerslev centret;5540;04.04.2011;01Jul2016 0:00:00,000;1083;450;1083
+367-1;Ullerød Apotek;7;Frederiksværksgade 115;3400;31Oct2016 0:00:00,000;;1084;219;1084
+304;Ulve Apoteket - Kolding Sønderbro;6;Søndergade 7;6000;01Jan1921 0:00:00,000;;1083;621;1083
+304-1;Ulve Apoteket - Munkebo;7;Palmealle 2;6000;01Oct2018 0:00:00,000;;1083;621;1083
+197-A1;Valby Langgade Apoteksudsalg;8;Valby Langgade 195 A;2500;31May2004 0:00:00,000;01Jun2011 0:00:00,000;;101;
+310-A1;Valby Langgade Apoteksudsalg;8;Valby Langgade 195 A;2500;31.03.1992;31May2004 0:00:00,000;13;101;
+195-2;Valdemarsgade Apotek;7;Valdemarsgade 69;4760;15Feb2016 0:00:00,000;;1085;390;1085
+355-4;Vallensbæk Apotek;7;Vallensbæk Stationstorv 60;2665;01Apr2020 0:00:00,000;;1084;187;1084
+359-1;Vallensbæk Apotek;7;Vallensbæk Stationstorv 60;2665;01.01.1992;01Apr2020 0:00:00,000;1084;187;1084
+155;Vamdrup Apotek;6;Søndergade 18;6580;01-01-1894 00:00;01Jul2008 0:00:00,000;1083;621;1083
+286-2;Vamdrup Apotek;7;Torvet 6;6580;25.02.2015;;1083;621;1083
+215-A1;Vangede Apoteksudsalg;8;Vangede Bygade 77;2820;01.05.2016;;1084;157;1084
+343;Vanløse Løve Apotek;6;Vanløse Torv 1, st. 123;2720;01Jan1937 0:00:00,000;;1084;101;1084
+051;Varde Apotek;6;Vestergade 3;6800;01-01-1800 00:00;;1083;573;1083
+051-1;Varde Østervold Apotek;7;Østervold 5;6800;20Feb2017 0:00:00,000;;1083;573;1083
+200;Vejen Apotek;6;Mindevej 1;6600;01Jan1906 0:00:00,000;;1083;575;1083
+200-1;Vejen Trolde Apotek;7;Rådhuspassagen 1;6600;17Aug2017 0:00:00,000;;1083;575;1083
+306-A1;Vejgaard apoteksudsalg - Fyrkilden;8;Fyrkildevej 7, stuen;9220;01.01.1992;01Jul2015 0:00:00,000;1081;851;1081
+234;Vejle Gorms Apotek;6;Vestergade 29;7100;01Jan1910 0:00:00,000;;1083;630;1083
+036;Vejle Løve Apotek;6;Søndergade 29;7100;01-01-1753 00:00;;1083;630;1083
+271;Vejle St. Thomas Apotek;6;Nørretorv 1 B;7100;01Jan1917 0:00:00,000;;1083;630;1083
+141;Vejle Svane;6;Nørretorv 1, Vejle;;16-04-1885 00:00;30Jun1990 0:00:00,000;;;
+022-A1;Vemmelev Apoteksudsalg;8;Akacievej 2-4;4241;18.10.2017;;1085;330;1085
+178-2;Veri Apotek;7;Frijsenborgvej 5;8240;02Nov2015 0:00:00,000;;1082;751;1082
+015-A2;Vestcentrets Apoteksudsalg;8;Venusvej 10B;7000;01.01.2000;01Jul2015 0:00:00,000;1083;607;1083
+223-1;Vesterbrogades Apotek;7;Vesterbrogade 20;7000;22Aug2016 0:00:00,000;;1083;607;1083
+052-1;Vestergade Apotek;7;Vestergade 28;5800;05Sep2016 0:00:00,000;;1083;450;1083
+146;Vester-Skerninge Apotek;6;Fåborgvej 80;5762;01-01-1888 00:00;01Apr2008 0:00:00,000;1083;479;1083
+161-1;Vester-Skerninge Apotek;7;Fåborgvej 40;5762;01.01.2007;29.05.2016;1083;479;1083
+131-A1;Vestervang Apoteksudsalg;8;Rughavevej 2;8800;01Sep2001 0:00:00,000;30Oct2015 0:00:00,000;1082;791;1082
+095;Vestervig;6;Vestergade 4, Sydthy;;11-08-1850 00:00;28Feb1990 0:00:00,000;;;
+255-A1;Vestre Allé Apoteksudsalg;8;Vestre Allé 7;9000;01.09.1999;01Oct2018 0:00:00,000;1081;851;1081
+131;Viborg Løve Apotek;6;Sct. Mathias Gade 66 st.;8800;01-01-1877 00:00;;1082;791;1082
+003-1;Viborg Rådhus Apotek;7;Farvervej 2G;8800;01Jun2017 0:00:00,000;;1082;791;1082
+270;Viborg Sct. Mathias Apotek;6;Sct. Mathiasgade 14, Postboks 115;8800;01Jan1917 0:00:00,000;31Aug2001 0:00:00,000;76;;
+003;Viborg Svane Apotek;6;Lille Sct. Peder Stræde 10-12;8800;01-01-1753 00:00;1;1082;791;1082
+180-A2;Viby Apoteksudsalg;8;Søndergade 8 A;4130;01.10.2014;;1085;265;1085
+038-1;Videbæk Apotek;7;Bredgade 32;6920;01May2009 0:00:00,000;;1082;760;1082
+214;Videbæk Apotek;13;Bredgade 32;6920;21Sep1905 0:00:00,000;01May2009 0:00:00,000;1082;760;1082
+062-A2;Vig Apoteksudsalg;8;Vig Hovedgade 14;4560;30.08.2013;;1085;306;1085
+246;Vildbjerg Apotek;6;Søndergade 7;7480;01Jan1914 0:00:00,000;;1082;657;1082
+203;Vils;6;Neessundvej 161, Morsø;;03Mar1903 0:00:00,000;30Apr1990 0:00:00,000;;;
+213;Vinderup Apotek;6;Søndergade 14;7830;01Jan1904 0:00:00,000;01Sep2012 0:00:00,000;1082;661;1082
+275-1;Vinderup Apotek;7;Søndergade 7;7830;01Sep2012 0:00:00,000;;1082;661;1082
+234-1;Vindinggård Apotek;7;Vindinggård Centeret 7B;7100;08Dec2017 0:00:00,000;;1083;630;1083
+234-A2;Vindinggård Apoteksudsalg;8;Vindinggårdcentret 7 B;7100;01Sep1994 0:00:00,000;08Dec2017 0:00:00,000;1083;630;1083
+349;Virum Apotek;13;Frederiksdalsvej 73;2830;01Jan1950 0:00:00,000;;1084;173;1084
+189-2;Vissenbjerg Apotek;7;Østergade 11;5492;18Sep2017 0:00:00,000;;1083;420;1083
+106-A1;Vissenbjerg Apoteksudsalg;8;Østergade 11;5492;01.01.2000;31Dec2008 0:00:00,000;42;491;
+189-A2;Vissenbjerg Apoteksudsalg;8;Østergade 11;5492;01Jan2009 0:00:00,000;18Sep2017 0:00:00,000;1083;420;1083
+092-2;Vodskov Apotek;7;Vodskovvej 41;9310;01Jul2015 0:00:00,000;;1081;851;1081
+092-A2;Vodskov Apoteksudsalg;8;Vodskovvej 41;9310;18.10.1999;01Jul2015 0:00:00,000;1081;851;1081
+311;Vojens Apotek;6;Rådhuscentret 11A;6500;01Jan1922 0:00:00,000;;1083;510;1083
+032;Vordingborg Apotek;13;Voldgade 20;4760;01-01-1753 00:00;;1085;390;1085
+160;Vrå Apotek;6;Jernbanegade 6;9760;01Jan1907 0:00:00,000;31Aug2013 0:00:00,000;1081;860;1081
+172-1;Vrå Apotek;7;Jernbanegade 6;9760;01Sep2013 0:00:00,000;;1081;860;1081
+362;Værløse Apotek;6;Bymidten 13;3500;01Jan1967 0:00:00,000;;1084;190;1084
+202-1;Waterfront Apotek Hellerup;7;Philip Heymans Alle 17;2900;01Mar2017 0:00:00,000;;1084;157;1084
+410;Webapoteket / Gazelle Online Apotek;6;Bavne Allé 25;8370;13Dec2016 0:00:00,000;;1082;710;1082
+033;Ærøskøbing;6;Vestergade 46, Ærøskøbing;;19-12-1806 00:00;31Mar1995 0:00:00,000;;;
+315-A1;Ærøskøbing Apoteksudsalg;8;Vestergade 34;5970;01.01.1996;31May2016 0:00:00,000;1083;492;1083
+368-1;Ølby Apotek;7;Ølby Center 25;4600;01.01.1992;;1085;259;1085
+098-1;Ølgod Apotek;7;Torvet 4;6870;01Oct2010 0:00:00,000;;1083;573;1083
+209;Ølgod Apotek;6;Torvet 4;6870;01Jan1903 0:00:00,000;27Oct2010 0:00:00,000;1083;573;1083
+369-1;Ølstykke Apotek;7;Rådhus Alle 9;3650;01Nov2019 0:00:00,000;;1084;240;1084
+369-A1;Ølstykke Apoteksudsalg;8;Rådhus Allé 9;3650;01Jun2004 0:00:00,000;01Nov2019 0:00:00,000;1084;240;1084
+152-1;Ørbæk Apotek;7;Nyborgvej 2;5853;04.04.2011;;1083;450;1083
+103;Ørsted Apotek;13;Rougsøvej 89;8950;01-01-1857 00:00;31Jan2010 0:00:00,000;1082;707;1082
+157;Østbirk;6;Storegade 28, Gedved;;31-07-1882 00:00;31Jan1978 0:00:00,000;;;
+314-1;Øster Jølby Apotek;7;Doktor Lunds Vej 4;7950;01.11.2007;;1081;773;1081
+018-A1;Østerbro Apoteksudsalg;8;Vendsysselvej 5 B;4800;01Apr2008 0:00:00,000;13Nov2015 0:00:00,000;1085;376;1085
+017-5;Østerparkens Apotek;7;Taastrup Hovedgade 87;2630;02Jun2020 0:00:00,000;;1084;169;
+069-1;Østervrå Apotek;7;Industrivej 10;9750;01Aug2005 0:00:00,000;;1081;813;1081
+244;Østervrå Apotek;6;Hjørringvej 447;9750;01Jan1913 0:00:00,000;01Aug2005 0:00:00,000;1081;813;
+288;Aabenraa Løve Apotek;6;Madevej 9;6200;01-01-1753 00:00;;1083;580;1083
+287;Aabenraa Svane Apotek;6;Opnørplads 1-3;6200;01-01-1851 00:00;;1083;580;1083
+105;Aabybro Apotek;6;Østergade 36;9440;07.05.2008;;1081;849;1081
+082-A1;Aakirkeby Apoteksudsalg;8;Eskildsgade 7;3720;01Jan1900 0:00:00,000;;1084;400;1084
+256;Aalborg Boulevard;6;Boulevarden 19;9000;10Dec1915 0:00:00,000;30May1999 0:00:00,000;80;;
+181;Aalborg Budolfi Apotek;6;Algade 60;9000;01Jan1900 0:00:00,000;;1081;851;1081
+063;Aalborg Løve Apotek;6;Nytorv 3;9000;01-01-1813 00:00;;1081;851;1081
+092;Aalborg Nørresundby Apotek;6;Torvet 3A;9400;01-01-1844 00:00;;1081;851;1081
+255;Aalborg Reberbane Apotek;6;Reberbansgade 25;9000;01Jan1920 0:00:00,000;;1081;851;1081
+361-1;Aalborg Storcenter Apotek;7;Hobrovej 452;9200;01Sep2015 0:00:00,000;;1081;851;1081
+361-A1;Aalborg Storcenter Apoteksudsalg;8;Hobrovej 452;9200;01Jan1900 0:00:00,000;01Sep2015 0:00:00,000;1081;851;1081
+010;Aalborg Svane Apotek;6;Østerågade 9;9000;01-01-1753 00:00;31Dec2013 0:00:00,000;1081;851;1081
+306;Aalborg Vejgaard Apotek;6;Hadsundvej 33 B;9000;01Jan1922 0:00:00,000;;1081;851;1081
+306-1;Aalborg Ø Fyrkilden Apoteksfilial;7;Fyrkildevej 7, stuen;9220;01Jul2015 0:00:00,000;;1081;851;1081
+211;Aalborg Østerbro;6;Østerbro 2. Ålborg;;01Aug1903 0:00:00,000;31Aug1977 0:00:00,000;;;
+361;Aalborg Aalborghus Apotek;6;Grønlands Torv 10;9210;01Jan1966 0:00:00,000;;1081;851;1081
+418;Ålbæk Apoteksudsalg;8;Centralvej 2 C;9982;01.01.2000;31.03.2015;1081;813;1081
+212-A1;Ålbæk Apoteksudsalg;8;Centralvej 2 C;9982;18.05.2015;;1081;813;1081
+259-1;Aalestrup Apotek;7;Jernbanegade 6;9620;01Jun2016 0:00:00,000;;1081;820;1081
+260;Aalestrup Apotek;13;Borgergade 5;9620;01Jan1905 0:00:00,000;01Jun2016 0:00:00,000;1081;820;1081
+364-1;Ålsgårde Apotek;7;Ålsgårdecentret;3140;01Jul2015 0:00:00,000;;1084;217;1084
+364-A3;Ålsgårde Apoteksudsalg;8;Ålsgårdecentret;3140;01Jan1900 0:00:00,000;01Jul2015 0:00:00,000;1084;217;1084
+326-4;Aarhus Ceres Apotek;7;Ceres Allé 12;8000;22Jan2019 0:00:00,000;;1082;751;1082
+366;Aarhus City Vest Apotek;6;Gudrunsvej 7 st. 129;8220;01Jan1998 0:00:00,000;;1082;751;1082
+132;Aarhus Jernbane Apotek;6;Banegårdspladsen 8;8000;01-01-1878 00:00;;1082;751;1082
+006;Aarhus Løve Apotek;6;Store Torv 5;8000;01-01-1753 00:00;;1082;751;1082
+006-1;Aarhus Magasin Apotek;7;Immervad 2-8;8000;02Sep2019 0:00:00,000;;1082;751;1082
+241;Aarhus Marselisborg Apotek;6;Rundhøj Torv 3;8270;01Jan1913 0:00:00,000;;1082;751;1082
+284;Århus Munke Apotek;6;Nørre Alle 35, 8000 Århus C;;21Feb1920 0:00:00,000;31Dec1997 0:00:00,000;;;
+347;Aarhus Sct. Lukas Apotek;6;Frederiks Allé 178;8000;01Jan1939 0:00:00,000;;1082;751;1082
+179;Aarhus Sct. Pauls Apotek;6;Jægergårdsgade 76;8000;01-01-1899 00:00;01Jul2011 0:00:00,000;1082;751;1082
+352;Aarhus Stjerne Apotek;6;Funch Thomsens Gade 3;8200;01Jan1953 0:00:00,000;;1082;751;1082
+040;Aarhus Svane Apotek;6;Vestergade 4;8000;01-01-1753 00:00;01Aug2005 0:00:00,000;70;751;
+240;Århus Søndergades;6;Søndergade 40-42, Århus;;05Jun1913 0:00:00,000;31Jan1972 0:00:00,000;;;
+317;Aarhus Trøjborg Apotek;13;Tordenskjoldsgade 30;8200;01Jan1924 0:00:00,000;;1082;751;1082
+178;Aarhus Vejlby Apotek;6;Vejlbygade 16 A;8240;01-01-1899 00:00;;1082;751;1082
+331;Aarhus Viby Apotek;6;Viby Ringvej 10, ST. 26;8260;01Jan1933 0:00:00,000;;1082;751;1082
+337;Aarhus Åbyhøj Apotek;6;Haslevej 17;8230;01Jan1936 0:00:00,000;;1082;751;1082
+259;Aars Apotek;6;Søndergade 34;9600;01Jan1905 0:00:00,000;;1081;820;1081
+106;Aarup Apotek;6;Bredgade 25;5560;01-01-1859 00:00;31Dec2008 0:00:00,000;1083;420;1083
+189-1;Aarup Apotek;7;Bredgade 60;5560;01Jan2009 0:00:00,000;;1083;420;1083
